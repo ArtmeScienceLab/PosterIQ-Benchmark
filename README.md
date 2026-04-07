@@ -1,8 +1,8 @@
 # PosterIQ-Benchmark
 [CVPR2026] PosterIQ: A Design Perspective Benchmark for Poster Understanding and Generation  
 [arXiv] https://arxiv.org/abs/2603.24078  
-[HuggingFace] https://huggingface.co/datasets/ArtmeScienceLab/PosterIQ
-
+[HuggingFace] https://huggingface.co/datasets/ArtmeScienceLab/PosterIQ  
+<small>Note: For the image data, please refer to HuggingFace.<small>
 
 ![Page 1](./assets/PosterIQ.png)  
 
