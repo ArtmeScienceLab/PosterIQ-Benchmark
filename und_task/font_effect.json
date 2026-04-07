@@ -1,0 +1,3602 @@
+[
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_1.png",
+        "path": "font_effect/fonteffect_1.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_2.png",
+        "path": "font_effect/fonteffect_2.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_3.png",
+        "path": "font_effect/fonteffect_3.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_4.png",
+        "path": "font_effect/fonteffect_4.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_5.png",
+        "path": "font_effect/fonteffect_5.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_6.png",
+        "path": "font_effect/fonteffect_6.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_7.png",
+        "path": "font_effect/fonteffect_7.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_8.png",
+        "path": "font_effect/fonteffect_8.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_9.png",
+        "path": "font_effect/fonteffect_9.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_10.png",
+        "path": "font_effect/fonteffect_10.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_11.png",
+        "path": "font_effect/fonteffect_11.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_12.png",
+        "path": "font_effect/fonteffect_12.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_13.png",
+        "path": "font_effect/fonteffect_13.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_14.png",
+        "path": "font_effect/fonteffect_14.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_15.png",
+        "path": "font_effect/fonteffect_15.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_16.png",
+        "path": "font_effect/fonteffect_16.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_17.png",
+        "path": "font_effect/fonteffect_17.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_18.png",
+        "path": "font_effect/fonteffect_18.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_19.png",
+        "path": "font_effect/fonteffect_19.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_20.png",
+        "path": "font_effect/fonteffect_20.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_21.png",
+        "path": "font_effect/fonteffect_21.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_22.png",
+        "path": "font_effect/fonteffect_22.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_23.png",
+        "path": "font_effect/fonteffect_23.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_24.png",
+        "path": "font_effect/fonteffect_24.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_25.png",
+        "path": "font_effect/fonteffect_25.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_26.png",
+        "path": "font_effect/fonteffect_26.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_27.png",
+        "path": "font_effect/fonteffect_27.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_28.png",
+        "path": "font_effect/fonteffect_28.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_29.png",
+        "path": "font_effect/fonteffect_29.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_30.png",
+        "path": "font_effect/fonteffect_30.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_31.png",
+        "path": "font_effect/fonteffect_31.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_32.png",
+        "path": "font_effect/fonteffect_32.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_33.png",
+        "path": "font_effect/fonteffect_33.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_34.png",
+        "path": "font_effect/fonteffect_34.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_35.png",
+        "path": "font_effect/fonteffect_35.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_36.png",
+        "path": "font_effect/fonteffect_36.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_37.png",
+        "path": "font_effect/fonteffect_37.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_38.png",
+        "path": "font_effect/fonteffect_38.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_39.png",
+        "path": "font_effect/fonteffect_39.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_40.png",
+        "path": "font_effect/fonteffect_40.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_41.png",
+        "path": "font_effect/fonteffect_41.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_42.png",
+        "path": "font_effect/fonteffect_42.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_43.png",
+        "path": "font_effect/fonteffect_43.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_44.png",
+        "path": "font_effect/fonteffect_44.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_45.png",
+        "path": "font_effect/fonteffect_45.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_46.png",
+        "path": "font_effect/fonteffect_46.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_47.png",
+        "path": "font_effect/fonteffect_47.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_48.png",
+        "path": "font_effect/fonteffect_48.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_49.png",
+        "path": "font_effect/fonteffect_49.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_50.png",
+        "path": "font_effect/fonteffect_50.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_51.png",
+        "path": "font_effect/fonteffect_51.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_52.png",
+        "path": "font_effect/fonteffect_52.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_53.png",
+        "path": "font_effect/fonteffect_53.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_54.png",
+        "path": "font_effect/fonteffect_54.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_55.png",
+        "path": "font_effect/fonteffect_55.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_56.png",
+        "path": "font_effect/fonteffect_56.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_57.png",
+        "path": "font_effect/fonteffect_57.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_58.png",
+        "path": "font_effect/fonteffect_58.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_59.png",
+        "path": "font_effect/fonteffect_59.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_60.png",
+        "path": "font_effect/fonteffect_60.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_61.png",
+        "path": "font_effect/fonteffect_61.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_62.png",
+        "path": "font_effect/fonteffect_62.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_63.png",
+        "path": "font_effect/fonteffect_63.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_64.png",
+        "path": "font_effect/fonteffect_64.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_65.png",
+        "path": "font_effect/fonteffect_65.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_66.png",
+        "path": "font_effect/fonteffect_66.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_67.png",
+        "path": "font_effect/fonteffect_67.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_68.png",
+        "path": "font_effect/fonteffect_68.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_69.png",
+        "path": "font_effect/fonteffect_69.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_70.png",
+        "path": "font_effect/fonteffect_70.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_71.png",
+        "path": "font_effect/fonteffect_71.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_72.png",
+        "path": "font_effect/fonteffect_72.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_73.png",
+        "path": "font_effect/fonteffect_73.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_74.png",
+        "path": "font_effect/fonteffect_74.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_75.png",
+        "path": "font_effect/fonteffect_75.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_76.png",
+        "path": "font_effect/fonteffect_76.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_77.png",
+        "path": "font_effect/fonteffect_77.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_78.png",
+        "path": "font_effect/fonteffect_78.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_79.png",
+        "path": "font_effect/fonteffect_79.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_80.png",
+        "path": "font_effect/fonteffect_80.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_81.png",
+        "path": "font_effect/fonteffect_81.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_82.png",
+        "path": "font_effect/fonteffect_82.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_83.png",
+        "path": "font_effect/fonteffect_83.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_84.png",
+        "path": "font_effect/fonteffect_84.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_85.png",
+        "path": "font_effect/fonteffect_85.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_86.png",
+        "path": "font_effect/fonteffect_86.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_87.png",
+        "path": "font_effect/fonteffect_87.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_88.png",
+        "path": "font_effect/fonteffect_88.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_89.png",
+        "path": "font_effect/fonteffect_89.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_90.png",
+        "path": "font_effect/fonteffect_90.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_91.png",
+        "path": "font_effect/fonteffect_91.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_92.png",
+        "path": "font_effect/fonteffect_92.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_93.png",
+        "path": "font_effect/fonteffect_93.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_94.png",
+        "path": "font_effect/fonteffect_94.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_95.png",
+        "path": "font_effect/fonteffect_95.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_96.png",
+        "path": "font_effect/fonteffect_96.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_97.png",
+        "path": "font_effect/fonteffect_97.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_98.png",
+        "path": "font_effect/fonteffect_98.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_99.png",
+        "path": "font_effect/fonteffect_99.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_100.png",
+        "path": "font_effect/fonteffect_100.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_101.png",
+        "path": "font_effect/fonteffect_101.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_102.png",
+        "path": "font_effect/fonteffect_102.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_103.png",
+        "path": "font_effect/fonteffect_103.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_104.png",
+        "path": "font_effect/fonteffect_104.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_105.png",
+        "path": "font_effect/fonteffect_105.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_106.png",
+        "path": "font_effect/fonteffect_106.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_107.png",
+        "path": "font_effect/fonteffect_107.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_108.png",
+        "path": "font_effect/fonteffect_108.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_109.png",
+        "path": "font_effect/fonteffect_109.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_110.png",
+        "path": "font_effect/fonteffect_110.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_111.png",
+        "path": "font_effect/fonteffect_111.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_112.png",
+        "path": "font_effect/fonteffect_112.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_113.png",
+        "path": "font_effect/fonteffect_113.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_114.png",
+        "path": "font_effect/fonteffect_114.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_115.png",
+        "path": "font_effect/fonteffect_115.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_116.png",
+        "path": "font_effect/fonteffect_116.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_117.png",
+        "path": "font_effect/fonteffect_117.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_118.png",
+        "path": "font_effect/fonteffect_118.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_119.png",
+        "path": "font_effect/fonteffect_119.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_120.png",
+        "path": "font_effect/fonteffect_120.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_121.png",
+        "path": "font_effect/fonteffect_121.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_122.png",
+        "path": "font_effect/fonteffect_122.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_123.png",
+        "path": "font_effect/fonteffect_123.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_124.png",
+        "path": "font_effect/fonteffect_124.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_125.png",
+        "path": "font_effect/fonteffect_125.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_126.png",
+        "path": "font_effect/fonteffect_126.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_127.png",
+        "path": "font_effect/fonteffect_127.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_128.png",
+        "path": "font_effect/fonteffect_128.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_129.png",
+        "path": "font_effect/fonteffect_129.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_130.png",
+        "path": "font_effect/fonteffect_130.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_131.png",
+        "path": "font_effect/fonteffect_131.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_132.png",
+        "path": "font_effect/fonteffect_132.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_133.png",
+        "path": "font_effect/fonteffect_133.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_134.png",
+        "path": "font_effect/fonteffect_134.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_135.png",
+        "path": "font_effect/fonteffect_135.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_136.png",
+        "path": "font_effect/fonteffect_136.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_137.png",
+        "path": "font_effect/fonteffect_137.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_138.png",
+        "path": "font_effect/fonteffect_138.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_139.png",
+        "path": "font_effect/fonteffect_139.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_140.png",
+        "path": "font_effect/fonteffect_140.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_141.png",
+        "path": "font_effect/fonteffect_141.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_142.png",
+        "path": "font_effect/fonteffect_142.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_143.png",
+        "path": "font_effect/fonteffect_143.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_144.png",
+        "path": "font_effect/fonteffect_144.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_145.png",
+        "path": "font_effect/fonteffect_145.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_146.png",
+        "path": "font_effect/fonteffect_146.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_147.png",
+        "path": "font_effect/fonteffect_147.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_148.png",
+        "path": "font_effect/fonteffect_148.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_149.png",
+        "path": "font_effect/fonteffect_149.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_150.png",
+        "path": "font_effect/fonteffect_150.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_151.png",
+        "path": "font_effect/fonteffect_151.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_152.png",
+        "path": "font_effect/fonteffect_152.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_153.png",
+        "path": "font_effect/fonteffect_153.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_154.png",
+        "path": "font_effect/fonteffect_154.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_155.png",
+        "path": "font_effect/fonteffect_155.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_156.png",
+        "path": "font_effect/fonteffect_156.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_157.png",
+        "path": "font_effect/fonteffect_157.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_158.png",
+        "path": "font_effect/fonteffect_158.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_159.png",
+        "path": "font_effect/fonteffect_159.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_160.png",
+        "path": "font_effect/fonteffect_160.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_161.png",
+        "path": "font_effect/fonteffect_161.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_162.png",
+        "path": "font_effect/fonteffect_162.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_163.png",
+        "path": "font_effect/fonteffect_163.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_164.png",
+        "path": "font_effect/fonteffect_164.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_165.png",
+        "path": "font_effect/fonteffect_165.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_166.png",
+        "path": "font_effect/fonteffect_166.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_167.png",
+        "path": "font_effect/fonteffect_167.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_168.png",
+        "path": "font_effect/fonteffect_168.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_169.png",
+        "path": "font_effect/fonteffect_169.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_170.png",
+        "path": "font_effect/fonteffect_170.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_171.png",
+        "path": "font_effect/fonteffect_171.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_172.png",
+        "path": "font_effect/fonteffect_172.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_173.png",
+        "path": "font_effect/fonteffect_173.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_174.png",
+        "path": "font_effect/fonteffect_174.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_175.png",
+        "path": "font_effect/fonteffect_175.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_176.png",
+        "path": "font_effect/fonteffect_176.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_177.png",
+        "path": "font_effect/fonteffect_177.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_178.png",
+        "path": "font_effect/fonteffect_178.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_179.png",
+        "path": "font_effect/fonteffect_179.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_180.png",
+        "path": "font_effect/fonteffect_180.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_181.png",
+        "path": "font_effect/fonteffect_181.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_182.png",
+        "path": "font_effect/fonteffect_182.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_183.png",
+        "path": "font_effect/fonteffect_183.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_184.png",
+        "path": "font_effect/fonteffect_184.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_185.png",
+        "path": "font_effect/fonteffect_185.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_186.png",
+        "path": "font_effect/fonteffect_186.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_187.png",
+        "path": "font_effect/fonteffect_187.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_188.png",
+        "path": "font_effect/fonteffect_188.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_189.png",
+        "path": "font_effect/fonteffect_189.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_190.png",
+        "path": "font_effect/fonteffect_190.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_191.png",
+        "path": "font_effect/fonteffect_191.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_192.png",
+        "path": "font_effect/fonteffect_192.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_193.png",
+        "path": "font_effect/fonteffect_193.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_194.png",
+        "path": "font_effect/fonteffect_194.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_195.png",
+        "path": "font_effect/fonteffect_195.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_196.png",
+        "path": "font_effect/fonteffect_196.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_197.png",
+        "path": "font_effect/fonteffect_197.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_198.png",
+        "path": "font_effect/fonteffect_198.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_199.png",
+        "path": "font_effect/fonteffect_199.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_200.png",
+        "path": "font_effect/fonteffect_200.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_201.png",
+        "path": "font_effect/fonteffect_201.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_202.png",
+        "path": "font_effect/fonteffect_202.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_203.png",
+        "path": "font_effect/fonteffect_203.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_204.png",
+        "path": "font_effect/fonteffect_204.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_205.png",
+        "path": "font_effect/fonteffect_205.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_206.png",
+        "path": "font_effect/fonteffect_206.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_207.png",
+        "path": "font_effect/fonteffect_207.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_208.png",
+        "path": "font_effect/fonteffect_208.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_209.png",
+        "path": "font_effect/fonteffect_209.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_210.png",
+        "path": "font_effect/fonteffect_210.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_211.png",
+        "path": "font_effect/fonteffect_211.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_212.png",
+        "path": "font_effect/fonteffect_212.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_213.png",
+        "path": "font_effect/fonteffect_213.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_214.png",
+        "path": "font_effect/fonteffect_214.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_215.png",
+        "path": "font_effect/fonteffect_215.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_216.png",
+        "path": "font_effect/fonteffect_216.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_217.png",
+        "path": "font_effect/fonteffect_217.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_218.png",
+        "path": "font_effect/fonteffect_218.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_219.png",
+        "path": "font_effect/fonteffect_219.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_220.png",
+        "path": "font_effect/fonteffect_220.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_221.png",
+        "path": "font_effect/fonteffect_221.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_222.png",
+        "path": "font_effect/fonteffect_222.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_223.png",
+        "path": "font_effect/fonteffect_223.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_224.png",
+        "path": "font_effect/fonteffect_224.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_225.png",
+        "path": "font_effect/fonteffect_225.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_226.png",
+        "path": "font_effect/fonteffect_226.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_227.png",
+        "path": "font_effect/fonteffect_227.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_228.png",
+        "path": "font_effect/fonteffect_228.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_229.png",
+        "path": "font_effect/fonteffect_229.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_230.png",
+        "path": "font_effect/fonteffect_230.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_231.png",
+        "path": "font_effect/fonteffect_231.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_232.png",
+        "path": "font_effect/fonteffect_232.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_233.png",
+        "path": "font_effect/fonteffect_233.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_234.png",
+        "path": "font_effect/fonteffect_234.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_235.png",
+        "path": "font_effect/fonteffect_235.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_236.png",
+        "path": "font_effect/fonteffect_236.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_237.png",
+        "path": "font_effect/fonteffect_237.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_238.png",
+        "path": "font_effect/fonteffect_238.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_239.png",
+        "path": "font_effect/fonteffect_239.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_240.png",
+        "path": "font_effect/fonteffect_240.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_241.png",
+        "path": "font_effect/fonteffect_241.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_242.png",
+        "path": "font_effect/fonteffect_242.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_243.png",
+        "path": "font_effect/fonteffect_243.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_244.png",
+        "path": "font_effect/fonteffect_244.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_245.png",
+        "path": "font_effect/fonteffect_245.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_246.png",
+        "path": "font_effect/fonteffect_246.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_247.png",
+        "path": "font_effect/fonteffect_247.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_248.png",
+        "path": "font_effect/fonteffect_248.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_249.png",
+        "path": "font_effect/fonteffect_249.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_250.png",
+        "path": "font_effect/fonteffect_250.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_251.png",
+        "path": "font_effect/fonteffect_251.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_252.png",
+        "path": "font_effect/fonteffect_252.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_253.png",
+        "path": "font_effect/fonteffect_253.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_254.png",
+        "path": "font_effect/fonteffect_254.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_255.png",
+        "path": "font_effect/fonteffect_255.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_256.png",
+        "path": "font_effect/fonteffect_256.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_257.png",
+        "path": "font_effect/fonteffect_257.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_258.png",
+        "path": "font_effect/fonteffect_258.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_259.png",
+        "path": "font_effect/fonteffect_259.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_260.png",
+        "path": "font_effect/fonteffect_260.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_261.png",
+        "path": "font_effect/fonteffect_261.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_262.png",
+        "path": "font_effect/fonteffect_262.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_263.png",
+        "path": "font_effect/fonteffect_263.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_264.png",
+        "path": "font_effect/fonteffect_264.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_265.png",
+        "path": "font_effect/fonteffect_265.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_266.png",
+        "path": "font_effect/fonteffect_266.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_267.png",
+        "path": "font_effect/fonteffect_267.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_268.png",
+        "path": "font_effect/fonteffect_268.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_269.png",
+        "path": "font_effect/fonteffect_269.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_270.png",
+        "path": "font_effect/fonteffect_270.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_271.png",
+        "path": "font_effect/fonteffect_271.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_272.png",
+        "path": "font_effect/fonteffect_272.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_273.png",
+        "path": "font_effect/fonteffect_273.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_274.png",
+        "path": "font_effect/fonteffect_274.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_275.png",
+        "path": "font_effect/fonteffect_275.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_276.png",
+        "path": "font_effect/fonteffect_276.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_277.png",
+        "path": "font_effect/fonteffect_277.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_278.png",
+        "path": "font_effect/fonteffect_278.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_279.png",
+        "path": "font_effect/fonteffect_279.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_280.png",
+        "path": "font_effect/fonteffect_280.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_281.png",
+        "path": "font_effect/fonteffect_281.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_282.png",
+        "path": "font_effect/fonteffect_282.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_283.png",
+        "path": "font_effect/fonteffect_283.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_284.png",
+        "path": "font_effect/fonteffect_284.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_285.png",
+        "path": "font_effect/fonteffect_285.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_286.png",
+        "path": "font_effect/fonteffect_286.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_287.png",
+        "path": "font_effect/fonteffect_287.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_288.png",
+        "path": "font_effect/fonteffect_288.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_289.png",
+        "path": "font_effect/fonteffect_289.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_290.png",
+        "path": "font_effect/fonteffect_290.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_291.png",
+        "path": "font_effect/fonteffect_291.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_292.png",
+        "path": "font_effect/fonteffect_292.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_293.png",
+        "path": "font_effect/fonteffect_293.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_294.png",
+        "path": "font_effect/fonteffect_294.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_295.png",
+        "path": "font_effect/fonteffect_295.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_296.png",
+        "path": "font_effect/fonteffect_296.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_297.png",
+        "path": "font_effect/fonteffect_297.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_298.png",
+        "path": "font_effect/fonteffect_298.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_299.png",
+        "path": "font_effect/fonteffect_299.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_300.png",
+        "path": "font_effect/fonteffect_300.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_301.png",
+        "path": "font_effect/fonteffect_301.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_302.png",
+        "path": "font_effect/fonteffect_302.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_303.png",
+        "path": "font_effect/fonteffect_303.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_304.png",
+        "path": "font_effect/fonteffect_304.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_305.png",
+        "path": "font_effect/fonteffect_305.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_306.png",
+        "path": "font_effect/fonteffect_306.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_307.png",
+        "path": "font_effect/fonteffect_307.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_308.png",
+        "path": "font_effect/fonteffect_308.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_309.png",
+        "path": "font_effect/fonteffect_309.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_310.png",
+        "path": "font_effect/fonteffect_310.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_311.png",
+        "path": "font_effect/fonteffect_311.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_312.png",
+        "path": "font_effect/fonteffect_312.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_313.png",
+        "path": "font_effect/fonteffect_313.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_314.png",
+        "path": "font_effect/fonteffect_314.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_315.png",
+        "path": "font_effect/fonteffect_315.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_316.png",
+        "path": "font_effect/fonteffect_316.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_317.png",
+        "path": "font_effect/fonteffect_317.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_318.png",
+        "path": "font_effect/fonteffect_318.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_319.png",
+        "path": "font_effect/fonteffect_319.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_320.png",
+        "path": "font_effect/fonteffect_320.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_321.png",
+        "path": "font_effect/fonteffect_321.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_322.png",
+        "path": "font_effect/fonteffect_322.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_323.png",
+        "path": "font_effect/fonteffect_323.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_324.png",
+        "path": "font_effect/fonteffect_324.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_325.png",
+        "path": "font_effect/fonteffect_325.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_326.png",
+        "path": "font_effect/fonteffect_326.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_327.png",
+        "path": "font_effect/fonteffect_327.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_328.png",
+        "path": "font_effect/fonteffect_328.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_329.png",
+        "path": "font_effect/fonteffect_329.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_330.png",
+        "path": "font_effect/fonteffect_330.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_331.png",
+        "path": "font_effect/fonteffect_331.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_332.png",
+        "path": "font_effect/fonteffect_332.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_333.png",
+        "path": "font_effect/fonteffect_333.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_334.png",
+        "path": "font_effect/fonteffect_334.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_335.png",
+        "path": "font_effect/fonteffect_335.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_336.png",
+        "path": "font_effect/fonteffect_336.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_337.png",
+        "path": "font_effect/fonteffect_337.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_338.png",
+        "path": "font_effect/fonteffect_338.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_339.png",
+        "path": "font_effect/fonteffect_339.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_340.png",
+        "path": "font_effect/fonteffect_340.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_341.png",
+        "path": "font_effect/fonteffect_341.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_342.png",
+        "path": "font_effect/fonteffect_342.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_343.png",
+        "path": "font_effect/fonteffect_343.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_344.png",
+        "path": "font_effect/fonteffect_344.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_345.png",
+        "path": "font_effect/fonteffect_345.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_346.png",
+        "path": "font_effect/fonteffect_346.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_347.png",
+        "path": "font_effect/fonteffect_347.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_348.png",
+        "path": "font_effect/fonteffect_348.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_349.png",
+        "path": "font_effect/fonteffect_349.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_350.png",
+        "path": "font_effect/fonteffect_350.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_351.png",
+        "path": "font_effect/fonteffect_351.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_352.png",
+        "path": "font_effect/fonteffect_352.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_353.png",
+        "path": "font_effect/fonteffect_353.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_354.png",
+        "path": "font_effect/fonteffect_354.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_355.png",
+        "path": "font_effect/fonteffect_355.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_356.png",
+        "path": "font_effect/fonteffect_356.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_357.png",
+        "path": "font_effect/fonteffect_357.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_358.png",
+        "path": "font_effect/fonteffect_358.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_359.png",
+        "path": "font_effect/fonteffect_359.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_360.png",
+        "path": "font_effect/fonteffect_360.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_361.png",
+        "path": "font_effect/fonteffect_361.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_362.png",
+        "path": "font_effect/fonteffect_362.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_363.png",
+        "path": "font_effect/fonteffect_363.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_364.png",
+        "path": "font_effect/fonteffect_364.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_365.png",
+        "path": "font_effect/fonteffect_365.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_366.png",
+        "path": "font_effect/fonteffect_366.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_367.png",
+        "path": "font_effect/fonteffect_367.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_368.png",
+        "path": "font_effect/fonteffect_368.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_369.png",
+        "path": "font_effect/fonteffect_369.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "shadow",
+        "name": "fonteffect_370.png",
+        "path": "font_effect/fonteffect_370.png",
+        "prompt": "Please select the option with a shadow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_371.png",
+        "path": "font_effect/fonteffect_371.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_372.png",
+        "path": "font_effect/fonteffect_372.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_373.png",
+        "path": "font_effect/fonteffect_373.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_374.png",
+        "path": "font_effect/fonteffect_374.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_375.png",
+        "path": "font_effect/fonteffect_375.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_376.png",
+        "path": "font_effect/fonteffect_376.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_377.png",
+        "path": "font_effect/fonteffect_377.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_378.png",
+        "path": "font_effect/fonteffect_378.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_379.png",
+        "path": "font_effect/fonteffect_379.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "glow",
+        "name": "fonteffect_380.png",
+        "path": "font_effect/fonteffect_380.png",
+        "prompt": "Please select the option with a glow font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_381.png",
+        "path": "font_effect/fonteffect_381.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_382.png",
+        "path": "font_effect/fonteffect_382.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_383.png",
+        "path": "font_effect/fonteffect_383.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_384.png",
+        "path": "font_effect/fonteffect_384.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_385.png",
+        "path": "font_effect/fonteffect_385.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_386.png",
+        "path": "font_effect/fonteffect_386.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_387.png",
+        "path": "font_effect/fonteffect_387.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_388.png",
+        "path": "font_effect/fonteffect_388.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_389.png",
+        "path": "font_effect/fonteffect_389.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "gradient_fill",
+        "name": "fonteffect_390.png",
+        "path": "font_effect/fonteffect_390.png",
+        "prompt": "Please select the option with a gradient_fill font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_391.png",
+        "path": "font_effect/fonteffect_391.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_392.png",
+        "path": "font_effect/fonteffect_392.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_393.png",
+        "path": "font_effect/fonteffect_393.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_394.png",
+        "path": "font_effect/fonteffect_394.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_395.png",
+        "path": "font_effect/fonteffect_395.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_396.png",
+        "path": "font_effect/fonteffect_396.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_397.png",
+        "path": "font_effect/fonteffect_397.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_398.png",
+        "path": "font_effect/fonteffect_398.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_399.png",
+        "path": "font_effect/fonteffect_399.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "reflection",
+        "name": "fonteffect_400.png",
+        "path": "font_effect/fonteffect_400.png",
+        "prompt": "Please select the option with a reflection font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_401.png",
+        "path": "font_effect/fonteffect_401.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_402.png",
+        "path": "font_effect/fonteffect_402.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_403.png",
+        "path": "font_effect/fonteffect_403.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_404.png",
+        "path": "font_effect/fonteffect_404.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_405.png",
+        "path": "font_effect/fonteffect_405.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_406.png",
+        "path": "font_effect/fonteffect_406.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_407.png",
+        "path": "font_effect/fonteffect_407.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_408.png",
+        "path": "font_effect/fonteffect_408.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_409.png",
+        "path": "font_effect/fonteffect_409.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "outline",
+        "name": "fonteffect_410.png",
+        "path": "font_effect/fonteffect_410.png",
+        "prompt": "Please select the option with a outline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_411.png",
+        "path": "font_effect/fonteffect_411.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_412.png",
+        "path": "font_effect/fonteffect_412.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_413.png",
+        "path": "font_effect/fonteffect_413.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_414.png",
+        "path": "font_effect/fonteffect_414.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_415.png",
+        "path": "font_effect/fonteffect_415.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_416.png",
+        "path": "font_effect/fonteffect_416.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_417.png",
+        "path": "font_effect/fonteffect_417.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_418.png",
+        "path": "font_effect/fonteffect_418.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_419.png",
+        "path": "font_effect/fonteffect_419.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "highlight",
+        "name": "fonteffect_420.png",
+        "path": "font_effect/fonteffect_420.png",
+        "prompt": "Please select the option with a highlight font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_421.png",
+        "path": "font_effect/fonteffect_421.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_422.png",
+        "path": "font_effect/fonteffect_422.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_423.png",
+        "path": "font_effect/fonteffect_423.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_424.png",
+        "path": "font_effect/fonteffect_424.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_425.png",
+        "path": "font_effect/fonteffect_425.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_426.png",
+        "path": "font_effect/fonteffect_426.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_427.png",
+        "path": "font_effect/fonteffect_427.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_428.png",
+        "path": "font_effect/fonteffect_428.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_429.png",
+        "path": "font_effect/fonteffect_429.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "underline",
+        "name": "fonteffect_430.png",
+        "path": "font_effect/fonteffect_430.png",
+        "prompt": "Please select the option with a underline font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_431.png",
+        "path": "font_effect/fonteffect_431.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_432.png",
+        "path": "font_effect/fonteffect_432.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_433.png",
+        "path": "font_effect/fonteffect_433.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_434.png",
+        "path": "font_effect/fonteffect_434.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_435.png",
+        "path": "font_effect/fonteffect_435.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_436.png",
+        "path": "font_effect/fonteffect_436.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_437.png",
+        "path": "font_effect/fonteffect_437.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_438.png",
+        "path": "font_effect/fonteffect_438.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_439.png",
+        "path": "font_effect/fonteffect_439.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "bold",
+        "name": "fonteffect_440.png",
+        "path": "font_effect/fonteffect_440.png",
+        "prompt": "Please select the option with a bold font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_441.png",
+        "path": "font_effect/fonteffect_441.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_442.png",
+        "path": "font_effect/fonteffect_442.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_443.png",
+        "path": "font_effect/fonteffect_443.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_444.png",
+        "path": "font_effect/fonteffect_444.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_445.png",
+        "path": "font_effect/fonteffect_445.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_446.png",
+        "path": "font_effect/fonteffect_446.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_447.png",
+        "path": "font_effect/fonteffect_447.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "C"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_448.png",
+        "path": "font_effect/fonteffect_448.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "D"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_449.png",
+        "path": "font_effect/fonteffect_449.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "A"
+    },
+    {
+        "task": "font effect",
+        "subtask": "italic",
+        "name": "fonteffect_450.png",
+        "path": "font_effect/fonteffect_450.png",
+        "prompt": "Please select the option with a italic font effect from the choices (A-D). Reply only with the letter, no additional output.",
+        "gt": "B"
+    }
+]

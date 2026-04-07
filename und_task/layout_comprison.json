@@ -1,0 +1,2050 @@
+[
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "000.png",
+        "path": "layout_comparison/000.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "001.png",
+        "path": "layout_comparison/001.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "002.png",
+        "path": "layout_comparison/002.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "003.png",
+        "path": "layout_comparison/003.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "004.png",
+        "path": "layout_comparison/004.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "005.png",
+        "path": "layout_comparison/005.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "007.png",
+        "path": "layout_comparison/007.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "008.png",
+        "path": "layout_comparison/008.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "009.png",
+        "path": "layout_comparison/009.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "010.png",
+        "path": "layout_comparison/010.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "011.png",
+        "path": "layout_comparison/011.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "012.png",
+        "path": "layout_comparison/012.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "013.png",
+        "path": "layout_comparison/013.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "014.png",
+        "path": "layout_comparison/014.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "016.png",
+        "path": "layout_comparison/016.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "018.png",
+        "path": "layout_comparison/018.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "019.png",
+        "path": "layout_comparison/019.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "021.png",
+        "path": "layout_comparison/021.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "022.png",
+        "path": "layout_comparison/022.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "026.png",
+        "path": "layout_comparison/026.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "027.png",
+        "path": "layout_comparison/027.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "028.png",
+        "path": "layout_comparison/028.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "030.png",
+        "path": "layout_comparison/030.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "033.png",
+        "path": "layout_comparison/033.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "034.png",
+        "path": "layout_comparison/034.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "035.png",
+        "path": "layout_comparison/035.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "036.png",
+        "path": "layout_comparison/036.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "037.png",
+        "path": "layout_comparison/037.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "038.png",
+        "path": "layout_comparison/038.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "039.png",
+        "path": "layout_comparison/039.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "040.png",
+        "path": "layout_comparison/040.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "041.png",
+        "path": "layout_comparison/041.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "042.png",
+        "path": "layout_comparison/042.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "043.png",
+        "path": "layout_comparison/043.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "044.png",
+        "path": "layout_comparison/044.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "045.png",
+        "path": "layout_comparison/045.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "046.png",
+        "path": "layout_comparison/046.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "048.png",
+        "path": "layout_comparison/048.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "049.png",
+        "path": "layout_comparison/049.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "050.png",
+        "path": "layout_comparison/050.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "051.png",
+        "path": "layout_comparison/051.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "052.png",
+        "path": "layout_comparison/052.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "054.png",
+        "path": "layout_comparison/054.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "056.png",
+        "path": "layout_comparison/056.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "058.png",
+        "path": "layout_comparison/058.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "060.png",
+        "path": "layout_comparison/060.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "061.png",
+        "path": "layout_comparison/061.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "062.png",
+        "path": "layout_comparison/062.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "063.png",
+        "path": "layout_comparison/063.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "064.png",
+        "path": "layout_comparison/064.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "065.png",
+        "path": "layout_comparison/065.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "066.png",
+        "path": "layout_comparison/066.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "067.png",
+        "path": "layout_comparison/067.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "072.png",
+        "path": "layout_comparison/072.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "073.png",
+        "path": "layout_comparison/073.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "075.png",
+        "path": "layout_comparison/075.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "076.png",
+        "path": "layout_comparison/076.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "077.png",
+        "path": "layout_comparison/077.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "078.png",
+        "path": "layout_comparison/078.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "079.png",
+        "path": "layout_comparison/079.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "080.png",
+        "path": "layout_comparison/080.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "081.png",
+        "path": "layout_comparison/081.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "083.png",
+        "path": "layout_comparison/083.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "084.png",
+        "path": "layout_comparison/084.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "085.png",
+        "path": "layout_comparison/085.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "089.png",
+        "path": "layout_comparison/089.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "090.png",
+        "path": "layout_comparison/090.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "091.png",
+        "path": "layout_comparison/091.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "092.png",
+        "path": "layout_comparison/092.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "093.png",
+        "path": "layout_comparison/093.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "094.png",
+        "path": "layout_comparison/094.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "095.png",
+        "path": "layout_comparison/095.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "096.png",
+        "path": "layout_comparison/096.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "097.png",
+        "path": "layout_comparison/097.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "098.png",
+        "path": "layout_comparison/098.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "099.png",
+        "path": "layout_comparison/099.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "101.png",
+        "path": "layout_comparison/101.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "102.png",
+        "path": "layout_comparison/102.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "103.png",
+        "path": "layout_comparison/103.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "104.png",
+        "path": "layout_comparison/104.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "105.png",
+        "path": "layout_comparison/105.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "106.png",
+        "path": "layout_comparison/106.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "108.png",
+        "path": "layout_comparison/108.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "109.png",
+        "path": "layout_comparison/109.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "110.png",
+        "path": "layout_comparison/110.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "111.png",
+        "path": "layout_comparison/111.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "112.png",
+        "path": "layout_comparison/112.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "113.png",
+        "path": "layout_comparison/113.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "114.png",
+        "path": "layout_comparison/114.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "115.png",
+        "path": "layout_comparison/115.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "116.png",
+        "path": "layout_comparison/116.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "117.png",
+        "path": "layout_comparison/117.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "118.png",
+        "path": "layout_comparison/118.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "119.png",
+        "path": "layout_comparison/119.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "120.png",
+        "path": "layout_comparison/120.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "121.png",
+        "path": "layout_comparison/121.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "122.png",
+        "path": "layout_comparison/122.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "124.png",
+        "path": "layout_comparison/124.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "125.png",
+        "path": "layout_comparison/125.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "126.png",
+        "path": "layout_comparison/126.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "128.png",
+        "path": "layout_comparison/128.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "130.png",
+        "path": "layout_comparison/130.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "131.png",
+        "path": "layout_comparison/131.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "132.png",
+        "path": "layout_comparison/132.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "133.png",
+        "path": "layout_comparison/133.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "134.png",
+        "path": "layout_comparison/134.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "135.png",
+        "path": "layout_comparison/135.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "136.png",
+        "path": "layout_comparison/136.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "137.png",
+        "path": "layout_comparison/137.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "138.png",
+        "path": "layout_comparison/138.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "139.png",
+        "path": "layout_comparison/139.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "140.png",
+        "path": "layout_comparison/140.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "141.png",
+        "path": "layout_comparison/141.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "142.png",
+        "path": "layout_comparison/142.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "143.png",
+        "path": "layout_comparison/143.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "144.png",
+        "path": "layout_comparison/144.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "145.png",
+        "path": "layout_comparison/145.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "146.png",
+        "path": "layout_comparison/146.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "147.png",
+        "path": "layout_comparison/147.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "148.png",
+        "path": "layout_comparison/148.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "149.png",
+        "path": "layout_comparison/149.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "B"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "150.png",
+        "path": "layout_comparison/150.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "151.png",
+        "path": "layout_comparison/151.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "152.png",
+        "path": "layout_comparison/152.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "153.png",
+        "path": "layout_comparison/153.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "155.png",
+        "path": "layout_comparison/155.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "156.png",
+        "path": "layout_comparison/156.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "157.png",
+        "path": "layout_comparison/157.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "159.png",
+        "path": "layout_comparison/159.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "160.png",
+        "path": "layout_comparison/160.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "161.png",
+        "path": "layout_comparison/161.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "162.png",
+        "path": "layout_comparison/162.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "164.png",
+        "path": "layout_comparison/164.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "166.png",
+        "path": "layout_comparison/166.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "167.png",
+        "path": "layout_comparison/167.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "168.png",
+        "path": "layout_comparison/168.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "169.png",
+        "path": "layout_comparison/169.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "170.png",
+        "path": "layout_comparison/170.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "172.png",
+        "path": "layout_comparison/172.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "173.png",
+        "path": "layout_comparison/173.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "174.png",
+        "path": "layout_comparison/174.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "175.png",
+        "path": "layout_comparison/175.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "176.png",
+        "path": "layout_comparison/176.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "177.png",
+        "path": "layout_comparison/177.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "178.png",
+        "path": "layout_comparison/178.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "179.png",
+        "path": "layout_comparison/179.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "180.png",
+        "path": "layout_comparison/180.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "181.png",
+        "path": "layout_comparison/181.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "182.png",
+        "path": "layout_comparison/182.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "183.png",
+        "path": "layout_comparison/183.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "184.png",
+        "path": "layout_comparison/184.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "185.png",
+        "path": "layout_comparison/185.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "186.png",
+        "path": "layout_comparison/186.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "187.png",
+        "path": "layout_comparison/187.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "188.png",
+        "path": "layout_comparison/188.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "189.png",
+        "path": "layout_comparison/189.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "190.png",
+        "path": "layout_comparison/190.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "191.png",
+        "path": "layout_comparison/191.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "192.png",
+        "path": "layout_comparison/192.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "194.png",
+        "path": "layout_comparison/194.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "196.png",
+        "path": "layout_comparison/196.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "197.png",
+        "path": "layout_comparison/197.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "198.png",
+        "path": "layout_comparison/198.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "199.png",
+        "path": "layout_comparison/199.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "200.png",
+        "path": "layout_comparison/200.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "201.png",
+        "path": "layout_comparison/201.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "202.png",
+        "path": "layout_comparison/202.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "204.png",
+        "path": "layout_comparison/204.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "205.png",
+        "path": "layout_comparison/205.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "206.png",
+        "path": "layout_comparison/206.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "207.png",
+        "path": "layout_comparison/207.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "208.png",
+        "path": "layout_comparison/208.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "209.png",
+        "path": "layout_comparison/209.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "210.png",
+        "path": "layout_comparison/210.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "211.png",
+        "path": "layout_comparison/211.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "212.png",
+        "path": "layout_comparison/212.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "213.png",
+        "path": "layout_comparison/213.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "214.png",
+        "path": "layout_comparison/214.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "215.png",
+        "path": "layout_comparison/215.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "216.png",
+        "path": "layout_comparison/216.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "217.png",
+        "path": "layout_comparison/217.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "218.png",
+        "path": "layout_comparison/218.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "219.png",
+        "path": "layout_comparison/219.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "220.png",
+        "path": "layout_comparison/220.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "221.png",
+        "path": "layout_comparison/221.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "222.png",
+        "path": "layout_comparison/222.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "223.png",
+        "path": "layout_comparison/223.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "224.png",
+        "path": "layout_comparison/224.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "225.png",
+        "path": "layout_comparison/225.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "226.png",
+        "path": "layout_comparison/226.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "227.png",
+        "path": "layout_comparison/227.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "228.png",
+        "path": "layout_comparison/228.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "229.png",
+        "path": "layout_comparison/229.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "230.png",
+        "path": "layout_comparison/230.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "231.png",
+        "path": "layout_comparison/231.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "232.png",
+        "path": "layout_comparison/232.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "233.png",
+        "path": "layout_comparison/233.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "234.png",
+        "path": "layout_comparison/234.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "235.png",
+        "path": "layout_comparison/235.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "236.png",
+        "path": "layout_comparison/236.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "237.png",
+        "path": "layout_comparison/237.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "238.png",
+        "path": "layout_comparison/238.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "239.png",
+        "path": "layout_comparison/239.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "240.png",
+        "path": "layout_comparison/240.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "241.png",
+        "path": "layout_comparison/241.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "242.png",
+        "path": "layout_comparison/242.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "243.png",
+        "path": "layout_comparison/243.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "244.png",
+        "path": "layout_comparison/244.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "245.png",
+        "path": "layout_comparison/245.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "246.png",
+        "path": "layout_comparison/246.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "247.png",
+        "path": "layout_comparison/247.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "248.png",
+        "path": "layout_comparison/248.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "249.png",
+        "path": "layout_comparison/249.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "250.png",
+        "path": "layout_comparison/250.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "251.png",
+        "path": "layout_comparison/251.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "253.png",
+        "path": "layout_comparison/253.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "254.png",
+        "path": "layout_comparison/254.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "255.png",
+        "path": "layout_comparison/255.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "256.png",
+        "path": "layout_comparison/256.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "257.png",
+        "path": "layout_comparison/257.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "258.png",
+        "path": "layout_comparison/258.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "259.png",
+        "path": "layout_comparison/259.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "260.png",
+        "path": "layout_comparison/260.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "261.png",
+        "path": "layout_comparison/261.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "262.png",
+        "path": "layout_comparison/262.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "263.png",
+        "path": "layout_comparison/263.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "264.png",
+        "path": "layout_comparison/264.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "265.png",
+        "path": "layout_comparison/265.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "266.png",
+        "path": "layout_comparison/266.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "267.png",
+        "path": "layout_comparison/267.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "268.png",
+        "path": "layout_comparison/268.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "269.png",
+        "path": "layout_comparison/269.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "270.png",
+        "path": "layout_comparison/270.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "271.png",
+        "path": "layout_comparison/271.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "272.png",
+        "path": "layout_comparison/272.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "273.png",
+        "path": "layout_comparison/273.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "274.png",
+        "path": "layout_comparison/274.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "275.png",
+        "path": "layout_comparison/275.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "276.png",
+        "path": "layout_comparison/276.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "277.png",
+        "path": "layout_comparison/277.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "278.png",
+        "path": "layout_comparison/278.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "279.png",
+        "path": "layout_comparison/279.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "280.png",
+        "path": "layout_comparison/280.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "281.png",
+        "path": "layout_comparison/281.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "282.png",
+        "path": "layout_comparison/282.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "283.png",
+        "path": "layout_comparison/283.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "284.png",
+        "path": "layout_comparison/284.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "287.png",
+        "path": "layout_comparison/287.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "288.png",
+        "path": "layout_comparison/288.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "289.png",
+        "path": "layout_comparison/289.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "290.png",
+        "path": "layout_comparison/290.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "291.png",
+        "path": "layout_comparison/291.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "292.png",
+        "path": "layout_comparison/292.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "293.png",
+        "path": "layout_comparison/293.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "294.png",
+        "path": "layout_comparison/294.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    },
+    {
+        "task": "layout comparison",
+        "subtask": "",
+        "name": "295.png",
+        "path": "layout_comparison/295.png",
+        "prompt": "Which poster image, A or B, has a more visually appealing layout? Please output A or B directly",
+        "gt": "A"
+    }
+]

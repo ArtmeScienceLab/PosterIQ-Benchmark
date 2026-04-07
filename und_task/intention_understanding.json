@@ -1,0 +1,2528 @@
+[
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000001.jpg",
+        "path": "intention_understanding/000001.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an advertisement poster for Volkswagen.",
+            "The use of a seatbelt symbolizes protection and reliability, and the design indicates safety as a prominent characteristic of the Volkswagen brand, resonating with the text below 'EuroNCAP tests for the safest cars'.",
+            "The poster cleverly transforms the iconic W logo into a metaphor for safety using overlapping seatbelts.",
+            "The poster uses visual metaphors to convey safety and engineering excellence, reinforcing trust in Volkswagen's commitment to safety."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000002.jpg",
+        "path": "intention_understanding/000002.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Buckler non-alcoholic beer.",
+            "The poster uses text art to create a tall beer glass, with the top text styled like beer foam, and the rest presented in amber tones to mimic the appearance of beer.",
+            "The bold large-font text visually resembles a tattoo, humorously describing the state of drunkenness.",
+            "The arcs above and below the text imply the rim and bottom of the beer glass, completing this visual metaphor while highlighting the non-alcoholic nature of the beer.",
+            "The bottle cap in the lower right corner emphasizes that the beer brand is Buckler non-alcoholic beer."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000003.jpg",
+        "path": "intention_understanding/000003.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement by the Korea Broadcast Advertising Corporation.",
+            "Against a red background, the foam in a nearly empty glass forms the shape of a skull, symbolizing the deadly risk of drinking an empty glass of alcohol.",
+            "The bold text at the bottom, 'Don’t Drive,' highlights the source of the danger, which is drunk driving.",
+            "The 'i' in 'Drive' is designed in the shape of a key, associating it with using a key to start a car."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000004.jpg",
+        "path": "intention_understanding/000004.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an environmental public welfare poster from The Times of India.",
+            "In the image, humans are clenching the turtle's neck like twisting the cap of a plastic bottle.",
+            "The turtle suffocates and struggles, questioning \"Still using plastic?\" guiding the audience to rethink the use of single-use plastics.",
+            "A QR code invites readers to commit to opposing single-use plastics as a call to action.",
+            "The design uses metaphor to depict the destructive impact of plastic pollution on marine life, encouraging reflection and action."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000005.jpg",
+        "path": "intention_understanding/000005.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public welfare poster for 'Feeding America' and 'Food Bank'.",
+            "The poster emphasizes different perspectives on this snack, whether it is a snack or dinner, by using the image of a Lay's potato chips bag and large, striking text above and below the image.",
+            "The text at the bottom states that one in six Americans is food insecure, urging donations to the local food bank.",
+            "Logos of 'Feeding America' and 'Food Bank' are included to strengthen the call to action."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000006.jpg",
+        "path": "intention_understanding/000006.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service poster by the Brazilian anti-smoking organization (ADESF).",
+            "The poster uses the visual metaphor of a small figure walking towards a coffin-shaped cigarette to depict the deadly consequences of smoking.",
+            "The striking text 'A warm welcome to death' emphasizes the lethal effects of smoking.",
+            "The oversized cigarette coffin contrasts with the small figure, highlighting the overwhelming control of smoking.",
+            "The minimalist design enhances attention to the severe health risks of smoking through visual storytelling.",
+            "A subtle call to action at the bottom encourages quitting smoking."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000007.jpg",
+        "path": "intention_understanding/000007.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Heinz Spicy Tomato Ketchup.",
+            "The image shows a booth with red seats in a restaurant, echoing the color of the tomato ketchup.",
+            "The dark red stain on the backrest of the booth resembles sweat stains, implying the intense heat of the spicy tomato ketchup.",
+            "The Heinz Spicy Tomato Ketchup logo in the lower right corner reinforces the presence of the advertised product."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000008.jpg",
+        "path": "intention_understanding/000008.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service poster by IBM.",
+            "The visual design uses negative space to create and convey dual meanings. The silhouette of a woman's face also shows the image of a rooster, symbolizing food and freshness.",
+            "The design expresses the unity between human interaction and advancements in food supply chain technology.",
+            "The minimal use of color focuses attention on the information and visual metaphor."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000009.jpg",
+        "path": "intention_understanding/000009.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Colgate dental floss.",
+            "The poster mainly consists of close-up photos of three pairs of smiling couples with gaps in their teeth. People's attention is first drawn to the fact that each man's teeth have something in them. However, upon closer inspection, you'll notice that in the first picture, the woman's hand on the man's shoulder has extra fingers, in the second picture, there's an extra phantom arm on the man's shoulder, and in the third picture, the man is missing an ear. This visual representation aims to show that leftover food debris in the teeth attracts more attention than any bodily defect.",
+            "Each section displays a package of Colgate dental floss, reminding everyone of the importance of flossing."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000010.jpg",
+        "path": "intention_understanding/000010.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Heinz ketchup.",
+            "French fries are depicted energetically moving toward the ketchup bottle, reinforcing the slogan: 'When fries can't resist the temptation of ketchup.'",
+            "The background is vibrant red, resonating with the brand's color. The minimalistic design highlights the strong flavor combination and irresistible appeal of Heinz ketchup and fries, while evoking a sense of fun and energy."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000011.jpg",
+        "path": "intention_understanding/000011.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for AJAX wet wipes.",
+            "The main visual of the poster is a yellow dotted cup spilling red liquid halfway, with the liquid divided into two parts; the middle part is very clean and spotless.",
+            "Below, a hand is depicted pulling an Ajax wet wipe from the packaging, accompanied by the slogan 'Nothing faster than this,' explaining that the middle of the spilling liquid is wiped clean by Ajax wet wipes. It emphasizes the wipes' ability to quickly intervene and conveniently complete the cleaning."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000012.jpg",
+        "path": "intention_understanding/000012.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster by the Greek blood donors association.",
+            "The main visual on the poster designs an arm similar to Spider-Man's costume, metaphorically representing a superhero or hero image. It connects the extended blood draw tube with the blood pack, describing the scene of donating blood.",
+            "The slogan 'You can become someone's superhero!' encourages the public to view blood donation as a heroic act, giving individuals the power to save lives."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000013.jpg",
+        "path": "intention_understanding/000013.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an IKEA commercial poster.",
+            "This poster creatively associates sleeping with anti-aging. The main visual compares IKEA's down comforter to anti-aging cream, placed in a transparent cream jar labeled 'SLEEP', accompanied by a slogan about the most natural anti-aging method being sleep.",
+            "The phrase 'Tomorrow begins tonight' at the bottom emphasizes the importance of a comfortable sleep."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000014.jpg",
+        "path": "intention_understanding/000014.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Snickers commercial poster.",
+            "The poster humorously depicts Godzilla waterskiing on a lake surrounded by desert, accompanied by the slogan 'You're not you when you're hungry,' suggesting that Snickers satisfies hunger."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000015.jpg",
+        "path": "intention_understanding/000015.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for business marketing.",
+            "The mailbox symbolizes the simplification of categorizing individuals, much like categorizing mail. The question 'Are you still labeling people?' challenges the audience to confront their own biases.",
+            "This is a powerful call to embrace diversity and reject simplistic categorization."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000016.jpg",
+        "path": "intention_understanding/000016.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Berger paint commercial poster.",
+            "The advertisement features a white billboard against a blue sky background, with an industrial painter using a roller brush to apply paint that blends seamlessly with the sky behind, symbolizing Berger's paint as 'natural finish color.'"
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000017.jpg",
+        "path": "intention_understanding/000017.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Kibon ice cream.",
+            "A close-up view of the creamy strawberry ice cream highlights the product's '70% leite' (70% milk) content, emphasizing its creaminess. The curled edge in the bottom-right corner of the poster reveals a waffle cone pattern, metaphorically representing the ice cream."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000018.jpg",
+        "path": "intention_understanding/000018.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Celcom Broadband.",
+            "The poster depicts a paper-cut illustration at the bottom of the USB link showing various online activity scenes, emphasizing the imaginative possibilities of a broadband connection, and symbolizing the high-speed internet capability of Celcom Broadband."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000019.jpg",
+        "path": "intention_understanding/000019.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for an E. Marinella tie.",
+            "The main visual is a dark blue box imitating a chocolate package, printed with the word 'CIOCCOLATO', revealing a chestnut-colored tie. It combines the concept of ties and food to enhance fun and the cultural diversity layers."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000020.jpg",
+        "path": "intention_understanding/000020.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster.",
+            "Using positive and negative space design, the text is transformed to express the shape of a pregnant woman's body, namely 'Love your Body.' The pregnant woman is holding a red heart with 'Love Your Body Campaign 2009' written on it, further emphasizing the theme of self-love."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000021.jpg",
+        "path": "intention_understanding/000021.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for a LUXOR highlighter pen.",
+            "The word 'hay' is repeatedly arranged on the poster, with a 'needle' prominently highlighted in yellow, showcasing the functionality of the highlighter pen.",
+            "The image of the Luxor highlighter pen at the bottom suggests a connection between the product and the highlighted word."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000022.jpg",
+        "path": "intention_understanding/000022.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an advertisement poster for a TRISS scratch card lottery.",
+            "The poster features a bright yellow background with the playful text 'My gold card is completely worn out.' The keyword 'gold card' is intentionally blurred with scratches, reminiscent of the action of scratching a scratch card.",
+            "The design suggests that the scratch card is worn out due to frequent use.",
+            "Below the text is a scratch-off surface similar to a lottery scratch card. In the center of the scratch area is the company name and logo 'TRISS' and the slogan 'Scratch and Win.'",
+            "The design metaphorically connects the worn-out gold card to the scratch card experience, providing a captivating visual effect."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000023.jpg",
+        "path": "intention_understanding/000023.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for the Daihatsu Hijet MPV.",
+            "Using bold statements, it highlights the ability to carry five times more women than a Lamborghini, emphasizing the spacious interior.",
+            "The text emphasizes features such as comfortable seats, a five-speed transmission, a sunroof, and extensive warranty options."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000024.jpg",
+        "path": "intention_understanding/000024.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster reminding people of the dangers of drunk driving.",
+            "The police car on the left represents the consequences of drunk driving, including a $1500 fine and imprisonment. The taxi on the right symbolizes a safer way to get home, costing only $20 and a short journey.",
+            "The poster uses the metaphor of a police car and a taxi to illustrate a wrong decision and a right decision respectively.",
+            "The blue and white color scheme emphasizes clarity and seriousness.",
+            "The poster urges the audience to consider the severe consequences of drunk driving and encourages choosing safety."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000025.jpg",
+        "path": "intention_understanding/000025.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service announcement poster for ASPCA promoting dog adoption.",
+            "It features a two-part image of a golden retriever, with the top half showing a syringe labeled '10,000 dogs are euthanized every day', symbolizing the fate of many stray dogs.",
+            "The bottom half, when gently pulled, reveals a bright red collar with the message 'Adopt today. ASPCA.ORG', emphasizing how adoption can save lives."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000026.jpg",
+        "path": "intention_understanding/000026.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Mercedes-Benz.",
+            "The poster features a wrench against a gray background, with a shadow resembling a noose. The wrench symbolizes vehicle maintenance, contrasting with the ominous shadow, hinting at the threats associated with unofficial vehicle repairs.",
+            "The text warns against trusting unauthorized services to avoid dangerous consequences."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000027.jpg",
+        "path": "intention_understanding/000027.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster from Amnesty International.",
+            "The poster features an image blending a bullet with a pen tip against a dark background. The design emphasizes that a signature is like a bullet, highlighting the power of collective petitions and encouraging signing to abolish the death penalty."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000028.jpg",
+        "path": "intention_understanding/000028.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Brake road safety public service poster.",
+            "In the middle of the poster, there is a steering wheel with a smartphone at its center, warning not to use the phone while driving.",
+            "The phrase 'You can't do both' emphasizes the incompatibility of driving and using a phone.",
+            "A bold color scheme is used to maintain focus and convey seriousness."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000029.jpg",
+        "path": "intention_understanding/000029.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service poster from the Korea Environment Corporation.",
+            "The image shows a bald head with sparse trees on it, resembling a barren hill under a clear blue sky.",
+            "The phrase 'Only a few left!' emphasizes the dwindling state of natural resources.",
+            "By combining human imagery with environmental symbolism, the poster conveys the importance of protecting the natural world as akin to protecting one's own hair."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000030.jpg",
+        "path": "intention_understanding/000030.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a beer commercial poster for 'BIG PITCHER.'",
+            "The top of the image resembles the shape and color of a mango, and the design combines mango elements with a beer mug as a visual metaphor to convey a unique taste experience.",
+            "The text displays 'Introducing the new Mango Pale Ale!' emphasizing the taste characteristics of the new beer."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000031.jpg",
+        "path": "intention_understanding/000031.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for the Blick TV app.",
+            "Visually, there is a smartphone equipped with an app resembling a TV guide, placed in a remote control-like stand. The stand has tactile buttons for channel selection, power, and navigation, highlighting the app's functionality and control capabilities. A bowl of popcorn beside the phone suggests a relaxed atmosphere while watching TV or movies.",
+            "The design metaphorically represents the smartphone controlling traditional TV functionalities."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000032.jpg",
+        "path": "intention_understanding/000032.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for the Blick TV application.",
+            "The visual showcases the concept of a smartphone merged with a beer bottle, where the shape of the phone blends with the shape of a beer glass, featuring a camera and filled with bubbling amber liquid.",
+            "The slogan 'More Leisure Time' implies that the app provides relaxation and enhanced daily enjoyment through easy access to information."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000033.jpg",
+        "path": "intention_understanding/000033.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is the commercial poster for the new BMW M3.",
+            "Visually, it highlights the interior, focusing on the steering wheel and dashboard. A hand wearing red and gold gloves appears in the frame, resembling the Flash's gloves, symbolizing speed.",
+            "The slogan 'A vehicle built for true speed experts' implies that the BMW M3 is designed for speed enthusiasts, offering an exceptional driving experience."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000034.jpg",
+        "path": "intention_understanding/000034.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Mercedes-Benz public service advertisement poster.",
+            "The unlock pattern has connected dots, similar to a screen unlock pattern. A red car crashes into one of the nodes, producing smoke and flames. Visually combining the smartphone unlock pattern with a traffic accident, it warns people not to use phones while driving.",
+            "The Mercedes-Benz logo indicates their support for road safety."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000035.jpg",
+        "path": "intention_understanding/000035.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Bose noise-cancelling headphones.",
+            "The poster shows Mickey Mouse in his classic outfit, with his ears transformed into headphones and raised high to suggest a pleasurable listening experience using headphones, with the Bose logo displayed at the top.",
+            "The text at the bottom describes the 'GQ15 acoustic noise-cancelling headphones' in a smooth lowercase font."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000036.jpg",
+        "path": "intention_understanding/000036.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Fevicol adhesive.",
+            "The poster is divided into two parts, the left side shows a broken wooden chair, and the right side shows a felled tree. The metaphor is that we can use wood to repair the chair, but a tree that has been cut down cannot be repaired. Therefore, we can use adhesive to fix things, reduce deforestation, and protect the environment.",
+            "The end of the poster features the tagline '#SaveBuxwahaForest' and an image of a Fevicol glue container."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000037.jpg",
+        "path": "intention_understanding/000037.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Studds helmets.",
+            "A helmet resembling a snail shell is prominently displayed, and the tagline 'Protect yourself like nature does' suggests that these helmets offer strong protection, similar to a snail shell."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000038.jpg",
+        "path": "intention_understanding/000038.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for a STAEDTLER highlighter.",
+            "A yellow highlighter lies on the asphalt road, blending with the painted yellow center line. The yellow 'NEVER GET LOST', along with the grayscale city skyline, contrasts with the highlighter, highlighting STAEDTLER's role in adding color and precision."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000039.jpg",
+        "path": "intention_understanding/000039.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for aspirin.",
+            "In the image, the traditional wooden wedge used for splitting is replaced by an aspirin tablet, presented alongside a hammer. The slogan 'Splitting headache' implies aspirin's ability to tackle stubborn headaches.",
+            "The design uses a gradient teal background as the main tone, echoing the color of the medicine's packaging, which is both simple and impactful."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000040.jpg",
+        "path": "intention_understanding/000040.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for a BRAUN hair straightener.",
+            "The curled instant noodles at the bottom have been straightened by the hair straightener, symbolizing the transformation of curly hair into straight hair."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000041.jpg",
+        "path": "intention_understanding/000041.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for MIotens.",
+            "The product visually transforms into a large hand symbolizing massage, indicating pain relief.",
+            "The text 'Massage the pain away' emphasizes the product's soothing effect, akin to a massage.",
+            "The design uses the metaphor of a hand to highlight the therapeutic and comforting benefits of the product.",
+            "A soothing blue background enhances the message of calmness and pain relief associated with the product."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000042.jpg",
+        "path": "intention_understanding/000042.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster from the transportation department.",
+            "The visual shows a car through a half-full beer glass, which refracts part of the car into a skull, symbolizing death and danger.",
+            "This image metaphorically depicts the deadly consequences of alcohol and driving.",
+            "The text 'Drinking + Driving = Deadly Cocktail' emphasizes the deadly risk involved."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000043.jpg",
+        "path": "intention_understanding/000043.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service announcement poster by Maxfactor.",
+            "The visual depicts a car accident occurring on a road drawn with lipstick.",
+            "The image symbolizes the potential danger of applying makeup while driving, illustrating the consequences of distraction.",
+            "The Max Factor logo is cleverly incorporated, associating the brand with responsible makeup usage."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000044.jpg",
+        "path": "intention_understanding/000044.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Coca-Cola.",
+            "A straw ending with a fuel pump nozzle is inserted into Coca-Cola as a visual metaphor for replenishing fuel.",
+            "The slogan 'Fill up your thoughts' connects Coca-Cola with the fuel for creativity.",
+            "Brand details include the NASA Space Apps Challenge and the Coca-Cola logo, evoking innovation beyond traditional boundaries.",
+            "The tagline 'Think outside the box!' emphasizes creativity and innovative thinking."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000045.jpg",
+        "path": "intention_understanding/000045.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Ballantine's whisky.",
+            "The poster depicts a living space where light and shadow form the shape of a whisky bottle. The carpet in the middle serves as the label of the bottle, highlighting the brand identity.",
+            "Familiar items are transformed into whisky elements, reflecting Ballantine's blending expertise and enhancing the sense of luxury, tradition, and elegance."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000046.jpg",
+        "path": "intention_understanding/000046.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for condoms.",
+            "The poster uses a visual metaphor, depicting parachuters using condoms as parachute canopies. The slogan 'Safe Landing' connects safety in sexual health, likening condoms to parachutes that ensure a safe landing."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000047.jpg",
+        "path": "intention_understanding/000047.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster emphasizing health.",
+            "The poster creatively modifies the traffic lights, with the red light shaped like a burger and the green light changed to a broccoli shape.",
+            "The design conveys information about making healthier dietary choices through familiar traffic signal symbols."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000048.jpg",
+        "path": "intention_understanding/000048.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for the McDonald's mobile app.",
+            "The poster features a red background, the main color of the McDonald's logo, with seven smartphones aligned horizontally in the center forming a hamburger shape. The colors of the phones—yellow, brown, and green—represent the components of the hamburger, where yellow is the bun, green is the lettuce, and brown is the patty.",
+            "The text above the image 'Mobile Ordering is here' introduces the concept of app-based food ordering.",
+            "The bottom displays the McDonald's logo and the 'MyMcD's' app icon, highlighting the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000049.jpg",
+        "path": "intention_understanding/000049.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Keloptic glasses.",
+            "The glasses are placed in front of the portrait, transforming impressionist brushstrokes into a photo-realistic style, showcasing the clarity and precision offered by Keloptic lenses.",
+            "The slogan reinforces the message: 'See better for less at www.keloptic.com.'"
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000050.jpg",
+        "path": "intention_understanding/000050.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for WILKINSON SWORD razors.",
+            "The poster features a grid of faces on the left, with the razor placed at the lower right. Above the razor, the faces transform from mostly uniform, clean-shaven faces to various faces with different beards and hairstyles. Meanwhile, the color changes from black and white to color, accentuating this part of the visual content.",
+            "The design metaphor uses transformation along with the slogan 'Free Your Skin'."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000051.jpg",
+        "path": "intention_understanding/000051.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Red Bull functional beverage.",
+            "The main visual is the different gear positions in a manual transmission, with Red Bull's packaging abstracted to resemble batteries or a power source, suggesting that consuming this beverage can provide additional energy boost.",
+            "Prominently printed below the view are the words 'Shift to Extra Gear', symbolizing acceleration, power, and motion.",
+            "The bottom of the poster displays the Red Bull logo, featuring two charging bulls and a yellow circle with the words 'Red Bull Energy Drink', emphasizing the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000052.jpg",
+        "path": "intention_understanding/000052.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster.",
+            "The poster uses hundreds of yellow and pink sticky notes to cover the building's exterior wall, forming the large letters 'TO DO.' Each sticky note has handwritten messages or tasks, creating an interactive visual effect similar to a public message board.",
+            "The design metaphorically portrays a 'to-do list,' cleverly emphasizing tasks and goals in life."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000053.jpg",
+        "path": "intention_understanding/000053.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Coca-Cola commercial advertisement poster.",
+            "The poster cleverly showcases the concept of a globe, replacing the Earth in a globe with a Coca-Cola bottle cap. The design implies that Coca-Cola is enjoyed globally, almost as universal as the Earth itself."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000054.jpg",
+        "path": "intention_understanding/000054.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an Oreo commercial poster.",
+            "The poster shows ants bypassing a yellow lollipop and heading toward Oreo cookies, highlighting Oreo's greater appeal. Oreo is prominently placed in the top right corner of the blue-toned background, while the lollipop enhances the overall visual appeal with its bright colors.",
+            "The phrase 'Nothing else matters' implies Oreo's superiority among snacks."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000055.jpg",
+        "path": "intention_understanding/000055.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for McDonald's coffee.",
+            "The poster uses the main color yellow from McDonald's coffee. The coffee cup's body is replaced with stacked yellow pillows, symbolizing sleep.",
+            "The text below the image emphasizes the convenience of McCafe, allowing for more sleep, accompanied by the slogan 'Good coffee. Simple.'"
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000056.jpg",
+        "path": "intention_understanding/000056.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Life ketchup.",
+            "The poster reads 'Mom, I hate fish!' indicating that children often express dislike for certain dishes. The word 'hate' has a red splatter covering the 'h,' turning 'hate' into 'ate,' symbolizing that ketchup can change the attitude toward disliked food.",
+            "Below this sentence, a bright yellow ketchup bottle cap is placed centrally, marked with the label 'Life,' emphasizing the brand.",
+            "The slogan 'Ketchup that changes everything' suggests that this condiment can make unappealing meals delicious."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000057.jpg",
+        "path": "intention_understanding/000057.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating smoking cessation.",
+            "The poster consists of three parts: In the first part, when the cigarette box is full, the person smiles with white, clean teeth. In the second part, as smoking begins, the teeth turn black or start to fall out. In the third part, when the cigarettes in the box are all gone, the teeth have turned completely black.",
+            "The design prompts the audience to reflect on and question their smoking habits and preferences."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000058.jpg",
+        "path": "intention_understanding/000058.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for a radio station.",
+            "A vertical slider labeled 'Ro' and 'Su' suggests user interaction to set the mood between 'rocks' and 'sucks'.",
+            "The slider represents the feature of the app to curate a music experience based on listeners' preferences.",
+            "The accompanying slogan 'Radio, Rediscovered' on the 8tracks logo highlights the application's innovative approach to radio."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000059.jpg",
+        "path": "intention_understanding/000059.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Fit Factory Gym.",
+            "It features a red background with three large letter combinations arranged vertically, and the central figure gradually transitions from overweight to slim, while the letters shift from 'FAT' to 'FIT' at the bottom.",
+            "The silhouettes between the letters depict the transformation of a person from being overweight to being fit.",
+            "The transformation serves as a visual motivator, emphasizing the potential results of joining Fit Factory."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000060.jpg",
+        "path": "intention_understanding/000060.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a McDonald's public service advertisement poster.",
+            "The poster displays a McDonald's cup and packaging discarded on concrete stairs, symbolizing urban pollution.",
+            "The prominent yellow text 'Take your takeaway' employs wordplay to encourage proper disposal of fast food packaging.",
+            "Smaller white text conveys McDonald’s efforts to combat street litter and calls for customers to participate in waste management."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000061.jpg",
+        "path": "intention_understanding/000061.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster calling for attention to diabetes health.",
+            "The poster shows a pair of jeans, with one pant leg ending in an ice cream cone and the other wearing a black shoe. The text below the image reads: 'It's sweet, but it's not worth it. Every 30 seconds, a leg is amputated due to diabetes.'",
+            "The poster uses vivid visual metaphors to illustrate the severe consequences of excessive sugar intake and poor diabetes management, including limb amputation."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000062.jpg",
+        "path": "intention_understanding/000062.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Leno fabric softener.",
+            "The poster shows a dirty teddy bear falling into water. The part submerged in water becomes very clean, while the part above water remains dirty, symbolizing the product's ability to clean and protect delicate fabrics from damage through softening.",
+            "A bottle labeled 'Lenor Fabric Softener' is located at the bottom right, indicating the product advertised."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000063.jpg",
+        "path": "intention_understanding/000063.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster from the Vermont Department of Health.",
+            "The poster shows smoke on a black background connecting downward to form the shape of a fetus, illustrating that smoking during pregnancy directly affects the baby as well.",
+            "The text 'When you smoke, your child smokes too' highlights the shared harm between a mother and her unborn child.",
+            "The overall design uses visual metaphors and contrasts to deliver a powerful public health warning."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000064.jpg",
+        "path": "intention_understanding/000064.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Red Bull Energy Drink.",
+            "The main visual of the poster is a Red Bull drink can split in half, with the broken part forming a snow mountain where many people are skiing, emphasizing adventure and extreme outdoor sports.",
+            "The drink can above is suspended in the air, as if it is being opened, symbolizing explosive energy.",
+            "The slogan 'Sport Energy Drink' connects the beverage with sports and endurance."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000065.jpg",
+        "path": "intention_understanding/000065.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a BeStreetSmart public service announcement poster.",
+            "The tire mark on the face metaphorically indicates the dangers of cycling.",
+            "The text urges drivers to 'give cyclists room to ride', advocating for safely sharing road space."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000066.jpg",
+        "path": "intention_understanding/000066.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for a pain relief ointment.",
+            "The poster depicts the Statue of Liberty unable to raise her torch due to shoulder pain, with an ointment in the upper right corner of the sky accompanied by the phrase 'for monumental pain relief,' using metaphor to suggest a significant pain and its solution."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000067.jpg",
+        "path": "intention_understanding/000067.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for an IKEA vegetable peeler.",
+            "The peeler's head is strategically aligned with the top of a cucumber, creating a visual metaphor for peeling various vegetables."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000068.jpg",
+        "path": "intention_understanding/000068.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an advertisement poster for Heineken beer.",
+            "A bottle of Heineken beer is transformed into an ice pop wrapped in Heineken brand packaging.",
+            "The design features a vibrant green background complemented with droplets to enhance the refreshing effect.",
+            "The visual metaphor suggests that consuming beer is a refreshing experience similar to enjoying ice cream."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000069.jpg",
+        "path": "intention_understanding/000069.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster against drunk driving.",
+            "Bold black text contrasts with the simple white background, directly using the message 'If you can't see what's wrong with this poster, then you shouldn't drive home,' to remind the public not to drive under the influence of alcohol."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000070.jpg",
+        "path": "intention_understanding/000070.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a McDonald's commercial advertisement poster.",
+            "The visuals include a sandwich, a cup of freshly brewed coffee, and a hash brown, displayed side by side.",
+            "The slogan 'Suddenly you're a morning person' uses sunrise colors to symbolize awakening.",
+            "The poster uses the sunrise metaphor to suggest that McDonald's breakfast can energize and change your morning."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000071.jpg",
+        "path": "intention_understanding/000071.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Snickers.",
+            "The poster features a striking image: on a vast savanna, a zebra is chasing a lion, creating an unexpected twist in the predator-prey dynamic. This role reversal humorously represents Snickers' slogan: 'You're not you when you're hungry.'",
+            "The iconic blue Snickers logo and slogan emphasize the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000072.jpg",
+        "path": "intention_understanding/000072.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Oreo cookies.",
+            "The poster features a playful and simple design, depicting milk being drawn towards the Oreo cookie, defying gravity.",
+            "The image content combined with the phrase 'THE LAW OF GRAVITY' in the upper right corner illustrates the way to eat Oreo, dunking in milk.",
+            "The Oreo logo at the bottom enhances brand recognition and complements the slogan 'Milk's Favorite Cookie,' resonating with the visual metaphor."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000073.jpg",
+        "path": "intention_understanding/000073.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for the Thai Smile Operation.",
+            "The visual presents a child with a defect, who can smile with the help of hand-painted art. The accompanying text at the bottom, 'If paint could fix it, we wouldn't need your donation,' highlights the importance of the Smile Operation."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000074.jpg",
+        "path": "intention_understanding/000074.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Garnier hair care water commercial poster.",
+            "This poster uses a fun and relaxed scene to personify hair, depicting it happily watching TV in a little room under the scalp, not wanting to leave.",
+            "The slogan 'Your hair is willing to stay' emphasizes rooted hair, aligning with the visual narrative."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000075.jpg",
+        "path": "intention_understanding/000075.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for McCafé coffee.",
+            "Visually, the coffee cup is combined with a gasoline pump nozzle into a single object, with the nozzle connected to the cup to visually represent coffee as a source of energy.",
+            "The visual metaphor suggests that the energy boost from McCafé coffee is akin to car fuel, emphasizing coffee as a necessity in daily life.",
+            "The soft brown background complements the warm tones of the coffee cup, creating a harmonious and appealing visual effect."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000076.jpg",
+        "path": "intention_understanding/000076.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster reminding not to drink and drive. The poster uses a minimalist design and a clever metaphor to convey a strong anti-drunk driving message.",
+            "The poster depicts a car heading towards a house. In the middle of the road there is a giant pit in the shape of a wine glass. This metaphor suggests that drinking while driving could lead to falling into a pit and not being able to return home.",
+            "The phrase 'Don't drink and drive' appears in the lower right corner, metaphorically showing the dangerous consequences that alcohol might bring on a journey.",
+            "The poster emphasizes the importance of responsible driving, sponsored by Credinform."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000077.jpg",
+        "path": "intention_understanding/000077.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster against drunk driving.",
+            "The visual is of a car seen through a half-full beer glass, with the refraction turning part of the car into a skull, symbolizing death and danger.",
+            "The poster uses visual metaphor to promote a campaign against drunk driving.",
+            "The white bold text 'Don't drink and drive' reinforces the warning of the deadly consequences of alcohol and driving."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000078.jpg",
+        "path": "intention_understanding/000078.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service poster against drunk driving.",
+            "The poster uses a powerful visual metaphor to illustrate the dangers of driving under the influence, depicting a crushed car shape akin to a bottle.",
+            "The poster's background is set in a dark and somber environment, suggesting a scene of destruction while emphasizing the central image.",
+            "The striking words 'Absolutely Fatal' highlight the deadly consequences of drunk driving.",
+            "This phrase cleverly echoes the brand Absolut Vodka, reinforcing the alcohol metaphor and conveying the warning message 'Don't drive under the influence' at the top."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000079.jpg",
+        "path": "intention_understanding/000079.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster against smoking.",
+            "The poster uses a cigarette resembling a thermometer or measuring scale to symbolize the impact of smoking on lifespan, marked with age milestones specifically at 40, 50, and 60 years old.",
+            "The design suggests that smoking reduces life expectancy, linking a burning cigarette to the consumption of life.",
+            "The text 'Your Lifespan Meter' emphasizes how smoking habits harm a person's lifespan."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000080.jpg",
+        "path": "intention_understanding/000080.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster prohibiting drunk driving.",
+            "The poster anthropomorphizes a bottle opener as a paraplegic person sitting in a wheelchair. The bold text 'Do not drink and drive' emphasizes the physical harm and serious injuries that can result from drunk driving accidents."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000081.jpg",
+        "path": "intention_understanding/000081.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "The poster shows the interior of a car, with the driver's seat made of red bricks and mortar, creating a surreal juxtaposition.",
+            "This unusual design uses the visual metaphor of red bricks to convey the concepts of safety, sturdiness, and durability."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000082.jpg",
+        "path": "intention_understanding/000082.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Renault cars.",
+            "It features a minimalist design with a winding black line from 'Paris' to 'Naples' symbolizing a road trip route. This line is designed as a fuel pump hose, ending at a nozzle in Naples.",
+            "Accompanied by the text below 'Travel 1700 kilometers on a single tank, Renault Megane with ENERGY dCi 110 engine' highlighting the car's long-distance high performance.",
+            "This design metaphor emphasizes the fuel efficiency of the Renault Megane by comparing a long trip to a single fuel line."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000083.jpg",
+        "path": "intention_understanding/000083.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster by the World Health Organization.",
+            "In the middle of a neutral background, a key turns into a gun, highlighting the threat of reckless driving. Using visual metaphors and minimalist design to warn about the consequences of unsafe driving and to call for driving safety.",
+            "The slogan 'Every 25 seconds, a life is taken' emphasizes the severity of traffic accidents."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000084.jpg",
+        "path": "intention_understanding/000084.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for the World Wildlife Fund.",
+            "The toilet paper roll with an image of the Earth symbolizes resource consumption.",
+            "The text emphasizes the enormous resources consumed by a single roll of toilet paper."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000085.jpg",
+        "path": "intention_understanding/000085.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster.",
+            "The poster features a snakeskin shoe stepping on a skinned snake. From the snake's head, it is evident that the snakeskin matches the leather used for the shoe, implying that it was once used to make shoes. The text prominently displays 'Leather is a style of death.'",
+            "The poster conveys the harm that leather and similar products cause to animals, urging consideration of alternative materials."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000086.jpg",
+        "path": "intention_understanding/000086.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a HEINZ ketchup advertisement.",
+            "The image shows a bottle of Heinz ketchup cut open on a cutting board, with the cross-section and slices looking like real tomatoes.",
+            "This visual metaphor suggests that Heinz ketchup is made of real tomatoes, fresh and natural, with authentic flavor."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000087.jpg",
+        "path": "intention_understanding/000087.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service announcement.",
+            "On the poster, there is a large brown bear wearing a pink ballet skirt playing an instrument, probably for entertainment. On the right is a black silhouette of a man holding a whip, showing an authoritative and dominating posture.",
+            "The man's posture and whip imply that he is the bear's trainer, exerting control and possibly coercion.",
+            "This scene metaphorically represents control, manipulation, and exploitation.",
+            "These images criticize the exploitation carried out through forced performances and oppression by industrial or authoritarian forces."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000088.jpg",
+        "path": "intention_understanding/000088.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service announcement poster about animal protection.",
+            "The poster depicts a chicken and an egg placed on a wooden surface, with the chicken having a switch symbolizing industrial control. The switch is turned on, and the chicken lays an egg.",
+            "The displayed sentence claims that animals have the ability to perceive, and it questions the practice of viewing chickens as machines, where you turn on the switch to make them lay eggs."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000089.jpg",
+        "path": "intention_understanding/000089.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster about ocean protection.",
+            "The poster uses the visual metaphor of sushi rolls made from plastic trash to highlight ocean pollution.",
+            "Combined with the text 'What’s in the ocean also enters your body,' it connects ocean pollution to human health.",
+            "A statistic points out that fish on the West Coast ingest over 12,000 tons of plastic annually, supporting this metaphor with scientific data."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000090.jpg",
+        "path": "intention_understanding/000090.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Greenpeace public service advertisement poster about ocean conservation.",
+            "The poster shows a turtle with a plastic straw protruding from its mouth.",
+            "The text reads: 'Single-use plastic is sucking the life out of our oceans,' and includes the hashtag #BreakFreeFromPlastic along with the Greenpeace logo.",
+            "The straw symbolizes the issue of plastic pollution, while the turtle represents marine animals affected by human waste."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000091.jpg",
+        "path": "intention_understanding/000091.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an environmental public welfare advertisement poster for No Plastic Bag Day.",
+            "The poster depicts a humanoid figure wearing formal suits, with their head covered by an orange plastic bag.",
+            "Bold black letters on the plastic bag read: '320,000 plastic bags are choking our planet every second,' highlighting an urgent environmental issue.",
+            "The suffocating design of the plastic bag metaphorically illustrates the choking impact of pollution on the earth and its threat to all life forms.",
+            "The lower part of the poster calls for action: 'Prevent further suffocation. Avoid using plastic bags for humans, animals, and the planet. Choose a life bag, not a death bag.'"
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000092.jpg",
+        "path": "intention_understanding/000092.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public welfare advertisement poster for protecting ocean corals.",
+            "The poster arranges plastic bottles and bags into the shape of corals, with a coral-toned background.",
+            "It prominently uses 'Living Coral,' the Pantone Color of the Year 2020, with the word 'Living' crossed out to show that corals are no longer vibrant.",
+            "The text '75% of the world's coral reefs are threatened. We must ensure it's more than just a color.' emphasizes the urgent need for protection.",
+            "The hashtag #keepitlivingcoral calls for protecting coral reefs.",
+            "The design metaphorically displays coral-colored plastic to illustrate the environmental degradation caused by plastic pollution."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000093.jpg",
+        "path": "intention_understanding/000093.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a McDonald's commercial advertisement poster.",
+            "Santa Claus's face is represented by a swirl of white soft serve ice cream, similar to his fluffy beard.",
+            "Santa Claus's hat is hinted at by the inverted golden arches of McDonald's against the red background.",
+            "The design is set on a vibrant red background to evoke the colors and atmosphere of Christmas.",
+            "The golden text below reads 'Happy Holidays' as a warm seasonal greeting.",
+            "This poster cleverly connects the image of Santa Claus with McDonald's ice cream, promoting the brand identity."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000094.jpg",
+        "path": "intention_understanding/000094.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Nescafé coffee.",
+            "It features a black background with rows of the letter 'Z', representing tiredness.",
+            "At the bottom, these 'Z's transform into 'N's, symbolizing awakening.",
+            "The transition ends with 'Nescafé', emphasizing its role in the shift from drowsiness to alertness.",
+            "The tagline 'Nothing wakes you up like Nescafé' echoes the visual metaphor of Nescafé being able to transform someone from drowsy to spirited."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000095.jpg",
+        "path": "intention_understanding/000095.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Colgate toothpaste commercial advertisement poster.",
+            "The poster features a smiling mouth, large and striking. At the top, the Colgate toothpaste is designed as a ceiling lamp, with light shining from the toothpaste, making the teeth look exceptionally white. It highlights how Colgate toothpaste makes teeth white.",
+            "The beam of light shines on the bright red lower lip with the Colgate logo, emphasizing the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000096.jpg",
+        "path": "intention_understanding/000096.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an Adidas commercial poster.",
+            "The poster features an elderly person paired with classic Adidas sneakers, symbolizing the fusion of tradition and modernity. The text on the left emphasizes Adidas' brand philosophy of simplicity, elegance, and durability."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000097.jpg",
+        "path": "intention_understanding/000097.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Red Bull energy drink.",
+            "The main color scheme uses the blue and white colors of the Red Bull drink bottle. The white semicircle and the Red Bull in the middle form a switch button. Complemented by the slogan 'Power On' at the top, it emphasizes the drink's ability to enhance strength.",
+            "The design cleverly integrates the power button symbol into the word 'ON', suggesting the activation and renewal of energy.",
+            "The Red Bull logo at the bottom right highlights the brand information."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000098.jpg",
+        "path": "intention_understanding/000098.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Nike commercial poster.",
+            "The poster features a character using Nike's swoosh logo as a saxophone, integrating jazz music with Nike's brand image to combine the imagery of music and sports.",
+            "The phrase 'Jazz do it' cleverly plays on Nike's slogan 'Just Do It.'"
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000099.jpg",
+        "path": "intention_understanding/000099.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster against animal fur.",
+            "It features a person wearing a fur coat, with an animal face behind bars instead of a human face, symbolizing imprisonment.",
+            "The poster poses the question 'Who are you wearing?' against a dark background, and the words 'bloody fashion' below imply the brutal cost associated with fashionable clothing.",
+            "The design metaphorically highlights the luxurious lining of the coat, emphasizing the theme of luxury at the expense of animal life."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000100.jpg",
+        "path": "intention_understanding/000100.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating smoking cessation.",
+            "The poster depicts a baby bottle filled with cigarette butts and ash, soaked in a milk-like liquid, symbolizing exposure to secondhand smoke.",
+            "The text prominently asks: 'Would you feed this to your baby?' further implying that feeding milk contaminated with cigarette pollutants is equivalent to exposing a child to secondhand smoke."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000101.jpg",
+        "path": "intention_understanding/000101.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is McDonald's commercial advertisement poster.",
+            "The poster's background features a night sky, a deep orange-red advertisement wall illuminated by two bright spotlights at the top, casting light and shadow to form McDonald's golden arches. At the bottom, there is eye-catching white text reading 'Open till Late.'",
+            "The design conveys accessibility and comfort during nighttime, emphasizing McDonald's late-night availability."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000102.jpg",
+        "path": "intention_understanding/000102.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a McDonald's commercial poster.",
+            "The poster transforms a bus stop sign into the brand's iconic food, French fries. The yellow lights represent the fries, and the red packaging features the text 'Open Late' to convey that McDonald's operates late at night, with the M logo below emphasizing the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000103.jpg",
+        "path": "intention_understanding/000103.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Coca-Cola commercial advertisement poster.",
+            "The poster uses red and white as the main colors, consistent with the color scheme of Coca-Cola itself. The design of the can incorporates the outline of a giraffe into Coca-Cola's white wave pattern.",
+            "The metaphor of the giraffe symbolizes Coca-Cola's launch of a 'new tall can', adding novelty and fun.",
+            "The text below, 'new tall can', further echoes the concept of the Coca-Cola can's lengthened design."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000104.jpg",
+        "path": "intention_understanding/000104.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an IKEA commercial poster.",
+            "It features a bottle of brown 'Sleep' supplements pouring out white ergonomic pillows. The tagline suggests that sleep with high-quality pillows naturally helps to improve focus and memory.",
+            "The product information for the 'RUMSMALVA Ergonomic Pillow' is priced at 13 pounds.",
+            "The bottom of the poster includes IKEA's logo and slogan 'A great day starts here'."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000105.jpg",
+        "path": "intention_understanding/000105.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Ariel detergent.",
+            "The poster features a dining table where a white shirt is folded and stylized as a plate used to hold seafood pasta.",
+            "This design emphasizes Ariel's protective pre-wash detergent's ability to prevent stains.",
+            "The slogan 'Ariel Protective Pre-Wash Makes Laundry Easy' implies that even if your shirt serves as a plate, it can still stay clean.",
+            "The bottom right corner of the poster showcases a bottle of Ariel detergent and a washing machine.",
+            "This metaphor highlights the product's effectiveness in preventing food stains and promoting effortless laundry care."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000106.jpg",
+        "path": "intention_understanding/000106.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public welfare poster for environmental protection.",
+            "The silhouettes of factories and buildings, along with the black smoke emitted from chimneys, symbolize industrial pollution.",
+            "The cracked, dry ground evokes thoughts of environmental degradation and drought.",
+            "Red symbolizes dryness and firelight, while black represents black smoke and cracked earth. A white plant growing from a crack reminds people to pay attention to environmental protection."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000107.jpg",
+        "path": "intention_understanding/000107.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster about protecting marine life and the environment.",
+            "The background of the poster is turquoise, and the bottom displays the outline of a whale, with water it sprays made up of white pollutants above it. These white objects represent everyday trash like bottles and utensils, symbolizing the impact of human-generated pollution on the ocean.",
+            "This composition is a visual metaphor used to depict the negative effects of human waste on marine life.",
+            "The logo and slogan of the Oceana organization, 'Protect the World's Oceans,' support the message of advocating for ocean conservation.",
+            "The poster urges viewers to consider their impact on the environment and support efforts to protect the ocean."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000108.jpg",
+        "path": "intention_understanding/000108.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for the Paris Philharmonic Orchestra.",
+            "The poster combines musical and culinary elements. A hand is depicted holding a yellow audio cable, hanging like spaghetti against a red background, suggesting creativity.",
+            "The slogan 'Music Unlimited' highlights the infinite potential and experimental nature of music."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000109.jpg",
+        "path": "intention_understanding/000109.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for chili sauce.",
+            "The poster displays a bottle of Tabasco chili sauce sitting on a wooden surface. Next to the bottle, three dark semicircular burn marks suggest intense heat, symbolizing the spiciness of the sauce.",
+            "The design uses a clever metaphor to emphasize the fiery nature of Tabasco sauce."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000110.jpg",
+        "path": "intention_understanding/000110.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for environmental protection.",
+            "The poster displays a black-and-white image of human feet, with a magenta circle surrounding the heel and ball of the foot, imitating car wheels, suggesting using feet as an alternative to vehicles.",
+            "In bold magenta font, it reads 'Feet - Like cars, but better.' At the bottom of the poster, there are logos and slogans 'Get On The Road' and 'Do The Green Thing' presented in understated colors.",
+            "The metaphorical design emphasizes the ecological benefits of walking compared to driving fossil fuel-dependent vehicles."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000111.jpg",
+        "path": "intention_understanding/000111.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service poster for the Nordic-Baltic advertising competition.",
+            "On the poster, there is a coffin-shaped cardboard container next to a plastic fork and a napkin, filled with french fries, with a white cross in the middle, further highlighting the concept of a grave.",
+            "The poster reads 'The last wish is to be eaten' and emphasizes in the lower left corner that over 30% of food is wasted, encouraging awareness of food waste."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000112.jpg",
+        "path": "intention_understanding/000112.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for select mineral water.",
+            "The poster shows a waterfall scene amidst the mountains and forests, integrating a large bottle labeled 'Spring Water' with the waterfall landscape, suggesting that the bottled water is as pure as spring water."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000113.jpg",
+        "path": "intention_understanding/000113.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Nestle coffee.",
+            "The poster combines the packaging design of Nestle classic coffee with battery packaging. It uses a blister packaging form, containing four cylindrical objects similar to AA batteries.",
+            "These cylinders are cleverly designed to look like Nestle coffee cans.",
+            "This metaphor compares coffee to energy, similar to how batteries provide vitality to humans."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000114.jpg",
+        "path": "intention_understanding/000114.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster caring for women's health.",
+            "The image at first glance seems to be a woman's breast, but it is actually the top of a red onion, highlighting the cancer-fighting properties of red onions to prevent breast cancer.",
+            "The information at the bottom emphasizes the health benefits of red onions and their role in creating an environment unfavorable to cancer cells.",
+            "The pink ribbon and the words 'Breast Cancer Awareness Month' reinforce the focus on awareness and prevention, promoting the impact of diet on health."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000115.jpg",
+        "path": "intention_understanding/000115.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating for quitting and banning smoking.",
+            "This poster cleverly integrates headphones with cigarettes to promote shifting addiction from smoking to music on World No Tobacco Day 2022. The headphone image uses colors and textures related to tobacco, making it resemble cigarettes.",
+            "Musical elements emerge from the headphones, transforming cigarette smoke into musical notes.",
+            "The text 'Don't stop! But convert your addiction' encourages satisfying cravings with healthier alternatives."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000116.jpg",
+        "path": "intention_understanding/000116.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for an Italian wine festival.",
+            "A cork is combined with a wine bottle, and a corkscrew is placed on top of the cork. The cork closely mimics architectural elements of the Leaning Tower of Pisa, vividly recreating the tower. It blends wine culture with Italian heritage.",
+            "Above the cork image, 'FESTIVINO' is prominently displayed on a ribbon in the colors of the Italian flag, hinting at an Italian wine festival."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000117.jpg",
+        "path": "intention_understanding/000117.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Heinz ketchup.",
+            "On the poster, there is a child-style drawing of a ketchup bottle, an oval label that says 'ketchup', and vibrant red doodles of small tomatoes.",
+            "The bold text reads: 'We asked people to draw ketchup, they drew Heinz', highlighting the strong association consumers have between ketchup and Heinz.",
+            "The classic Heinz logo and the phrase 'It has to be Heinz' emphasize the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000118.jpg",
+        "path": "intention_understanding/000118.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertising poster for Drive Communications' graphic design studio.",
+            "The poster uses a visual metaphor: a jump rope alternating between white and blue is rolled up to form the shape of a brain, conveying the concept of keeping the brain fit at all times."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000119.jpg",
+        "path": "intention_understanding/000119.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Durex condoms.",
+            "The poster uses a minimalist design, with a dark blue background and the equation '1+1=3' displayed in bold white in the center.",
+            "Below the equation is the phrase 'If you don't use,' followed by a small Durex logo. The design metaphorically suggests unintended pregnancy due to not using contraception, highlighting the importance of condoms.",
+            "The blue background with white text is consistent with the brand colors representing Durex, ensuring brand visibility and association."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000120.jpg",
+        "path": "intention_understanding/000120.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for saving electricity.",
+            "The power strip with small plants growing from it symbolizes the impact of energy consumption on the environment.",
+            "The poster uses a minimalist design with a bright pink background and bold white text: 'Turn off electronic devices.' In the bottom right, it suggests turning off electronic devices, lighting, and heating when not in use to conserve energy and save resources. Complementing the visuals, it encourages environmental protection through the simple action of turning off power."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000121.jpg",
+        "path": "intention_understanding/000121.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster about everyday emergency equipment.",
+            "The fire extinguisher on the poster has been redesigned with the concept of a wine bottle, shifting the focus and design language towards dietary habits.",
+            "The 'Wine Extinguisher' label humorously suggests using wine at the end of a long day, adding a touch of humor to the typically serious interpretation by leveraging people's desires.",
+            "A half-filled wine glass is placed below, reinforcing the role of wine as a coping mechanism."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000122.jpg",
+        "path": "intention_understanding/000122.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for environmental protection.",
+            "The poster depicts an hourglass, with penguins standing on the sand at the bottom, while an oil-like liquid threatens to engulf them from the top. The accompanying text reads: 'It's simple. The longer we wait, the more we lose,' emphasizing the urgency of conservation efforts.",
+            "The hourglass symbolizes the passage of time and the necessity for immediate action.",
+            "The oil depicts environmental threats such as pollution and habitat destruction."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000123.jpg",
+        "path": "intention_understanding/000123.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for environmental protection.",
+            "The poster depicts a light bulb filled with water, and the green plant branches on the bulb suggest growth and ecological balance.",
+            "The slogan 'LIGHTS OFF. GREEN ON.' encourages turning off the lights to support environmental protection."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000124.jpg",
+        "path": "intention_understanding/000124.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an advertisement poster emphasizing data security.",
+            "The background of the poster is a gradient of green and yellow, with faint binary codes and email symbols, creating a technological atmosphere. The main visual is a chain with one link replaced by a paperclip, symbolizing vulnerability in a robust system.",
+            "The message is \"Don't be the weakest link in the information security chain,\" emphasizing the importance of security in every link.",
+            "The Etisalat logo in the upper right corner indicates that the event is sponsored by them."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000125.jpg",
+        "path": "intention_understanding/000125.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for 'PeripheryTech'.",
+            "It shows a USB drive network cable comparing to a train on railroad tracks, symbolizing digital connectivity.",
+            "The yellow wheat fields on both sides and the blue sky background represent peripheral areas. Combined with the text above, it demonstrates how to integrate peripheral areas into the overall job market issue."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000126.jpg",
+        "path": "intention_understanding/000126.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service announcement poster for the 2023 National Road Safety Week that uses powerful visual effects and information to promote cautious driving.",
+            "A speedometer decorated with alternating patterns symbolizes the impact of speed on human life.",
+            "The pointer is shaped like a person driving, emphasizing the relationship between speed and safety.",
+            "The patterns on the speedometer range from grandfather speed, grandmother speed, normal driving speed, to child speed, with a dangerous skull and crossbones symbol appearing after 120, indicating hazardous speeds. It displays the consequences of reckless driving.",
+            "The poster prominently highlights the word 'Slow Down' in bold white letters against a bright red background.",
+            "The phrase 'Someone is waiting at home!' urges drivers to consider their loved ones and drive slower."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000127.jpg",
+        "path": "intention_understanding/000127.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Samsung air conditioner commercial poster.",
+            "The poster uses a split design, showcasing two contrasting environments: a desert and an icy landscape.",
+            "On the desert side, the warm orange tones, desert, and camels represent heat.",
+            "On the icy side, the cool white tones, ice, snow, and polar bears symbolize coolness.",
+            "The air conditioner is placed on the right side, accompanied by the slogan 'Defeat the Heat in Seconds' above, symbolizing the ability of Samsung air conditioners to transform heat into coolness."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000128.jpg",
+        "path": "intention_understanding/000128.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating environmental protection and rejecting industrial pollution.",
+            "The poster shows a green leaf, the edges of which have begun to yellow. The top part of the leaf is hollowed out in the shape of factories lined up to eliminate pollutants emitted from industrial smokestacks.",
+            "The phrase 'Every leaf captures CO₂' emphasizes the key role of trees in absorbing carbon emissions. However, the leaf turning yellow indicates it has begun to endure excessive pollution.",
+            "The slogan 'Plant for the Planet' advocates for reducing ecological damage through tree planting and encourages donations."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000129.jpg",
+        "path": "intention_understanding/000129.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for peanut butter.",
+            "The poster is composed of chocolate-colored text, with the content 'Please do not lick the page.' The text looks like it's made of Nutella. Below is a jar of Nutella and a brush coated with chocolate, suggesting that the text is painted with Nutella.",
+            "The font implies the deliciousness of Nutella, making people tempted to try it."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000130.jpg",
+        "path": "intention_understanding/000130.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for AdCreative.ai.",
+            "The poster is composed of a horse illustration divided into three parts. The left part, 'Client's Budget', is done in a simple sketch, symbolizing limited capabilities due to resource constraints.",
+            "The middle part, 'Client's Expectations', is completed in a sketch, indicating that the user's expectations are approximately at a medium level.",
+            "The right part is a vivid and realistic horse image labeled as 'Result of using AdCreative.ai', symbolizing that using AdCreative.ai can yield high-quality results beyond expectations even with a small budget."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000131.jpg",
+        "path": "intention_understanding/000131.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for Volkswagen.",
+            "The poster uses a minimalist design, with a central image combining a seat belt buckle with an electrocardiogram line.",
+            "The seat belt forms the peaks and troughs of the electrocardiogram, symbolizing a heartbeat.",
+            "The image suggests that wearing a seat belt can protect and sustain life.",
+            "The phrase at the top, 'Save your life!', emphasizes the importance of using a seat belt.",
+            "The Volkswagen logo at the bottom highlights the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000132.jpg",
+        "path": "intention_understanding/000132.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Agroleaf Power, a crop fertilizer.",
+            "The poster features a close-up image of green leaves, with veins resembling a muscular anatomical structure.",
+            "A small package of the product is labeled with the slogan: 'Make your crops stronger today. Use Agroleaf Power, ICL's foliar fertilizer.'",
+            "Overall, the poster uses the visual imagery of muscles combined with leaves to convey the effect of the fertilizer in enhancing the growth of crop veins."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000133.jpg",
+        "path": "intention_understanding/000133.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an IKEA commercial poster.",
+            "The poster shows a flat sheet emerging from a can similar to an energy drink. The brightly colored can prominently displays the text 'Sleep boosts your energy' in large font.",
+            "The design metaphor equates sleep with an energy drink, emphasizing sleep as a natural source of energy.",
+            "The slogan 'Tomorrow starts tonight' underscores the importance of a good night's sleep for productivity."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000134.jpg",
+        "path": "intention_understanding/000134.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for KFC.",
+            "The poster uses the brand's consistent red and white color scheme. It utilizes negative space to depict a child opening their mouth wide, with two hands placed at the bottom, lifting up in an eager pose to eat. Meanwhile, the open mouth in the middle resembles the shape of a classic hamburger."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000135.jpg",
+        "path": "intention_understanding/000135.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Tabasco sauce.",
+            "In the poster, the Tabasco hot sauce bottle visually transforms into a fire extinguisher. The bottle retains its iconic elements while being equipped with a pressure gauge and hose.",
+            "The background is a warm red, enhancing the fiery theme of the sauce.",
+            "The tagline emphasizes that Tabasco is tiny but packs a punch with intense and edgy heat.",
+            "The design humorously suggests that Tabasco's heat is like fire, using the metaphor of a fire extinguisher."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000136.jpg",
+        "path": "intention_understanding/000136.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for LEGO.",
+            "The poster uses LEGO bricks to recreate the Mona Lisa in a pixelated form."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000137.jpg",
+        "path": "intention_understanding/000137.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This poster is a commercial advertisement for LEGO.",
+            "The brand name 'LEGO' appears at the top of the image.",
+            "The poster shows a car, with the left half drawn in crayon and the right half as a real LEGO model, symbolizing how LEGO helps turn imagination into reality.",
+            "The top headline is 'LEGO' and the bottom headline is 'Build your dreams!' This, combined with the visual effects, highlights the concept of LEGO building turning imaginative ideas into reality."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000138.jpg",
+        "path": "intention_understanding/000138.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating reading more books, and the series of posters uses the slogan 'Become Others' to convey the transformative power of reading.",
+            "The image shows individuals holding books like masks and aligning them with their faces.",
+            "The visual metaphor presents reading as a way to explore various lives and perspectives."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000139.jpg",
+        "path": "intention_understanding/000139.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an advertisement poster about love.",
+            "The poster depicts a metal dumbbell with a heart-shaped weight, which is dented and shows obvious signs of wear and tear.",
+            "The core message 'LOVE is HARD' directly connects the metaphor to the theme of the poster, indicating that love is difficult."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000140.jpg",
+        "path": "intention_understanding/000140.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster about environmental protection.",
+            "In the center of the poster is a distorted plastic bottle, with the twisted part coincidentally strangling a rhinoceros's throat. It highlights the threat of plastic waste to wildlife and emphasizes the importance of environmental protection.",
+            "The text 'Time is running out for them, not for plastic' contrasts the plight of endangered species while emphasizing the long-lasting presence of plastic waste."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000141.jpg",
+        "path": "intention_understanding/000141.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for World AIDS Day.",
+            "The poster features bold text 'Life Saver', and at the center is an image of a lifebuoy made from a condom. This visual metaphor compares the protective function of condoms in sexual activity to the role of a lifebuoy in water rescue.",
+            "It symbolizes how condoms can prevent the transmission of HIV/AIDS, thereby saving lives.",
+            "Below this image, the text 'World AIDS Day' places the information in the context of health awareness and prevention."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000142.jpg",
+        "path": "intention_understanding/000142.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster by Maxfactor.",
+            "The visual depicts a car accident on a road drawn with mascara.",
+            "The image symbolizes the potential dangers of applying makeup while driving, illustrating the harmful consequences of distraction.",
+            "Max Factor's logo is cleverly incorporated, associating the brand with responsible makeup use."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000143.jpg",
+        "path": "intention_understanding/000143.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a McDonald's public service advertisement poster, using visual metaphors to demonstrate McDonald's commitment to environmental sustainability.",
+            "The green background symbolizes nature and eco-friendliness. From McDonald's products, to packaging waste, to the green sprout sprouting from a hand, the connecting arc forms the M shape of the McDonald's logo.",
+            "The phrase 'Ensemble, pour un meilleur environnement' emphasizes cooperation in environmental efforts.",
+            "The recycling symbol with the McDonald's logo highlights their commitment to reducing waste."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000144.jpg",
+        "path": "intention_understanding/000144.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for McDonald's.",
+            "The poster uses a creative visual metaphor, with the McDonald's fries box as a night light symbolizing its 24-hour service. The design uses McDonald's red and yellow color scheme to enhance brand recognition, with the golden arches logo on the box."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000145.jpg",
+        "path": "intention_understanding/000145.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for McDonald's.",
+            "The poster features a dark background with a gray outline of a world map. Golden arcs on the poster extend from various global locations and converge above the Frankfurt Airport in Germany.",
+            "The airplane pattern on the right indicates that these golden arcs represent flight paths. Together, these arcs form McDonald's iconic 'M' symbol, representing the brand's global influence.",
+            "The text below indicates that this advertisement is specifically created for the grand opening of McDonald's at Terminal 2 of Frankfurt Airport on March 30."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000146.jpg",
+        "path": "intention_understanding/000146.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Mercedes-Benz.",
+            "On the poster, there is a wrench against a gray background, with a shadow resembling a crocodile. The wrench symbolizes vehicle maintenance, contrasting with the ominous shadow, suggesting the threat associated with unofficial vehicle repairs.",
+            "The text warns not to trust unauthorized services to avoid dangerous consequences."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000147.jpg",
+        "path": "intention_understanding/000147.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Dorco razors.",
+            "The poster primarily features a black background with the lower half of a man's face, where the beard is replaced by cactus texture. The central text reads 'Daddy, it hurts!' implying that when a man holds a child, his beard is hard and prickly, causing the child pain.",
+            "The bottom right corner displays a Dorco 'X-razor' as the suggested solution."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000148.jpg",
+        "path": "intention_understanding/000148.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for ocean protection.",
+            "The poster shows a plastic bottle underwater, containing a fish.",
+            "The striking text reads 'Welcome to my new home', emphasizing the irony of marine life living in human waste.",
+            "The blue color scheme mimics the tones of the ocean to convey an authentic marine environment.",
+            "Statistics show that 8 million tons of plastic enter the ocean every year, further exacerbating the existing problem of 150 million tons of plastic."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000149.jpg",
+        "path": "intention_understanding/000149.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Nike commercial advertisement poster.",
+            "The poster showcases a sneaker made from intertwined threads and foam blocks, the Space Hippie sneaker portrayed as an eco-friendly product made from recycled materials, with the headline 'THIS IS TRASH.'",
+            "The poster emphasizes the process of transforming waste into high-quality products.",
+            "'Move to Zero' calls on consumers to join Nike in its journey toward zero carbon and zero waste."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000150.jpg",
+        "path": "intention_understanding/000150.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Nike commercial advertisement poster.",
+            "The poster depicts a winter sports scene where the shape of the red ski slope resembles Nike's swoosh logo. Skiers slide down the swoosh against a snow-covered mountain backdrop, with ski lifts and pine trees enhancing the alpine atmosphere.",
+            "The phrase 'NIKE EXTREME JUST EXPERIENCE IT' is prominently displayed, emphasizing Nike's branding and adventurous spirit."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000151.jpg",
+        "path": "intention_understanding/000151.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a FedEx commercial advertisement poster.",
+            "An image shows a chicken emerging from a FedEx box, implying the reliable delivery service of FedEx.",
+            "The poster uses the phrase 'Now you know who came first' with visual effects to enhance the humor of the design.",
+            "The slogan 'The World On Time' emphasizes FedEx's commitment to punctual and reliable service."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000152.jpg",
+        "path": "intention_understanding/000152.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Lay's potato chips.",
+            "The poster features a classic Lay's potato chip package, set against a sunset landscape. The package is partially buried in the ground, surrounded by plant stems and leaves, suggesting that Lay's chips come from the earth's potatoes.",
+            "The phrase «All the Great» promises quality and taste.",
+            "The PepsiCo logo in the corner of the Lay's bag indicates Lay's parent company."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000153.jpg",
+        "path": "intention_understanding/000153.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for a Pepsodent Torsion toothbrush.",
+            "At the center of the image is a cut-open tooth, with a decayed fish bone clearly visible in the middle of the tooth, representing food lingering on the teeth for a long time.",
+            "The slogan 'Don't let food linger too long' reinforces the message, urging the audience to maintain a diligent brushing habit.",
+            "The displayed Pepsodent Torsion toothbrush emphasizes the importance of using effective tools for comprehensive oral care."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000154.jpg",
+        "path": "intention_understanding/000154.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Persil Gel detergent.",
+            "Against the background of city high-rises, a blue-collar worker wearing a teal shirt is working hard under the sun. Due to sweating, many soap bubbles begin to appear on the shirt, symbolizing the awkward situation that might occur when using powdered detergents that leave residue.",
+            "The emphasis is on the detergent brand 'Persil Gel,' highlighted by the text 'no powder residue' to emphasize its advantage compared to powdered detergents."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000155.jpg",
+        "path": "intention_understanding/000155.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Philips light bulbs.",
+            "The poster displays a Philips energy-saving light bulb shaped like a 'like' symbol, glowing against a deep blue background. The design incorporates the Philips logo and the slogan 'Sense and Simplicity,' placed in a soft white cloud pattern at the top.",
+            "Below the light bulb, the phrase 'Light Us Up' is displayed along with a Facebook hashtag, suggesting a connection to social media.",
+            "The 'like' symbol design metaphorically represents approval or 'likes,' linking Philips lighting to good choices and endorsements on social media."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000156.jpg",
+        "path": "intention_understanding/000156.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Pizza Hut commercial advertisement poster.",
+            "The poster shows pizza slices folded into the shape of a paper airplane flying over a cityscape, a visual metaphor emphasizing the convenience and reach of Pizza Hut's delivery service.",
+            "The bold white slogan 'Deliver Anywhere' reinforces the universal accessibility."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000157.jpg",
+        "path": "intention_understanding/000157.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Pizza Hut.",
+            "It features a woman in the foreground with flowing brown hair, holding a slice of pizza, replacing the usual gesture of the Mona Lisa.",
+            "The Pizza Hut logo is prominently displayed, along with text promoting their 'classic Italian thin crust,' indicating the product release date."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000158.jpg",
+        "path": "intention_understanding/000158.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service announcement poster.",
+            "On the poster, there is a formally dressed person in a suit standing behind a podium, with one hand on their chest, possibly making a speech or taking an oath. The shadow on the wall, due to the play of light and shadow, connects the nose to the microphone, making the nose in the shadow appear very long, implying that he is lying.",
+            "This visual metaphor criticizes the possibility of authoritative figures deceiving the public by pretending to be sincere on the surface."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000159.jpg",
+        "path": "intention_understanding/000159.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is POND'S commercial advertisement poster.",
+            "The poster features an innovative billboard with an inverted U-shaped cutout, where the blue sky, white clouds, and the white billboard match the color scheme of the product. The cutout resembles a pore, and the small figure inside symbolizes the product's function, demonstrating deep pore cleansing through cleaning or scraping.",
+            "Next to Pond's facial cleanser packaging is the slogan 'Clean pores, fight acne.'",
+            "This design metaphorically showcases effective deep cleaning and impurity removal, similar to the process of cleaning pores.",
+            "The clean white background emphasizes cleanliness and purity, enhancing the visual message."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000160.jpg",
+        "path": "intention_understanding/000160.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for chili sauce.",
+            "A bright red chili is designed in the shape of Nike's swoosh, with the phrase 'JUST TASTE IT.' mimicking Nike's 'Just Do It.', inviting viewers to try this spicy product.",
+            "The overall design of the poster imitates Nike's logo and slogan applied to chili sauce, enhancing the fun.",
+            "The poster features a bottle of Tabasco hot sauce, emphasizing the brand and the advertised product."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000161.jpg",
+        "path": "intention_understanding/000161.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Mercedes-Benz.",
+            "The poster creatively uses a stethoscope arranged in the shape of the Mercedes-Benz three-pointed star logo to symbolize inspection and diagnosis.",
+            "The overlaid text offers free inspection and a 15% discount on parts, emphasizing the connection between car inspections and maintenance similar to using a stethoscope."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000162.jpg",
+        "path": "intention_understanding/000162.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for TABASCO sauce.",
+            "The visual focal point is the sauce product, with a pure white background. At the bottom of the sauce bottle, there appears to be marks resembling burns caused by the bottle, emitting black smoke. It looks like the sauce burned a hole in the white paper, hinting at the sauce's spiciness.",
+            "The slogan 'Small bottle, big flavor' emphasizes that although the sauce is small, its flavor is incredibly intense, aligning with the visual expression.",
+            "The TABASCO logo in the corner emphasizes the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000163.jpg",
+        "path": "intention_understanding/000163.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster.",
+            "The main visual of the poster is a scene where a yellow pencil depicted as a rocket is ready to take off, symbolizing the potential for creative ideas to 'soar'.",
+            "The slogan 'Creativity can solve everything' aligns with the metaphor of the pencil as a rocket."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000164.jpg",
+        "path": "intention_understanding/000164.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster emphasizing safe driving.",
+            "The poster features a close-up image: a person wearing a blue T-shirt with the year '1991' printed on their chest. The incomplete digits following are obscured by a seatbelt diagonally across the chest, hinting that life can continue if safe measures are followed.",
+            "The message 'Buckle up, stay alive.' is displayed in the lower right corner alongside the logo of the Quebec government.",
+            "The design uses the metaphor of an incomplete date range to simulate a tombstone, suggesting that life may be prematurely ended if seatbelts are not fastened."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000165.jpg",
+        "path": "intention_understanding/000165.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster.",
+            "The poster features a surgical mask shaped like Batman's emblem, with a deep blue background. Above the mask, the text 'quickfox.me' indicates the design studio responsible for the poster.",
+            "Below the mask, the prominent text reads 'Be a superhero,' followed by 'Protect the world, prevent the spread of coronavirus.'",
+            "The mask symbolizes heroism akin to the Batman emblem, suggesting that wearing it makes the wearer a protector of public health."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000166.jpg",
+        "path": "intention_understanding/000166.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating smoking cessation.",
+            "White pixel blocks form the shape of human lungs on a black background. The smoke from the cigarette at the bottom turns into small pixel blocks flying towards the human lungs above. Similar to the arcade game 'Breakout', the human lungs above slowly disappear. It implies that smoking is harmful to the lungs.",
+            "The words 'Quit Smoking' in the corner convey a clear call to action."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000167.jpg",
+        "path": "intention_understanding/000167.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Red Bull functional beverage.",
+            "The poster uses oversized battery-shaped Red Bull cans, with one can placed vertically and another horizontally, metaphorically linking the drink to the concept of energy restoration.",
+            "Next to the Red Bull logo is the slogan 'CHARGE YOUR ENERGY' to emphasize the revitalizing effect of the beverage."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000168.jpg",
+        "path": "intention_understanding/000168.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster by The Salvation Army.",
+            "The fire extinguisher is covered with red and gray quilted material, resembling a down jacket, and is equipped with buttons and a zipper.",
+            "The hose and some areas of the fire extinguisher use textured black fabric, similar to the sleeves of a jacket.",
+            "The message conveyed by the poster is that, just like a fire extinguisher, warm clothing can save lives in cold weather, and it calls for donations with the action call 'Call 4003-2299 to donate.'"
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000169.jpg",
+        "path": "intention_understanding/000169.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for environmental protection.",
+            "It shows a comparison of the health and environment of polar bears from 2009 to 2019. In the 2009 image, a healthy polar bear is walking on thick ice.",
+            "The 2019 image shows a thin polar bear standing on sparse ice.",
+            "The contrasting images emphasize the urgency of environmental issues and the impact of global warming on wildlife."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000170.jpg",
+        "path": "intention_understanding/000170.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for environmental protection, visually demonstrating the impact of paper waste on the environment and emphasizing protection through recycling.",
+            "A crumpled piece of paper symbolizes waste, and the text next to it reads 'one ton,' representing the large-scale production of waste.",
+            "The green font '17 trees' highlights the ecological cost, implying the sacrifice of trees to produce one ton of paper.",
+            "Delicate leaf illustrations in the corner signify harmony achieved through recycling.",
+            "The bold green text at the bottom, 'Reduce, Reuse, Recycle,' promotes sustainable practices to save trees, reduce pollution, and decrease energy consumption."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000171.jpg",
+        "path": "intention_understanding/000171.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public welfare advertisement poster from Volkswagen.",
+            "The poster displays a text fragment on the screen frame saying 'See you n', and provides input method auto-prediction suggestions, 'now' and 'never'. Along with the text below 'Don't text while driving', it emphasizes the danger of texting while driving. It likely intends to say See you now, but due to not paying attention to safety, it becomes See you never."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000172.jpg",
+        "path": "intention_understanding/000172.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertising poster for the Essere brand.",
+            "The central image features a striking high-heeled shoe, cleverly incorporating the letters S, A, L, and E into the lace design to form a visual effect that spells out 'SALE.'",
+            "This design plays with typography and physical form, blending the essence of the shoe with the concept of a promotion, with 'Up to 50%' written above to emphasize this point."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000173.jpg",
+        "path": "intention_understanding/000173.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster from the Slovak Dairy Association.",
+            "Milk cups are arranged in the shape of upper teeth, with their reflection creating the lower teeth, set against a dark blue background.",
+            "From the perspective of teeth, it is paired with the phrase 'Objav mlieko,' which means 'Discover milk.' It uses the metaphor that milk is an important source of calcium and high-quality protein, with calcium being crucial for bone growth and also affecting dental health."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000174.jpg",
+        "path": "intention_understanding/000174.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Sprite.",
+            "The poster depicts a super-sized Sprite vending machine shower on a beach. Water pours down from three outlets, mimicking the distribution of Sprite.",
+            "Above the outlets, the Sprite logo and the slogan 'REFRESQUE SUAS IDEIAS' are displayed.",
+            "The design metaphorically suggests that drinking Sprite in summer is as refreshing as taking a shower."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000175.jpg",
+        "path": "intention_understanding/000175.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating for environmental protection.",
+            "The poster displays the words \"No Nature, No Future\" in bold, hand-cut font against a soft lavender background. Accompanied by three watercolor bird silhouettes, it further highlights the natural environment. The text emphasizes the urgency of the environment through its strong and direct design."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000176.jpg",
+        "path": "intention_understanding/000176.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for jalapeño Tabasco sauce.",
+            "In the poster, a hand holds a pair of tongs gripping the jalapeño Tabasco sauce bottle, and the stainless steel of the tong tips touching the bottle is glowing red hot, implying the sauce's intense spiciness.",
+            "The tagline 'Do not touch. Small bottle. Big flame.' highlights the intense flavor and heat contained in the small bottle.",
+            "The poster also showcases the sauce's versatility in dishes and its benefits of being gluten-free and zero-calorie.",
+            "The metaphors in the design include a red background symbolizing heat and spiciness."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000177.jpg",
+        "path": "intention_understanding/000177.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Lāčplēsis beer.",
+            "An animated image shows beer being poured from a bottle and waves splashing in a beer glass, with golden surfers striking surfing poses on the foamy beer waves.",
+            "The green background enhances the composition's vibrancy, symbolizing freshness and vitality.",
+            "The visual elements effectively convey the 'live beer' message, highlighting the brand's vibrant essence."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000178.jpg",
+        "path": "intention_understanding/000178.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for DURACELL batteries.",
+            "The poster shows Darth Vader using Duracell batteries in his lightsaber.",
+            "The slogan links the Star Wars theme with Duracell's power branding message."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000179.jpg",
+        "path": "intention_understanding/000179.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating for the protection of the Earth.",
+            "The poster uses a powerful visual metaphor, comparing the Earth to a melting candle, to promote Earth Day. The burning candle represents the direct threat that global warming poses to our planet.",
+            "The phrase 'There is no spare planet' emphasizes the urgency and necessity of taking action."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000180.jpg",
+        "path": "intention_understanding/000180.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating for washing vegetables.",
+            "The main visual is a realistic tomato with a lit bomb fuse, symbolizing imminent danger. The slogan in the upper left corner emphasizes that unwashed vegetables can become deadly weapons.",
+            "The call to action urges consumers to wash vegetables to avoid health risks that have destructive power similar to bombs."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000181.jpg",
+        "path": "intention_understanding/000181.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating for washing vegetables.",
+            "The main visual depicts an artichoke designed as a hand grenade, symbolizing imminent danger. The slogan at the top left emphasizes that unwashed vegetables could become lethal weapons.",
+            "The call to action urges consumers to wash their vegetables to avoid health risks with destructive power akin to a bomb."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000182.jpg",
+        "path": "intention_understanding/000182.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a UNICEF public service advertisement poster.",
+            "The poster depicts a child in a clothing store treating male and female mannequins used to display clothing as their parents, holding their hands and looking up at the male mannequin with expectant eyes.",
+            "On the outside of the clothing store's glass window, the words 'Every child needs a home' are written, where the 'A' and 'I' in 'Family' are illustrated using the shapes of a girl and a boy, further highlighting childlike innocence and the importance of parents in a family.",
+            "The slogan calls for support for UNICEF's foster care program, emphasizing that children need a real family."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000183.jpg",
+        "path": "intention_understanding/000183.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Nestlé Coffee.",
+            "The poster design contrasts 'weekday' and 'weekend'. On the left, a coffee stain resembling a frown symbolizes weekday stress, paired with red quotation marks that look like tired eyes.",
+            "Below this image, 'weekday' is displayed in bold red letters.",
+            "On the right, a coffee stain resembling a smile suggests weekend joy, with the quotation marks representing happy eyes.",
+            "Below appears 'weekend' in the same red font.",
+            "In the bottom right corner, the Nestlé Coffee logo connects their product with the companionship throughout every day from weekday to weekend."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000184.jpg",
+        "path": "intention_understanding/000184.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster advocating the reduction of plastic product usage.",
+            "The poster shows a plastic bottle split in half against a two-tone blue background. The left half is an intact plastic bottle with a lighter blue background; the right half is a crumpled discarded plastic bottle with a darker blue background.",
+            "Prominent text on the poster reads 'Use Once, Lasts Forever,' with 'Once' and 'Forever' emphasized in striking dark blue.",
+            "The design elements symbolize the long-lasting and non-degradable nature of plastic."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000185.jpg",
+        "path": "intention_understanding/000185.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster.",
+            "The poster features a person holding a book titled 'Alice's Adventures in Wonderland' in front of their face, creating an illusion of transformation.",
+            "The placement of the book is an intentional metaphor, and the phrase 'lost in the book' collectively symbolizes the idea of being immersed in a story and blending with its narrative."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000186.jpg",
+        "path": "intention_understanding/000186.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Nutella.",
+            "The poster depicts a slice of bread spread with Nutella, with a hand holding a knife extending the spread onto the table.",
+            "The text on the poster reads 'You'll wish the bread were longer,' accompanied by the Nutella logo.",
+            "The design implies that Nutella is so delicious that people wish for more bread."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000187.jpg",
+        "path": "intention_understanding/000187.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Poise menstrual pads.",
+            "The visual center is somewhat like a soccer field, dynamically presenting the shape of a sanitary pad.",
+            "The text 'For the one-third of women whose bladder shows them the yellow card' uses soccer terminology to represent unexpected bladder leaks, implying menstrual blood leakage.",
+            "The text 'It takes poise' is a pun. It means both to keep calm and that using Poise pads can keep you calm in such situations."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000188.jpg",
+        "path": "intention_understanding/000188.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster that advocates healthy exercise while protecting the environment.",
+            "The poster uses a minimalist design, depicting the silhouette of a hiker with a backpack and walking stick.",
+            "The slogan 'BURN FAT NOT OIL' is displayed in bold, rugged black font above and below the figure. It promotes losing weight through exercise while reducing fuel consumption, advocating for an environmentally friendly and healthy lifestyle."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000189.jpg",
+        "path": "intention_understanding/000189.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a FedEx commercial poster.",
+            "The background presents a world map painted on the wall, with regions colored in purple.",
+            "Two people interact through window-like openings on the map, exchanging a FedEx package.",
+            "The window locations on these continents imply that FedEx provides convenient global shipping services."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000190.jpg",
+        "path": "intention_understanding/000190.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an IKEA shoe cabinet commercial poster.",
+            "The main visual on the poster is a sneaker resembling Converse shoes stuffed into a pair of water-red stiletto high heels, indicating a lack of space and the need to stack shoes to save space.",
+            "Combined with the image of the HEMNES shoe cabinet below and the text 'Need space?', it highlights the storage capacity of the IKEA shoe cabinet."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000191.jpg",
+        "path": "intention_understanding/000191.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Crusoe men's underwear.",
+            "The central figure is wearing blue underwear, lying on a turquoise bed, with simple white lines depicting fish, coral, and marine life, presenting a wondrous underwater scene. It metaphorically represents the man's dream scene.",
+            "The text 'Awaken your inner adventure!' expresses that by wearing comfortable underwear and experiencing deep sleep, one can freely explore in their dreams."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000192.jpg",
+        "path": "intention_understanding/000192.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial advertisement poster for Australia Post.",
+            "The core image depicts a woman embraced by an arm made of handwritten text, symbolizing emotional connection through handwritten letters.",
+            "The slogan encourages deeper emotional communication through sending letters compared to digital communication."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000193.jpg",
+        "path": "intention_understanding/000193.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Barilla pasta.",
+            "The main visual presents pasta strands stretching out against a rich blue background, with the golden pasta visually mimicking the brilliance and burst of festive fireworks.",
+            "The design centers around the 'Happy New Year' message in bold white text.",
+            "The pasta as fireworks connects the product with the joy and celebration of the New Year, emphasizing its role during festive moments."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000194.jpg",
+        "path": "intention_understanding/000194.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Dukto Drain Unblocker.",
+            "The poster features a scene with a fluffy little brown elephant trying to escape a drain opening, but it's trapped due to tangled hair.",
+            "A bottle of Dukto Drain Unblocker and the slogan 'Let them flow free' imply the product's effectiveness."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000195.jpg",
+        "path": "intention_understanding/000195.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster that uses visual metaphors to depict the opportunity gap between genders.",
+            "It shows a puzzle grid where the woman's side on the left has many small pieces, and the provided piece at the bottom cannot fit into the blank space above.",
+            "The man's puzzle on the right, in contrast, has larger pieces, fewer in number, and the remaining piece clearly fits into the blank space above.",
+            "The poster's title emphasizes the imbalance in achieving equality and access to opportunities between genders."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000196.jpg",
+        "path": "intention_understanding/000196.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a commercial poster for Tide laundry detergent.",
+            "This advertisement conveys the effect of Tide detergent through the visual metaphor of a Dalmatian losing its spots, implying that Tide can easily remove stains, as the slogan says, 'One wash cleans all.'",
+            "The Tide logo in the bottom-right corner highlights the brand."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000197.jpg",
+        "path": "intention_understanding/000197.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster using a creative metaphor to illustrate strengthening marriage.",
+            "The letter 'M' in the bold 'ME' is surrounded by dashed lines and a scissors icon, suggesting that the letter needs to be cut.",
+            "Following the steps indicated below, 'ME' transforms into 'WE', symbolizing that a lasting relationship requires turning 'me' into 'we'."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000198.jpg",
+        "path": "intention_understanding/000198.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a public service advertisement poster for the 'Don't Drive Sleepy' project by the Thai Health Promotion Foundation.",
+            "It features a close-up of a person's eyes, with a car on the upper eyelid and a cyclist on the lower eyelid.",
+            "The design conveys the heaviness of drowsiness, as when the eyes close, the car on the upper eyelid collides with the cyclist on the lower eyelid, resulting in an accident.",
+            "The copy 'Drowsiness is stronger than you' suggests that drowsiness can overwhelm the will to stay awake, emphasizing the dangers of driving while tired."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000199.jpg",
+        "path": "intention_understanding/000199.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is an advertisement poster about waking up.",
+            "The poster depicts a metal dumbbell with an alarm clock as its weight, with pockmarks and obvious signs of wear.",
+            "The core message 'WAKING UP is HARD' directly links the metaphor to the theme of the poster, indicating that waking up is difficult."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000200.jpg",
+        "path": "intention_understanding/000200.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a billboard advertisement for Arrow Extra Mint Gum.",
+            "The poster features a minimalist design with a light blue background, with white rectangular pieces of gum vertically aligned in the center. This design cleverly casts shadows similar to toothbrush bristles, symbolically linking gum to oral hygiene.",
+            "The bottom right corner displays a pack of Arrow Extra Mint Gum with the slogan 'Portable oral care.'",
+            "The poster highlights the convenience and benefits of chewing gum in maintaining oral health and keeping breath fresh."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000201.jpg",
+        "path": "intention_understanding/000201.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Heinz ketchup commercial poster.",
+            "The background is deep red, which is the brand's primary color. The main visual shows the bottom of a Heinz ketchup bottle with a green stem placed on top, making it look like a ripe tomato.",
+            "The text reads: 'No one grows ketchup like Heinz,' followed by the Heinz logo.",
+            "The design metaphorically suggests that the tomatoes used in ketchup production are very natural."
+        ]
+    },
+    {
+        "task": "intention understanding",
+        "subtask": "",
+        "name": "000202.jpg",
+        "path": "intention_understanding/000202.jpg",
+        "prompt": "Please provide a detailed description of this poster (within 150 words) and explain the design metaphors used in it.",
+        "gt": [
+            "This is a Nike commercial poster.",
+            "The poster features nine circular clock faces with Nike's swoosh logo as the hands, symbolizing different times.",
+            "Below the grid, 'JUST DO IT. ANYTIME.' is written in bold white letters.",
+            "The design metaphor represents time and readiness, indicating Nike's message that any time is a good time to take action."
+        ]
+    }
+]

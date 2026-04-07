@@ -1,0 +1,1325 @@
+[
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "001.jpg",
+        "path": "composition_understanding/001.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "an off-white spotlight slanting from the upper left to the lower right",
+            "stark blocks of contrasting color"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "002.jpg",
+        "path": "composition_understanding/002.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "a handcrafted papercraft 3D effect"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "003.jpg",
+        "path": "composition_understanding/003.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The dark area extends past the dividing line to the left, forming the silhouette of a man in profile.",
+            "Within the man's profile, negative space reveals a half-length profile of a woman.",
+            "A distinct color dividing line runs from the lower left corner to the upper right.",
+            "Positive and negative space interlace."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "004.jpg",
+        "path": "composition_understanding/004.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "cropped images of a face in different poses",
+            "each square holds a cropped image of the face in a different pose",
+            "a three-by-three grid of squares"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "005.jpg",
+        "path": "composition_understanding/005.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Within the triangle appears a statue-like female figure in white, wearing a black bowler hat, her head bowed, gazing downward",
+            "One hand grips a sharp dagger that thrusts beyond the triangle, its blade aimed straight at the viewer",
+            "Near the base of the larger triangle, within it, there is another triangle containing a white female statue"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "006.jpg",
+        "path": "composition_understanding/006.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Towering city skyscrapers all around",
+            "Low-angle perspective",
+            "The fractured edges of the buildings visually outline a clear bat silhouette"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "007.jpg",
+        "path": "composition_understanding/007.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "an upper-body silhouette of a man in a suit",
+            "the top and edges of the head are stacked with bundles of copper-colored bullets and shells",
+            "the suit jacket is densely laid out with dark shell casings",
+            "the shirt collar is neatly lined with silver-gray bullets to create a pleated texture",
+            "the tie knot is composed of brass-colored casings"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "008.jpg",
+        "path": "composition_understanding/008.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Dense green characters and symbols rain down vertically."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "009.jpg",
+        "path": "composition_understanding/009.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The face is split into sections",
+            "A downward-pointing triangle",
+            "Three color bands"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "010.jpg",
+        "path": "composition_understanding/010.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "At the center of the composition is a spiral vortex composed of fine white lines, tightening inward layer by layer.",
+            "At the heart of the vortex are two silhouetted figures."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "011.jpg",
+        "path": "composition_understanding/011.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Vertical",
+            "The building appears to be 'split apart'.",
+            "Tetris blocks falling from the sky",
+            "Assembly and Reconfiguration"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "012.jpg",
+        "path": "composition_understanding/012.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "three rows by two columns"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "013.jpg",
+        "path": "composition_understanding/013.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Misaligned face",
+            "Split face",
+            "Right hand raised beside the head making a finger-gun gesture"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "014.jpg",
+        "path": "composition_understanding/014.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Fingers pinching a cigarette at the lips in a smoking gesture",
+            "The glasses are cut out, revealing the dictionary page beneath"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "015.jpg",
+        "path": "composition_understanding/015.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Letters stacked from top to bottom",
+            "The letters are hollowed, revealing fragmented scenes and silhouettes, smoke, and cracks"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "016.jpg",
+        "path": "composition_understanding/016.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "black-and-white sketch of a woman’s face as the background",
+            "large black lettering",
+            "lettering overlaying the face and filling the entire frame"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "017.jpg",
+        "path": "composition_understanding/017.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A vertical axis splits the composition in two.",
+            "The four letters are arranged vertically.",
+            "The four vertically stacked letters are cut out, revealing the face."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "018.jpg",
+        "path": "composition_understanding/018.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Three triangles arranged from left to right",
+            "Triangular cutouts reveal a woman's profile"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "019.jpg",
+        "path": "composition_understanding/019.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "portrait of a man’s face",
+            "blur effect",
+            "thin white rectangular outline",
+            "within the frame, the man's eye, nose, and the right half of his lips are in sharp focus"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "020.jpg",
+        "path": "composition_understanding/020.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The \"NOT ALIGNED\" bar sticks out to the left",
+            "A tidy column"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "021.jpg",
+        "path": "composition_understanding/021.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Silhouette of a figure outlined in pure white negative space",
+            "Arms outstretched in an embrace"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "022.jpg",
+        "path": "composition_understanding/022.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Lens pointing upward",
+            "A narrow column of text shoots upward from the lens opening"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "023.jpg",
+        "path": "composition_understanding/023.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "circular pool of light",
+            "An empty wooden chair, lit by harsh light, sits in the circular pool at the center",
+            "stark contrast of light and dark"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "024.jpg",
+        "path": "composition_understanding/024.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "vertical stripes",
+            "interlaced",
+            "multiple portraits",
+            "different angles"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "025.jpg",
+        "path": "composition_understanding/025.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The person's face is divided into a three-by-three grid of squares.",
+            "Five of the squares are filled with the background color, and together they spell 'UNREPORTED'."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "026.jpg",
+        "path": "composition_understanding/026.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Russian-doll nesting composition",
+            "Man holding a picture frame",
+            "Woman holding a picture frame",
+            "Child holding a picture frame",
+            "A smaller frame nested inside the frame",
+            "A small dog sitting upright at the center of the frame"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "027.jpg",
+        "path": "composition_understanding/027.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Five white paper airplanes fly to the right along parallel horizontal dashed lines",
+            "Mid-left, an orange-yellow paper airplane breaks formation, climbing along a dashed diagonal path at roughly 45 degrees",
+            ""
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "028.jpg",
+        "path": "composition_understanding/028.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The hiker's upper body appears 'moved' to the left end of the branch",
+            "The body appears split in two"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "029.jpg",
+        "path": "composition_understanding/029.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "More than a dozen rectangular panels",
+            "A large left-facing profile silhouette",
+            "The face is divided into rectangular panels",
+            "Iconic looks and props from multiple films"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "030.jpg",
+        "path": "composition_understanding/030.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Her upper body turns left",
+            "Her lower body, in a skirt, walks from left to right",
+            "Creating a deliberate offset"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "031.jpg",
+        "path": "composition_understanding/031.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Under each letter are narrow vertical strips",
+            "Each strip is filled with the same sea-sunset photo",
+            "Narrow vertical strips",
+            "The narrow strips are arranged side by side"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "032.jpg",
+        "path": "composition_understanding/032.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A woman's profile split in two",
+            "A vertical white fissure (a portal of light) at the center",
+            "A woman standing in profile before the portal of light"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "033.jpg",
+        "path": "composition_understanding/033.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Fingertips seem to touch a cracked pane of glass",
+            "A dense web of cracks radiates outward like a spiderweb",
+            "Floating shards of glass contain different scenes and clues",
+            "The background is suffused with a hazy glow of gray-blue and sandy gold",
+            "Tiny dust motes and paper-like flecks drift through the air"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "034.jpg",
+        "path": "composition_understanding/034.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Beige negative space",
+            "The main image is a large dark silhouette",
+            "Within the silhouette is a nighttime checkpoint scene",
+            "Brick walls topped with barbed wire on both sides",
+            "A horizontal barrier gate in the middle",
+            "A figure stands in the distance and another in the foreground",
+            "The nearer figure wears a trench coat and hat and carries a briefcase",
+            "Guard towers and spotlights"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "035.jpg",
+        "path": "composition_understanding/035.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Within the woman's silhouette is a real seascape."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "036.jpg",
+        "path": "composition_understanding/036.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Mirror-still water",
+            "An almost symmetrical top-and-bottom composition"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "037.jpg",
+        "path": "composition_understanding/037.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A 5-column by 6-row grid"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "038.jpg",
+        "path": "composition_understanding/038.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Two men in shirts and ties",
+            "Head replaced by a giant Rubik's Cube",
+            "Cradling another Rubik's Cube in both hands"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "039.jpg",
+        "path": "composition_understanding/039.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Arranged in a 2x3 grid"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "040.jpg",
+        "path": "composition_understanding/040.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A red bottle sits at the lower center of the image",
+            "Blue liquid gushes out",
+            "The splash shapes cleverly spell out a giant 'PROSIT'"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "041.jpg",
+        "path": "composition_understanding/041.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The upper half is divided into three vertical panels",
+            "Three men",
+            "The lower half shows a dense forest and a river"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "042.jpg",
+        "path": "composition_understanding/042.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A strong sense of perspective and depth",
+            "The photograph is divided into multiple sections by several broad horizontal white bands",
+            "The right edges of the white bands, together with areas of negative space, carve out oversized letterforms",
+            "A traditional Japanese paper umbrella. The umbrella is rendered in bright orange, the only color in the composition"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "043.jpg",
+        "path": "composition_understanding/043.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A huge female face occupies the center of the image",
+            "The face part has been separated",
+            "Open gaps reveal a face"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "044.jpg",
+        "path": "composition_understanding/044.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Broad swathes of deep black on the left and right read as enlarged cheeks and lips",
+            "The central negative space is outlined by these contours into a corridor",
+            "A tiny human silhouette stands at the bottom"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "045.jpg",
+        "path": "composition_understanding/045.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A gigantic white fork is the central subject.",
+            "The fork’s end sits at the bottom of the frame, and the gaps between the tines use negative space to form the silhouettes of three black wine bottles."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "046.jpg",
+        "path": "composition_understanding/046.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "In the center, multiple vertical \"fragments\" or cracks split the image into several slices",
+            "Partial human faces with different emotions"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "047.jpg",
+        "path": "composition_understanding/047.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "aircraft nose",
+            "aircraft pressing into the newspaper",
+            "newspaper forming creases"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "048.jpg",
+        "path": "composition_understanding/048.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Nine-panel poster",
+            "Each panel looks like a player trading card or a comic cover"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "049.jpg",
+        "path": "composition_understanding/049.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A gown constructed from typography"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "050.jpg",
+        "path": "composition_understanding/050.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Silhouette of a side-facing human profile",
+            "Inside the silhouette is a harbor scene",
+            "A geometric 'brain' drawn in fine white lines is superimposed over the head"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "051.jpg",
+        "path": "composition_understanding/051.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A cool white spotlight pouring down from above",
+            "Uppercase text: \"ON A MISSION.\""
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "052.jpg",
+        "path": "composition_understanding/052.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The giant '1917' dominates the composition",
+            "Inside the numerals, the sky transitions from blue-violet to orange-gold",
+            "Through the cutout numerals, two soldiers in World War I British uniforms can be seen"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "053.jpg",
+        "path": "composition_understanding/053.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Centered near the top of the image is a white barcode.",
+            "From the barcode, multiple cool white beams of light shoot downward."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "054.jpg",
+        "path": "composition_understanding/054.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A man’s profile silhouette",
+            "In the center, someone is pulling apart heavy curtains",
+            "Intense golden sunlight pours through the gap between the curtains"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "055.jpg",
+        "path": "composition_understanding/055.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "silhouette of two hands",
+            "the left half of a woman's face inside the silhouette"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "056.jpg",
+        "path": "composition_understanding/056.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The curve of the fingers stands in for the bulb’s silhouette"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "057.jpg",
+        "path": "composition_understanding/057.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The old lady's face is split apart.",
+            "The interior of the center is a black-and-white image of a young woman's face."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "058.jpg",
+        "path": "composition_understanding/058.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A sheet of rough-textured white paper has been torn downward from the top",
+            "Through the vertical tear, you can see the sea at golden hour"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "059.jpg",
+        "path": "composition_understanding/059.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "In the lower half, a sharply rendered human hand reaches upward.",
+            "In the upper half, a blurred shadow of a hand reaches down from above."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "060.jpg",
+        "path": "composition_understanding/060.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "On the right is a silhouette-style human figure assembled from multiple film stills.",
+            "Inside, it is segmented into a grid of rectangular panels."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "061.jpg",
+        "path": "composition_understanding/061.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "In the upper left, a slanting beam of intense light",
+            "Within the pool of light on the ground, a human silhouette appears"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "062.jpg",
+        "path": "composition_understanding/062.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "As if a giant black letter 'G' were layered behind him."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "063.jpg",
+        "path": "composition_understanding/063.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A rock resembling a human face mask",
+            "A reflection in the lake"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "064.jpg",
+        "path": "composition_understanding/064.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "From the inside looking out",
+            "Arranged into concentric rings"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "065.jpg",
+        "path": "composition_understanding/065.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "An upside-down mountain range appears inside the circle",
+            "At the circle's center is a tiny black human figure"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "066.jpg",
+        "path": "composition_understanding/066.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Collage-style portrait",
+            "Two faces"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "067.jpg",
+        "path": "composition_understanding/067.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Blue and red lighting",
+            "Two overlapping figures",
+            "Blue-lit woman with hands crossed",
+            "Red-lit woman shouting"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "068.jpg",
+        "path": "composition_understanding/068.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A door at the center of the head",
+            "White light beyond the door"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "069.jpg",
+        "path": "composition_understanding/069.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A light bulb combined with jigsaw puzzle pieces",
+            "The light bulb contains a silhouette of a child with a backpack",
+            "Below, the same child’s running shadow is mirrored"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "070.jpg",
+        "path": "composition_understanding/070.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The right hand holds a triangular shard of mirror in front of the right eye",
+            "A woman's face is reflected in the shard"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "071.jpg",
+        "path": "composition_understanding/071.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Upside-down figure",
+            "The phrase 'Art is the Highest Form of HOPE' set in varied typography"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "072.jpg",
+        "path": "composition_understanding/072.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The lower half is the water's reflection"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "073.jpg",
+        "path": "composition_understanding/073.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Forming a corridor that leads to the light source"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "074.jpg",
+        "path": "composition_understanding/074.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "From the top-left vine to the bird in the center, then down to the lower-right text,"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "075.jpg",
+        "path": "composition_understanding/075.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "three-dimensional grid",
+            "upper and lower planes"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "076.jpg",
+        "path": "composition_understanding/076.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "An oversized silhouette of a man's profile",
+            "Inside the silhouette, there is a dusky blue ice-cave passage"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "077.jpg",
+        "path": "composition_understanding/077.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A railway track stretches from the bottom of the frame into the distance",
+            "A colossal antique clock face"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "078.jpg",
+        "path": "composition_understanding/078.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "At the top is a close-up of an older man wearing a chunky knit wool cap"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "079.jpg",
+        "path": "composition_understanding/079.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Mirroring the light and shadow of the clock tower and streetlights"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "080.jpg",
+        "path": "composition_understanding/080.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A jagged, lightning-like tear",
+            "Parts of a figure’s body are visible within the tear"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "081.jpg",
+        "path": "composition_understanding/081.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The dancer's body overlaps with the face of another portrait"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "082.jpg",
+        "path": "composition_understanding/082.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Hooves breaking through the surface"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "083.jpg",
+        "path": "composition_understanding/083.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The phone is the only light source",
+            "His facial features are fused to the phone"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "084.jpg",
+        "path": "composition_understanding/084.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A man's profile silhouette",
+            "Inside the silhouette lies a cool-toned mountain forest"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "085.jpg",
+        "path": "composition_understanding/085.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The open book is like a doorway.",
+            "A black asphalt road begins in the foreground, winding forward."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "086.jpg",
+        "path": "composition_understanding/086.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The main subject is an open palm",
+            "In the palm is a scene of two people riding bicycles side by side"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "087.jpg",
+        "path": "composition_understanding/087.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Side profile of a man with a thick beard",
+            "Ocean",
+            "Climbing"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "088.jpg",
+        "path": "composition_understanding/088.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A giant blue eyeball whose iris radiates outward like rippling water or crackling electricity",
+            "A shirtless man in dark shorts"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "089.jpg",
+        "path": "composition_understanding/089.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A massive rock draped into the shape of a hood or cloak",
+            "Inside the rock, however, lies a valley bathed in golden light"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "090.jpg",
+        "path": "composition_understanding/090.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The sky is an entire upside-down city"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "091.jpg",
+        "path": "composition_understanding/091.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Intense white light at the top",
+            "Strong sense of depth"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "092.jpg",
+        "path": "composition_understanding/092.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Silhouette of a man in profile",
+            "Within the 'head' outline, a sunset scene is overlaid",
+            "Inside the 'chest and torso,' a railway cuts through a cave"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "093.jpg",
+        "path": "composition_understanding/093.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A side-profile silhouette of a man dominates the frame, facing left",
+            "A ring of warm light glows within the silhouette's head, revealing a 'cell' inside"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "094.jpg",
+        "path": "composition_understanding/094.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A vast expanse of sea is cleaved by a straight, slightly jagged white corridor",
+            "Stretching from the bottom of the frame all the way to the horizon",
+            "A lone figure in black silhouette"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "095.jpg",
+        "path": "composition_understanding/095.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Multiple concentric arcs line the vaulted ceiling",
+            "The lower half features a human face"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "096.jpg",
+        "path": "composition_understanding/096.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Looking up from the bottom of a well",
+            "A metal ladder slants from the lower left to the upper right",
+            "At the bright mouth of the well, a bird with outstretched wings forms a crisp silhouette"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "097.jpg",
+        "path": "composition_understanding/097.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The strings and fingerboard are \"converted\" into railway tracks",
+            "A little red train approaches head-on"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "098.jpg",
+        "path": "composition_understanding/098.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The right eye is a silhouette of a person rowing across the lake.",
+            "The left eye is a silhouette of a boat on the lake."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "099.jpg",
+        "path": "composition_understanding/099.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The silhouette of a man sitting on the beach is fused with a fiery ocean sunset.",
+            "Inside the figure's body is a stretch of coastline.",
+            "A woman, her back to the viewer, sits quietly at the water's edge, gazing at the setting sun."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "100.jpg",
+        "path": "composition_understanding/100.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A pale green caterpillar with eye-like markings rests atop the chess pawn",
+            "In the mirror, an orange butterfly edged in black is perched atop the same pawn"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "101.jpg",
+        "path": "composition_understanding/101.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "a huge translucent silhouette",
+            "a backpacker stands on a jutting rock",
+            "inside the silhouette, the mountains and rivers are visible, with the sun setting on the horizon"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "102.jpg",
+        "path": "composition_understanding/102.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "In the center of the poster, a long ladder leans against the book tower, stretching up from the ground.",
+            "At the top, a door stands open, with warm golden light spilling out from within."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "103.jpg",
+        "path": "composition_understanding/103.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A massive vortex, with concentric rings receding into the distance",
+            "Dozens of ravens wheel within the vortex"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "104.jpg",
+        "path": "composition_understanding/104.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A colossal white ship bursts through billowing layers of a sea of clouds",
+            "On the rocky platform below, a solitary figure in a white cloak gazes up at the great ship"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "105.jpg",
+        "path": "composition_understanding/105.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "At the center are the shadows of two people."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "106.jpg",
+        "path": "composition_understanding/106.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Collage and Decorative Style"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "107.jpg",
+        "path": "composition_understanding/107.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A semicircular light source peeks out at the horizon",
+            "Dense black-and-white rippling lines"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "108.jpg",
+        "path": "composition_understanding/108.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Letters are cropped and misaligned",
+            "Top-to-bottom orientation"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "109.jpg",
+        "path": "composition_understanding/109.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The background is a pale gray city map",
+            "The ink spreads across the map, forming thick black masses that resemble a street grid"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "110.jpg",
+        "path": "composition_understanding/110.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A 4×4 grid with 16 symbols"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "111.jpg",
+        "path": "composition_understanding/111.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A collage poster composed of a nine-panel grid"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "112.jpg",
+        "path": "composition_understanding/112.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Black-and-white insect line drawings arranged in 3 columns by 4 rows"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "113.jpg",
+        "path": "composition_understanding/113.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "three rows and three columns"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "114.jpg",
+        "path": "composition_understanding/114.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The portrait is segmented",
+            "High-saturation color blocks are embedded in the cuts"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "115.jpg",
+        "path": "composition_understanding/115.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "The upper half shows a vast silhouette of black birds in flight.",
+            "The lower half is cleaved by a diagonal, scorched tear.",
+            "At the bottom is a black-and-white half-length portrait of a short-haired boy gazing up at the sky."
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "116.jpg",
+        "path": "composition_understanding/116.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "A cutout of white hands rises from the bottom",
+            "In the gap between the hands is a human face"
+        ]
+    },
+    {
+        "task": "composition understanding",
+        "subtask": "",
+        "name": "117.jpg",
+        "path": "composition_understanding/117.jpg",
+        "prompt": "Please describe the poster in detail, including its composition, visual hierarchy, spatial relationships between elements, typography.",
+        "gt": [
+            "Letters are projected across the face in a staggered pattern"
+        ]
+    }
+]

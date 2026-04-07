@@ -1,0 +1,4802 @@
+[
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ACANA.jpg",
+        "path": "logo_ocr/ACANA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ACANA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ACUTAS.jpg",
+        "path": "logo_ocr/ACUTAS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ACUTAS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ADORNEVE.jpg",
+        "path": "logo_ocr/ADORNEVE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ADORNEVE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ADORRGON.jpg",
+        "path": "logo_ocr/ADORRGON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ADORRGON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AHRISE.jpg",
+        "path": "logo_ocr/AHRISE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AHRISE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AIDA.jpg",
+        "path": "logo_ocr/AIDA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AIDA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AIMOH.jpg",
+        "path": "logo_ocr/AIMOH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AIMOH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AIRCAT.jpg",
+        "path": "logo_ocr/AIRCAT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AIRCAT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "airtracks.jpg",
+        "path": "logo_ocr/airtracks.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "airtracks"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ALESTOR.jpg",
+        "path": "logo_ocr/ALESTOR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ALESTOR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Alexa.jpg",
+        "path": "logo_ocr/Alexa.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Alexa"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ALIERGO.jpg",
+        "path": "logo_ocr/ALIERGO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ALIERGO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ALLMUIS.jpg",
+        "path": "logo_ocr/ALLMUIS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ALLMUIS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ALLWORK.jpg",
+        "path": "logo_ocr/ALLWORK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ALLWORK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AMINNO.jpg",
+        "path": "logo_ocr/AMINNO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AMINNO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AMYSEN.jpg",
+        "path": "logo_ocr/AMYSEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AMYSEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "amzchef.jpg",
+        "path": "logo_ocr/amzchef.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "amzchef"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Anekke.jpg",
+        "path": "logo_ocr/Anekke.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Anekke"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Angetube.jpg",
+        "path": "logo_ocr/Angetube.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Angetube"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ANGROX.jpg",
+        "path": "logo_ocr/ANGROX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ANGROX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ANSIO.jpg",
+        "path": "logo_ocr/ANSIO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ANSIO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ANYCHO.jpg",
+        "path": "logo_ocr/ANYCHO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ANYCHO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ANYTONE.jpg",
+        "path": "logo_ocr/ANYTONE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ANYTONE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "aokway.jpg",
+        "path": "logo_ocr/aokway.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "aokway"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Areti.jpg",
+        "path": "logo_ocr/Areti.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Areti"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Arnusa.jpg",
+        "path": "logo_ocr/Arnusa.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Arnusa"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ARRIS.jpg",
+        "path": "logo_ocr/ARRIS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ARRIS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ARTRIE.jpg",
+        "path": "logo_ocr/ARTRIE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ARTRIE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Arvok.jpg",
+        "path": "logo_ocr/Arvok.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Arvok"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ASAP.jpg",
+        "path": "logo_ocr/ASAP.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ASAP"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Ascenta.jpg",
+        "path": "logo_ocr/Ascenta.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Ascenta"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "asilo.jpg",
+        "path": "logo_ocr/asilo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "asilo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ASIUR.jpg",
+        "path": "logo_ocr/ASIUR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ASIUR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ASOBEAGE.jpg",
+        "path": "logo_ocr/ASOBEAGE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ASOBEAGE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ASTRA.jpg",
+        "path": "logo_ocr/ASTRA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ASTRA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ATEPA.jpg",
+        "path": "logo_ocr/ATEPA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ATEPA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ATL.jpg",
+        "path": "logo_ocr/ATL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ATL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ATOMSTACK.jpg",
+        "path": "logo_ocr/ATOMSTACK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ATOMSTACK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ATTMU.jpg",
+        "path": "logo_ocr/ATTMU.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ATTMU"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "attoner.jpg",
+        "path": "logo_ocr/attoner.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "attoner"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Audamp.jpg",
+        "path": "logo_ocr/Audamp.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Audamp"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AUXITO.jpg",
+        "path": "logo_ocr/AUXITO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AUXITO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AWS.jpg",
+        "path": "logo_ocr/AWS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AWS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "AZORB.jpg",
+        "path": "logo_ocr/AZORB.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "AZORB"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "B.jpg",
+        "path": "logo_ocr/B.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "B"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Babutenlo.jpg",
+        "path": "logo_ocr/Babutenlo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Babutenlo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BAGOOD.jpg",
+        "path": "logo_ocr/BAGOOD.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BAGOOD"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BAHLSEN.jpg",
+        "path": "logo_ocr/BAHLSEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BAHLSEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BAKARTO.jpg",
+        "path": "logo_ocr/BAKARTO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BAKARTO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BANKATJI.jpg",
+        "path": "logo_ocr/BANKATJI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BANKATJI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BARATTI.jpg",
+        "path": "logo_ocr/BARATTI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BARATTI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "baytronic.jpg",
+        "path": "logo_ocr/baytronic.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "baytronic"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BEANO.jpg",
+        "path": "logo_ocr/BEANO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BEANO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "bebird.jpg",
+        "path": "logo_ocr/bebird.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "bebird"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BELA.jpg",
+        "path": "logo_ocr/BELA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BELA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BENEFIT.jpg",
+        "path": "logo_ocr/BENEFIT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BENEFIT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BENMA.jpg",
+        "path": "logo_ocr/BENMA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BENMA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Berne.jpg",
+        "path": "logo_ocr/Berne.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Berne"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BESTEEL.jpg",
+        "path": "logo_ocr/BESTEEL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BESTEEL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BETTERLINE.jpg",
+        "path": "logo_ocr/BETTERLINE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BETTERLINE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Bewahly.jpg",
+        "path": "logo_ocr/Bewahly.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Bewahly"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BiAnYC.jpg",
+        "path": "logo_ocr/BiAnYC.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BiAnYC"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BIBENE.jpg",
+        "path": "logo_ocr/BIBENE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BIBENE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BIENVENU.jpg",
+        "path": "logo_ocr/BIENVENU.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BIENVENU"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BIGOTTERS.jpg",
+        "path": "logo_ocr/BIGOTTERS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BIGOTTERS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BINGCUTE.jpg",
+        "path": "logo_ocr/BINGCUTE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BINGCUTE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BIODEFENCE.jpg",
+        "path": "logo_ocr/BIODEFENCE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BIODEFENCE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BIORACE.jpg",
+        "path": "logo_ocr/BIORACE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BIORACE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BIUYO.jpg",
+        "path": "logo_ocr/BIUYO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BIUYO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BLITHE.jpg",
+        "path": "logo_ocr/BLITHE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BLITHE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BLLDFZ.jpg",
+        "path": "logo_ocr/BLLDFZ.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BLLDFZ"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BLUEBELL.jpg",
+        "path": "logo_ocr/BLUEBELL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BLUEBELL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BLURBY.jpg",
+        "path": "logo_ocr/BLURBY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BLURBY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "boAt.jpg",
+        "path": "logo_ocr/boAt.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "boAt"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "bodum.jpg",
+        "path": "logo_ocr/bodum.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "bodum"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "boodun.jpg",
+        "path": "logo_ocr/boodun.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "boodun"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "botle.jpg",
+        "path": "logo_ocr/botle.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "botle"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BRINGERPET.jpg",
+        "path": "logo_ocr/BRINGERPET.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BRINGERPET"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BRZSACR.jpg",
+        "path": "logo_ocr/BRZSACR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BRZSACR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BULOVA.jpg",
+        "path": "logo_ocr/BULOVA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BULOVA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "BUNCHEMS.jpg",
+        "path": "logo_ocr/BUNCHEMS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "BUNCHEMS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Cabilock.jpg",
+        "path": "logo_ocr/Cabilock.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Cabilock"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Calish.jpg",
+        "path": "logo_ocr/Calish.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Calish"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Camomilla.jpg",
+        "path": "logo_ocr/Camomilla.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Camomilla"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CAMPINGAZ.jpg",
+        "path": "logo_ocr/CAMPINGAZ.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CAMPINGAZ"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CampTeck.jpg",
+        "path": "logo_ocr/CampTeck.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CampTeck"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CANAMAX.jpg",
+        "path": "logo_ocr/CANAMAX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CANAMAX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CANDYGIRL.jpg",
+        "path": "logo_ocr/CANDYGIRL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CANDYGIRL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Carnack.jpg",
+        "path": "logo_ocr/Carnack.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Carnack"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CARSTEN.jpg",
+        "path": "logo_ocr/CARSTEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CARSTEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CaRSun.jpg",
+        "path": "logo_ocr/CaRSun.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CaRSun"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CEDO.jpg",
+        "path": "logo_ocr/CEDO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CEDO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Ceepko.jpg",
+        "path": "logo_ocr/Ceepko.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Ceepko"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Celestron.jpg",
+        "path": "logo_ocr/Celestron.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Celestron"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CENTURY.jpg",
+        "path": "logo_ocr/CENTURY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CENTURY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CHeMBRO.jpg",
+        "path": "logo_ocr/CHeMBRO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CHeMBRO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CHIHTSAI.jpg",
+        "path": "logo_ocr/CHIHTSAI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CHIHTSAI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CHOOCHOO.jpg",
+        "path": "logo_ocr/CHOOCHOO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CHOOCHOO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CLALER.jpg",
+        "path": "logo_ocr/CLALER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CLALER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Clasiko.jpg",
+        "path": "logo_ocr/Clasiko.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Clasiko"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CLEANBRACE.jpg",
+        "path": "logo_ocr/CLEANBRACE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CLEANBRACE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Clicquot.jpg",
+        "path": "logo_ocr/Clicquot.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Clicquot"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CLOUDWALK.jpg",
+        "path": "logo_ocr/CLOUDWALK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CLOUDWALK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CLOVERLAY.jpg",
+        "path": "logo_ocr/CLOVERLAY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CLOVERLAY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COCOCKA.jpg",
+        "path": "logo_ocr/COCOCKA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COCOCKA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ColorBird.jpg",
+        "path": "logo_ocr/ColorBird.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ColorBird"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COMIFORT.jpg",
+        "path": "logo_ocr/COMIFORT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COMIFORT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COMOMY.jpg",
+        "path": "logo_ocr/COMOMY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COMOMY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COMPACTOR.jpg",
+        "path": "logo_ocr/COMPACTOR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COMPACTOR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CompressionGear.jpg",
+        "path": "logo_ocr/CompressionGear.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CompressionGear"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COMPULABEL.jpg",
+        "path": "logo_ocr/COMPULABEL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COMPULABEL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Connectyle.jpg",
+        "path": "logo_ocr/Connectyle.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Connectyle"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COOLPO.jpg",
+        "path": "logo_ocr/COOLPO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COOLPO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Coquimbo.jpg",
+        "path": "logo_ocr/Coquimbo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Coquimbo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CORSECA.jpg",
+        "path": "logo_ocr/CORSECA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CORSECA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COSMEDIX.jpg",
+        "path": "logo_ocr/COSMEDIX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COSMEDIX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COULAX.jpg",
+        "path": "logo_ocr/COULAX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COULAX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "COYACOOL.jpg",
+        "path": "logo_ocr/COYACOOL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "COYACOOL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CRAFTICIA.jpg",
+        "path": "logo_ocr/CRAFTICIA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CRAFTICIA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CRAFTSOFEGYPT.jpg",
+        "path": "logo_ocr/CRAFTSOFEGYPT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CRAFTSOFEGYPT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Cranberry.jpg",
+        "path": "logo_ocr/Cranberry.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Cranberry"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CULLIGAN.jpg",
+        "path": "logo_ocr/CULLIGAN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CULLIGAN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "CXM.jpg",
+        "path": "logo_ocr/CXM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "CXM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Cyclone.jpg",
+        "path": "logo_ocr/Cyclone.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Cyclone"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DACLAY.jpg",
+        "path": "logo_ocr/DACLAY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DACLAY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DAFUNY.jpg",
+        "path": "logo_ocr/DAFUNY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DAFUNY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DAIKOYE.jpg",
+        "path": "logo_ocr/DAIKOYE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DAIKOYE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Dak.jpg",
+        "path": "logo_ocr/Dak.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Dak"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DANIU.jpg",
+        "path": "logo_ocr/DANIU.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DANIU"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DECYAM.jpg",
+        "path": "logo_ocr/DECYAM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DECYAM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Dedimi.jpg",
+        "path": "logo_ocr/Dedimi.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Dedimi"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DenTek.jpg",
+        "path": "logo_ocr/DenTek.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DenTek"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Dewalt.jpg",
+        "path": "logo_ocr/Dewalt.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Dewalt"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Digicharge.jpg",
+        "path": "logo_ocr/Digicharge.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Digicharge"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DLAND.jpg",
+        "path": "logo_ocr/DLAND.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DLAND"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DOLIKE.jpg",
+        "path": "logo_ocr/DOLIKE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DOLIKE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DOLPHERS.jpg",
+        "path": "logo_ocr/DOLPHERS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DOLPHERS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DREAMSOULE.jpg",
+        "path": "logo_ocr/DREAMSOULE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DREAMSOULE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DURATECH.jpg",
+        "path": "logo_ocr/DURATECH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DURATECH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DVS.jpg",
+        "path": "logo_ocr/DVS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DVS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DYLON.jpg",
+        "path": "logo_ocr/DYLON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DYLON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "DYPER.jpg",
+        "path": "logo_ocr/DYPER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "DYPER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EALICERE.jpg",
+        "path": "logo_ocr/EALICERE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EALICERE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EARTHX.jpg",
+        "path": "logo_ocr/EARTHX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EARTHX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "eccomum.jpg",
+        "path": "logo_ocr/eccomum.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "eccomum"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ecobee.jpg",
+        "path": "logo_ocr/ecobee.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ecobee"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Ecommall.jpg",
+        "path": "logo_ocr/Ecommall.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Ecommall"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ECRAFT.jpg",
+        "path": "logo_ocr/ECRAFT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ECRAFT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EFINE.jpg",
+        "path": "logo_ocr/EFINE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EFINE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EGLEMTEK.jpg",
+        "path": "logo_ocr/EGLEMTEK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EGLEMTEK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EigPluy.jpg",
+        "path": "logo_ocr/EigPluy.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EigPluy"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ELANROMAN.jpg",
+        "path": "logo_ocr/ELANROMAN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ELANROMAN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ELECTRIBRITE.jpg",
+        "path": "logo_ocr/ELECTRIBRITE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ELECTRIBRITE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ELEDUCTMON.jpg",
+        "path": "logo_ocr/ELEDUCTMON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ELEDUCTMON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ELEGOO.jpg",
+        "path": "logo_ocr/ELEGOO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ELEGOO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ELEHOT.jpg",
+        "path": "logo_ocr/ELEHOT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ELEHOT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ELEVATE.jpg",
+        "path": "logo_ocr/ELEVATE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ELEVATE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ELLAMES.jpg",
+        "path": "logo_ocr/ELLAMES.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ELLAMES"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Elmex.jpg",
+        "path": "logo_ocr/Elmex.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Elmex"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EMK.jpg",
+        "path": "logo_ocr/EMK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EMK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EMOURS.jpg",
+        "path": "logo_ocr/EMOURS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EMOURS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ENTAI.jpg",
+        "path": "logo_ocr/ENTAI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ENTAI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EPICUREAN.jpg",
+        "path": "logo_ocr/EPICUREAN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EPICUREAN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Erasco.jpg",
+        "path": "logo_ocr/Erasco.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Erasco"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ERLOOD.jpg",
+        "path": "logo_ocr/ERLOOD.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ERLOOD"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ESSOY.jpg",
+        "path": "logo_ocr/ESSOY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ESSOY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ESYNIC.jpg",
+        "path": "logo_ocr/ESYNIC.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ESYNIC"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EVERLONG.jpg",
+        "path": "logo_ocr/EVERLONG.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EVERLONG"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EVIGAL.jpg",
+        "path": "logo_ocr/EVIGAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EVIGAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EVOGIRL.jpg",
+        "path": "logo_ocr/EVOGIRL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EVOGIRL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EXMAX.jpg",
+        "path": "logo_ocr/EXMAX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EXMAX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EYNK.jpg",
+        "path": "logo_ocr/EYNK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EYNK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "EzyDog.jpg",
+        "path": "logo_ocr/EzyDog.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "EzyDog"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Fabrilla.jpg",
+        "path": "logo_ocr/Fabrilla.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Fabrilla"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FARFALLAROSSA.jpg",
+        "path": "logo_ocr/FARFALLAROSSA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FARFALLAROSSA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FEELSO.jpg",
+        "path": "logo_ocr/FEELSO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FEELSO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Fibertec.jpg",
+        "path": "logo_ocr/Fibertec.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Fibertec"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FISUP.jpg",
+        "path": "logo_ocr/FISUP.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FISUP"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FITINDEX.jpg",
+        "path": "logo_ocr/FITINDEX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FITINDEX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FITPULSE.jpg",
+        "path": "logo_ocr/FITPULSE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FITPULSE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FLASHOWL.jpg",
+        "path": "logo_ocr/FLASHOWL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FLASHOWL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FLYFE.jpg",
+        "path": "logo_ocr/FLYFE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FLYFE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FLYLINKTECH.jpg",
+        "path": "logo_ocr/FLYLINKTECH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FLYLINKTECH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FOMITO.jpg",
+        "path": "logo_ocr/FOMITO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FOMITO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Fram.jpg",
+        "path": "logo_ocr/Fram.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Fram"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "freecam.jpg",
+        "path": "logo_ocr/freecam.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "freecam"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FREESOO.jpg",
+        "path": "logo_ocr/FREESOO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FREESOO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FRIGIDAIRE.jpg",
+        "path": "logo_ocr/FRIGIDAIRE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FRIGIDAIRE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FRISKIES.jpg",
+        "path": "logo_ocr/FRISKIES.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FRISKIES"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FUJI.jpg",
+        "path": "logo_ocr/FUJI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FUJI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FUJIFILM.jpg",
+        "path": "logo_ocr/FUJIFILM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FUJIFILM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FUNANASUN.jpg",
+        "path": "logo_ocr/FUNANASUN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FUNANASUN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FunWater.jpg",
+        "path": "logo_ocr/FunWater.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FunWater"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FUPE.jpg",
+        "path": "logo_ocr/FUPE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FUPE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Fusion.jpg",
+        "path": "logo_ocr/Fusion.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Fusion"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "FUZADEL.jpg",
+        "path": "logo_ocr/FUZADEL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "FUZADEL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Gaoye.jpg",
+        "path": "logo_ocr/Gaoye.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Gaoye"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GARDOM.jpg",
+        "path": "logo_ocr/GARDOM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GARDOM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GDTK.jpg",
+        "path": "logo_ocr/GDTK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GDTK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Gebildet.jpg",
+        "path": "logo_ocr/Gebildet.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Gebildet"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GELLEN.jpg",
+        "path": "logo_ocr/GELLEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GELLEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GEOMAR.jpg",
+        "path": "logo_ocr/GEOMAR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GEOMAR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GERBER.jpg",
+        "path": "logo_ocr/GERBER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GERBER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GEROSSI.jpg",
+        "path": "logo_ocr/GEROSSI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GEROSSI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GIGABYTE.jpg",
+        "path": "logo_ocr/GIGABYTE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GIGABYTE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ginco.jpg",
+        "path": "logo_ocr/ginco.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ginco"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GLAMORAS.jpg",
+        "path": "logo_ocr/GLAMORAS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GLAMORAS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GLIDER.jpg",
+        "path": "logo_ocr/GLIDER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GLIDER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GLISTENY.jpg",
+        "path": "logo_ocr/GLISTENY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GLISTENY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GLOVION.jpg",
+        "path": "logo_ocr/GLOVION.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GLOVION"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GNEXIN.jpg",
+        "path": "logo_ocr/GNEXIN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GNEXIN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GNOCE.jpg",
+        "path": "logo_ocr/GNOCE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GNOCE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Gokilife.jpg",
+        "path": "logo_ocr/Gokilife.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Gokilife"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GoMacro.jpg",
+        "path": "logo_ocr/GoMacro.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GoMacro"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GOYOMA.jpg",
+        "path": "logo_ocr/GOYOMA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GOYOMA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Gremlins.jpg",
+        "path": "logo_ocr/Gremlins.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Gremlins"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Gymally.jpg",
+        "path": "logo_ocr/Gymally.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Gymally"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "GYT.jpg",
+        "path": "logo_ocr/GYT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "GYT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HELAFUN.jpg",
+        "path": "logo_ocr/HELAFUN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HELAFUN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Henicx.jpg",
+        "path": "logo_ocr/Henicx.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Henicx"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HERBATINT.jpg",
+        "path": "logo_ocr/HERBATINT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HERBATINT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HEXGEARS.jpg",
+        "path": "logo_ocr/HEXGEARS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HEXGEARS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HIGHLANDER.jpg",
+        "path": "logo_ocr/HIGHLANDER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HIGHLANDER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Hitmars.jpg",
+        "path": "logo_ocr/Hitmars.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Hitmars"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HNESS.jpg",
+        "path": "logo_ocr/HNESS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HNESS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HODLEX.jpg",
+        "path": "logo_ocr/HODLEX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HODLEX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HOMELODY.jpg",
+        "path": "logo_ocr/HOMELODY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HOMELODY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HOMFA.jpg",
+        "path": "logo_ocr/HOMFA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HOMFA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HOMFUL.jpg",
+        "path": "logo_ocr/HOMFUL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HOMFUL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HOTROSE.jpg",
+        "path": "logo_ocr/HOTROSE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HOTROSE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "hp.jpg",
+        "path": "logo_ocr/hp.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "hp"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HPFIX.jpg",
+        "path": "logo_ocr/HPFIX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HPFIX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Hpory.jpg",
+        "path": "logo_ocr/Hpory.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Hpory"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Huachi.jpg",
+        "path": "logo_ocr/Huachi.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Huachi"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HUMMER.jpg",
+        "path": "logo_ocr/HUMMER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HUMMER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HVVH.jpg",
+        "path": "logo_ocr/HVVH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HVVH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HYDROFARM.jpg",
+        "path": "logo_ocr/HYDROFARM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HYDROFARM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HYQO.jpg",
+        "path": "logo_ocr/HYQO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HYQO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "HYSUSPEH.jpg",
+        "path": "logo_ocr/HYSUSPEH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "HYSUSPEH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "iBirdie.jpg",
+        "path": "logo_ocr/iBirdie.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "iBirdie"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "IDPRT.jpg",
+        "path": "logo_ocr/IDPRT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "IDPRT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "IDUSD.jpg",
+        "path": "logo_ocr/IDUSD.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "IDUSD"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ifanze.jpg",
+        "path": "logo_ocr/ifanze.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ifanze"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "IFEART.jpg",
+        "path": "logo_ocr/IFEART.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "IFEART"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "IFOOTAGE.jpg",
+        "path": "logo_ocr/IFOOTAGE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "IFOOTAGE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "IKTU.jpg",
+        "path": "logo_ocr/IKTU.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "IKTU"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Infinity.jpg",
+        "path": "logo_ocr/Infinity.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Infinity"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "INNOPLUS.jpg",
+        "path": "logo_ocr/INNOPLUS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "INNOPLUS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Inoar.jpg",
+        "path": "logo_ocr/Inoar.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Inoar"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "INSIGHT.jpg",
+        "path": "logo_ocr/INSIGHT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "INSIGHT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Intellilens.jpg",
+        "path": "logo_ocr/Intellilens.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Intellilens"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "INVICTUS.jpg",
+        "path": "logo_ocr/INVICTUS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "INVICTUS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "IREGRO.jpg",
+        "path": "logo_ocr/IREGRO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "IREGRO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ivencase.jpg",
+        "path": "logo_ocr/ivencase.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ivencase"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JANBOTEK.jpg",
+        "path": "logo_ocr/JANBOTEK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JANBOTEK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JANCOSTA.jpg",
+        "path": "logo_ocr/JANCOSTA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JANCOSTA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JDiag.jpg",
+        "path": "logo_ocr/JDiag.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JDiag"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Jelife.jpg",
+        "path": "logo_ocr/Jelife.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Jelife"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JEVER.jpg",
+        "path": "logo_ocr/JEVER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JEVER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JIGSHTIAL.jpg",
+        "path": "logo_ocr/JIGSHTIAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JIGSHTIAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JINBEI.jpg",
+        "path": "logo_ocr/JINBEI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JINBEI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JOIOT.jpg",
+        "path": "logo_ocr/JOIOT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JOIOT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JOTO.jpg",
+        "path": "logo_ocr/JOTO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JOTO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JSN.jpg",
+        "path": "logo_ocr/JSN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JSN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JTRON.jpg",
+        "path": "logo_ocr/JTRON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JTRON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JUBOR.jpg",
+        "path": "logo_ocr/JUBOR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JUBOR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JUSTOYOU.jpg",
+        "path": "logo_ocr/JUSTOYOU.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JUSTOYOU"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "JXL.jpg",
+        "path": "logo_ocr/JXL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "JXL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Kakooze.jpg",
+        "path": "logo_ocr/Kakooze.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Kakooze"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KAKUSAN.jpg",
+        "path": "logo_ocr/KAKUSAN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KAKUSAN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Kaopectate.jpg",
+        "path": "logo_ocr/Kaopectate.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Kaopectate"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KAPAVER.jpg",
+        "path": "logo_ocr/KAPAVER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KAPAVER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KARTICE.jpg",
+        "path": "logo_ocr/KARTICE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KARTICE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Kasqo.jpg",
+        "path": "logo_ocr/Kasqo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Kasqo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "keepow.jpg",
+        "path": "logo_ocr/keepow.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "keepow"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KENWOOD.jpg",
+        "path": "logo_ocr/KENWOOD.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KENWOOD"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KESHIMA.jpg",
+        "path": "logo_ocr/KESHIMA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KESHIMA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Ketsaal.jpg",
+        "path": "logo_ocr/Ketsaal.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Ketsaal"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KEYESTUDIO.jpg",
+        "path": "logo_ocr/KEYESTUDIO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KEYESTUDIO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KIDCHEER.jpg",
+        "path": "logo_ocr/KIDCHEER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KIDCHEER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "kidivo.jpg",
+        "path": "logo_ocr/kidivo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "kidivo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KITTOS.jpg",
+        "path": "logo_ocr/KITTOS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KITTOS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Konami.jpg",
+        "path": "logo_ocr/Konami.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Konami"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KOPARI.jpg",
+        "path": "logo_ocr/KOPARI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KOPARI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KRAZYWOLF.jpg",
+        "path": "logo_ocr/KRAZYWOLF.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KRAZYWOLF"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KREG.jpg",
+        "path": "logo_ocr/KREG.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KREG"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "KVIOR.jpg",
+        "path": "logo_ocr/KVIOR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "KVIOR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LABCONCO.jpg",
+        "path": "logo_ocr/LABCONCO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LABCONCO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LAMISIL.jpg",
+        "path": "logo_ocr/LAMISIL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LAMISIL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LANCHEZ.jpg",
+        "path": "logo_ocr/LANCHEZ.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LANCHEZ"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LANNEY.jpg",
+        "path": "logo_ocr/LANNEY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LANNEY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LAVAZZA.jpg",
+        "path": "logo_ocr/LAVAZZA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LAVAZZA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LAZARTIGUE.jpg",
+        "path": "logo_ocr/LAZARTIGUE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LAZARTIGUE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LDesign.jpg",
+        "path": "logo_ocr/LDesign.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LDesign"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LDPF.jpg",
+        "path": "logo_ocr/LDPF.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LDPF"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Lepow.jpg",
+        "path": "logo_ocr/Lepow.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Lepow"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LEPOWER.jpg",
+        "path": "logo_ocr/LEPOWER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LEPOWER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LETTON.jpg",
+        "path": "logo_ocr/LETTON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LETTON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LEVANSE.jpg",
+        "path": "logo_ocr/LEVANSE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LEVANSE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Lictin.jpg",
+        "path": "logo_ocr/Lictin.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Lictin"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LIGHTCHIP.jpg",
+        "path": "logo_ocr/LIGHTCHIP.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LIGHTCHIP"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LilySilk.jpg",
+        "path": "logo_ocr/LilySilk.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LilySilk"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LINKDM.jpg",
+        "path": "logo_ocr/LINKDM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LINKDM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LINLOOK.jpg",
+        "path": "logo_ocr/LINLOOK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LINLOOK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "logi.jpg",
+        "path": "logo_ocr/logi.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "logi"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LOGITUBO.jpg",
+        "path": "logo_ocr/LOGITUBO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LOGITUBO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Lovicool.jpg",
+        "path": "logo_ocr/Lovicool.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Lovicool"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LOVUS.jpg",
+        "path": "logo_ocr/LOVUS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LOVUS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LRKC.jpg",
+        "path": "logo_ocr/LRKC.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LRKC"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LUFKIN.jpg",
+        "path": "logo_ocr/LUFKIN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LUFKIN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Lunartec.jpg",
+        "path": "logo_ocr/Lunartec.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Lunartec"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "LURICO.jpg",
+        "path": "logo_ocr/LURICO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "LURICO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "maguja.jpg",
+        "path": "logo_ocr/maguja.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "maguja"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MAKOLOCE.jpg",
+        "path": "logo_ocr/MAKOLOCE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MAKOLOCE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Mansso.jpg",
+        "path": "logo_ocr/Mansso.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Mansso"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MAOMAO.jpg",
+        "path": "logo_ocr/MAOMAO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MAOMAO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MARBLERS.jpg",
+        "path": "logo_ocr/MARBLERS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MARBLERS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MARSAUTO.jpg",
+        "path": "logo_ocr/MARSAUTO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MARSAUTO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Marshall.jpg",
+        "path": "logo_ocr/Marshall.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Marshall"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MARTIANS.jpg",
+        "path": "logo_ocr/MARTIANS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MARTIANS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MATEPROX.jpg",
+        "path": "logo_ocr/MATEPROX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MATEPROX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MAXDIGI.jpg",
+        "path": "logo_ocr/MAXDIGI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MAXDIGI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MAXESLA.jpg",
+        "path": "logo_ocr/MAXESLA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MAXESLA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MAXINDA.jpg",
+        "path": "logo_ocr/MAXINDA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MAXINDA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MaxKare.jpg",
+        "path": "logo_ocr/MaxKare.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MaxKare"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "meesa.jpg",
+        "path": "logo_ocr/meesa.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "meesa"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MELIPONINI.jpg",
+        "path": "logo_ocr/MELIPONINI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MELIPONINI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Merisny.jpg",
+        "path": "logo_ocr/Merisny.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Merisny"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MHS.jpg",
+        "path": "logo_ocr/MHS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MHS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "michelangelo.jpg",
+        "path": "logo_ocr/michelangelo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "michelangelo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Micol.jpg",
+        "path": "logo_ocr/Micol.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Micol"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Midkart.jpg",
+        "path": "logo_ocr/Midkart.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Midkart"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Migimi.jpg",
+        "path": "logo_ocr/Migimi.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Migimi"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MIKOSI.jpg",
+        "path": "logo_ocr/MIKOSI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MIKOSI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "minifair.jpg",
+        "path": "logo_ocr/minifair.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "minifair"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MIRAINBARREL.jpg",
+        "path": "logo_ocr/MIRAINBARREL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MIRAINBARREL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MIRASCREEN.jpg",
+        "path": "logo_ocr/MIRASCREEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MIRASCREEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MIRKA.jpg",
+        "path": "logo_ocr/MIRKA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MIRKA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MISSHA.jpg",
+        "path": "logo_ocr/MISSHA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MISSHA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MistKing.jpg",
+        "path": "logo_ocr/MistKing.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MistKing"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MKONO.jpg",
+        "path": "logo_ocr/MKONO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MKONO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MOARON.jpg",
+        "path": "logo_ocr/MOARON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MOARON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MOKIN.jpg",
+        "path": "logo_ocr/MOKIN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MOKIN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MONOPOLY.jpg",
+        "path": "logo_ocr/MONOPOLY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MONOPOLY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MOVO.jpg",
+        "path": "logo_ocr/MOVO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MOVO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MRCOOL.jpg",
+        "path": "logo_ocr/MRCOOL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MRCOOL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MUBYTREE.jpg",
+        "path": "logo_ocr/MUBYTREE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MUBYTREE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MUSTAD.jpg",
+        "path": "logo_ocr/MUSTAD.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MUSTAD"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MVCOLEDY.jpg",
+        "path": "logo_ocr/MVCOLEDY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MVCOLEDY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "mysmile.jpg",
+        "path": "logo_ocr/mysmile.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "mysmile"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "MYYNTI.jpg",
+        "path": "logo_ocr/MYYNTI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "MYYNTI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NAIPO.jpg",
+        "path": "logo_ocr/NAIPO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NAIPO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NATIONAL.jpg",
+        "path": "logo_ocr/NATIONAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NATIONAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NATURASIL.jpg",
+        "path": "logo_ocr/NATURASIL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NATURASIL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NATUREMAX.jpg",
+        "path": "logo_ocr/NATUREMAX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NATUREMAX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NEOTECK.jpg",
+        "path": "logo_ocr/NEOTECK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NEOTECK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "nestroots.jpg",
+        "path": "logo_ocr/nestroots.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "nestroots"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NEUTROGENA.jpg",
+        "path": "logo_ocr/NEUTROGENA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NEUTROGENA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Newell.jpg",
+        "path": "logo_ocr/Newell.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Newell"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NEWMARK.jpg",
+        "path": "logo_ocr/NEWMARK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NEWMARK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NEWMOWA.jpg",
+        "path": "logo_ocr/NEWMOWA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NEWMOWA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NICYTORE.jpg",
+        "path": "logo_ocr/NICYTORE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NICYTORE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NIGHTFLY.jpg",
+        "path": "logo_ocr/NIGHTFLY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NIGHTFLY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NIRO.jpg",
+        "path": "logo_ocr/NIRO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NIRO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Nirsha.jpg",
+        "path": "logo_ocr/Nirsha.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Nirsha"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NIUBEE.jpg",
+        "path": "logo_ocr/NIUBEE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NIUBEE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NIVEA.jpg",
+        "path": "logo_ocr/NIVEA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NIVEA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NOBLE.jpg",
+        "path": "logo_ocr/NOBLE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NOBLE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NOVAWO.jpg",
+        "path": "logo_ocr/NOVAWO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NOVAWO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Novoo.jpg",
+        "path": "logo_ocr/Novoo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Novoo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NUOLUX.jpg",
+        "path": "logo_ocr/NUOLUX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NUOLUX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NutriBullet.jpg",
+        "path": "logo_ocr/NutriBullet.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NutriBullet"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NXY.jpg",
+        "path": "logo_ocr/NXY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NXY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "NYJETS.jpg",
+        "path": "logo_ocr/NYJETS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "NYJETS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OBJOY.jpg",
+        "path": "logo_ocr/OBJOY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OBJOY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OBUBY.jpg",
+        "path": "logo_ocr/OBUBY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OBUBY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OINMELY.jpg",
+        "path": "logo_ocr/OINMELY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OINMELY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "okatsune.jpg",
+        "path": "logo_ocr/okatsune.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "okatsune"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OLTEC.jpg",
+        "path": "logo_ocr/OLTEC.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OLTEC"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ONCAI.jpg",
+        "path": "logo_ocr/ONCAI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ONCAI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ONSON.jpg",
+        "path": "logo_ocr/ONSON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ONSON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ONTEN.jpg",
+        "path": "logo_ocr/ONTEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ONTEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OPALFITNESS.jpg",
+        "path": "logo_ocr/OPALFITNESS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OPALFITNESS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ORANGEHOME.jpg",
+        "path": "logo_ocr/ORANGEHOME.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ORANGEHOME"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ortizan.jpg",
+        "path": "logo_ocr/ortizan.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ortizan"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ORTOVOX.jpg",
+        "path": "logo_ocr/ORTOVOX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ORTOVOX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OTERNAL.jpg",
+        "path": "logo_ocr/OTERNAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OTERNAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OTIUM.jpg",
+        "path": "logo_ocr/OTIUM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OTIUM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "oubang.jpg",
+        "path": "logo_ocr/oubang.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "oubang"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OWLTRA.jpg",
+        "path": "logo_ocr/OWLTRA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OWLTRA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OZEL.jpg",
+        "path": "logo_ocr/OZEL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OZEL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "OZOMAX.jpg",
+        "path": "logo_ocr/OZOMAX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "OZOMAX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Panamalar.jpg",
+        "path": "logo_ocr/Panamalar.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Panamalar"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PARASNATH.jpg",
+        "path": "logo_ocr/PARASNATH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PARASNATH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Patanjali.jpg",
+        "path": "logo_ocr/Patanjali.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Patanjali"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PAURO.jpg",
+        "path": "logo_ocr/PAURO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PAURO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PDR.jpg",
+        "path": "logo_ocr/PDR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PDR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Pearson.jpg",
+        "path": "logo_ocr/Pearson.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Pearson"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PEPLINK.jpg",
+        "path": "logo_ocr/PEPLINK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PEPLINK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PHATOIL.jpg",
+        "path": "logo_ocr/PHATOIL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PHATOIL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PHIBEE.jpg",
+        "path": "logo_ocr/PHIBEE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PHIBEE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PHOBIS.jpg",
+        "path": "logo_ocr/PHOBIS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PHOBIS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PHOPOLLO.jpg",
+        "path": "logo_ocr/PHOPOLLO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PHOPOLLO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PHYHOO.jpg",
+        "path": "logo_ocr/PHYHOO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PHYHOO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Planet.jpg",
+        "path": "logo_ocr/Planet.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Planet"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "POLYSET.jpg",
+        "path": "logo_ocr/POLYSET.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "POLYSET"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "POPCORNOPOLIS.jpg",
+        "path": "logo_ocr/POPCORNOPOLIS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "POPCORNOPOLIS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PREXXI.jpg",
+        "path": "logo_ocr/PREXXI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PREXXI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PRITECH.jpg",
+        "path": "logo_ocr/PRITECH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PRITECH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PROBAR.jpg",
+        "path": "logo_ocr/PROBAR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PROBAR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Prolink.jpg",
+        "path": "logo_ocr/Prolink.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Prolink"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Promed.jpg",
+        "path": "logo_ocr/Promed.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Promed"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PromoPharma.jpg",
+        "path": "logo_ocr/PromoPharma.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PromoPharma"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PROTAPER.jpg",
+        "path": "logo_ocr/PROTAPER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PROTAPER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PROtastic.jpg",
+        "path": "logo_ocr/PROtastic.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PROtastic"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PUKKA.jpg",
+        "path": "logo_ocr/PUKKA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PUKKA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PURESSENTIEL.jpg",
+        "path": "logo_ocr/PURESSENTIEL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PURESSENTIEL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "PURPLECRYSTAL.jpg",
+        "path": "logo_ocr/PURPLECRYSTAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "PURPLECRYSTAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "QCOQCE.jpg",
+        "path": "logo_ocr/QCOQCE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "QCOQCE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "QGECEN.jpg",
+        "path": "logo_ocr/QGECEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "QGECEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "RAVENCLAW.jpg",
+        "path": "logo_ocr/RAVENCLAW.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "RAVENCLAW"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "RAVENOX.jpg",
+        "path": "logo_ocr/RAVENOX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "RAVENOX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Raxter.jpg",
+        "path": "logo_ocr/Raxter.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Raxter"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Rayon.jpg",
+        "path": "logo_ocr/Rayon.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Rayon"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Redecker.jpg",
+        "path": "logo_ocr/Redecker.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Redecker"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "REDSHOT.jpg",
+        "path": "logo_ocr/REDSHOT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "REDSHOT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Refrigiwear.jpg",
+        "path": "logo_ocr/Refrigiwear.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Refrigiwear"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ROAV.jpg",
+        "path": "logo_ocr/ROAV.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ROAV"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ROCAM.jpg",
+        "path": "logo_ocr/ROCAM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ROCAM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "rockspace.jpg",
+        "path": "logo_ocr/rockspace.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "rockspace"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ROCOROSE.jpg",
+        "path": "logo_ocr/ROCOROSE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ROCOROSE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ROTHENBERGER.jpg",
+        "path": "logo_ocr/ROTHENBERGER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ROTHENBERGER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "RoyaleSilk.jpg",
+        "path": "logo_ocr/RoyaleSilk.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "RoyaleSilk"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Runostrich.jpg",
+        "path": "logo_ocr/Runostrich.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Runostrich"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SADES.jpg",
+        "path": "logo_ocr/SADES.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SADES"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SALKING.jpg",
+        "path": "logo_ocr/SALKING.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SALKING"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SALTSTICK.jpg",
+        "path": "logo_ocr/SALTSTICK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SALTSTICK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SANRACHNA.jpg",
+        "path": "logo_ocr/SANRACHNA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SANRACHNA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SANTINO.jpg",
+        "path": "logo_ocr/SANTINO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SANTINO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SCEVA.jpg",
+        "path": "logo_ocr/SCEVA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SCEVA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "schlummersack.jpg",
+        "path": "logo_ocr/schlummersack.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "schlummersack"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SENKARY.jpg",
+        "path": "logo_ocr/SENKARY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SENKARY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Sensky.jpg",
+        "path": "logo_ocr/Sensky.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Sensky"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SERFORY.jpg",
+        "path": "logo_ocr/SERFORY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SERFORY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SGODDE.jpg",
+        "path": "logo_ocr/SGODDE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SGODDE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SHALININDIA.jpg",
+        "path": "logo_ocr/SHALININDIA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SHALININDIA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SHATCHI.jpg",
+        "path": "logo_ocr/SHATCHI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SHATCHI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SHESHOW.jpg",
+        "path": "logo_ocr/SHESHOW.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SHESHOW"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SHIELDON.jpg",
+        "path": "logo_ocr/SHIELDON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SHIELDON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SHOEI.jpg",
+        "path": "logo_ocr/SHOEI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SHOEI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SIETE.jpg",
+        "path": "logo_ocr/SIETE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SIETE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SILIKONG.jpg",
+        "path": "logo_ocr/SILIKONG.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SILIKONG"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Simthread.jpg",
+        "path": "logo_ocr/Simthread.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Simthread"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SITERWELL.jpg",
+        "path": "logo_ocr/SITERWELL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SITERWELL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SITSPOTS.jpg",
+        "path": "logo_ocr/SITSPOTS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SITSPOTS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SKIPPY.jpg",
+        "path": "logo_ocr/SKIPPY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SKIPPY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SKYREAT.jpg",
+        "path": "logo_ocr/SKYREAT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SKYREAT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SLYTHERIN.jpg",
+        "path": "logo_ocr/SLYTHERIN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SLYTHERIN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Smaier.jpg",
+        "path": "logo_ocr/Smaier.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Smaier"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SMALODY.jpg",
+        "path": "logo_ocr/SMALODY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SMALODY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SMAMS.jpg",
+        "path": "logo_ocr/SMAMS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SMAMS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SOFTSOAP.jpg",
+        "path": "logo_ocr/SOFTSOAP.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SOFTSOAP"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SOJOS.jpg",
+        "path": "logo_ocr/SOJOS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SOJOS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SPARKFIT.jpg",
+        "path": "logo_ocr/SPARKFIT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SPARKFIT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SPARTA.jpg",
+        "path": "logo_ocr/SPARTA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SPARTA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SPIRAL.jpg",
+        "path": "logo_ocr/SPIRAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SPIRAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Sportneer.jpg",
+        "path": "logo_ocr/Sportneer.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Sportneer"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SPOT.jpg",
+        "path": "logo_ocr/SPOT.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SPOT"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "STARDOM.jpg",
+        "path": "logo_ocr/STARDOM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "STARDOM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "STARONE.jpg",
+        "path": "logo_ocr/STARONE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "STARONE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Stedi.jpg",
+        "path": "logo_ocr/Stedi.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Stedi"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Stickum.jpg",
+        "path": "logo_ocr/Stickum.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Stickum"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "STONELINE.jpg",
+        "path": "logo_ocr/STONELINE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "STONELINE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Stormsure.jpg",
+        "path": "logo_ocr/Stormsure.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Stormsure"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "STRENTER.jpg",
+        "path": "logo_ocr/STRENTER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "STRENTER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "STYNICE.jpg",
+        "path": "logo_ocr/STYNICE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "STYNICE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "subrtex.jpg",
+        "path": "logo_ocr/subrtex.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "subrtex"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SUDOTACK.jpg",
+        "path": "logo_ocr/SUDOTACK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SUDOTACK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Sukmax.jpg",
+        "path": "logo_ocr/Sukmax.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Sukmax"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Sumicel.jpg",
+        "path": "logo_ocr/Sumicel.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Sumicel"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "sundee.jpg",
+        "path": "logo_ocr/sundee.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "sundee"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SUNGIVEN.jpg",
+        "path": "logo_ocr/SUNGIVEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SUNGIVEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SUNON.jpg",
+        "path": "logo_ocr/SUNON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SUNON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SUNSKI.jpg",
+        "path": "logo_ocr/SUNSKI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SUNSKI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SVAAR.jpg",
+        "path": "logo_ocr/SVAAR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SVAAR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "SYNTUS.jpg",
+        "path": "logo_ocr/SYNTUS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "SYNTUS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TAGVO.jpg",
+        "path": "logo_ocr/TAGVO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TAGVO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Taiyo.jpg",
+        "path": "logo_ocr/Taiyo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Taiyo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TARGUS.jpg",
+        "path": "logo_ocr/TARGUS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TARGUS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TAXIBUGS.jpg",
+        "path": "logo_ocr/TAXIBUGS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TAXIBUGS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TECCPO.jpg",
+        "path": "logo_ocr/TECCPO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TECCPO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "teeteck.jpg",
+        "path": "logo_ocr/teeteck.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "teeteck"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TELOON.jpg",
+        "path": "logo_ocr/TELOON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TELOON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Temoli.jpg",
+        "path": "logo_ocr/Temoli.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Temoli"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TEMPERA.jpg",
+        "path": "logo_ocr/TEMPERA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TEMPERA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TENDLIN.jpg",
+        "path": "logo_ocr/TENDLIN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TENDLIN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TEYTOY.jpg",
+        "path": "logo_ocr/TEYTOY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TEYTOY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TheFitLife.jpg",
+        "path": "logo_ocr/TheFitLife.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TheFitLife"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TIANQIU.jpg",
+        "path": "logo_ocr/TIANQIU.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TIANQIU"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Ticwatch.jpg",
+        "path": "logo_ocr/Ticwatch.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Ticwatch"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Tinabless.jpg",
+        "path": "logo_ocr/Tinabless.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Tinabless"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Tineco.jpg",
+        "path": "logo_ocr/Tineco.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Tineco"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Tirzah.jpg",
+        "path": "logo_ocr/Tirzah.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Tirzah"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TKOOFN.jpg",
+        "path": "logo_ocr/TKOOFN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TKOOFN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOMIC.jpg",
+        "path": "logo_ocr/TOMIC.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOMIC"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOMOLOO.jpg",
+        "path": "logo_ocr/TOMOLOO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOMOLOO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TONYHONEY.jpg",
+        "path": "logo_ocr/TONYHONEY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TONYHONEY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOOLTOO.jpg",
+        "path": "logo_ocr/TOOLTOO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOOLTOO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOPUPDRINK.jpg",
+        "path": "logo_ocr/TOPUPDRINK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOPUPDRINK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOPZ.jpg",
+        "path": "logo_ocr/TOPZ.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOPZ"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOTOBAY.jpg",
+        "path": "logo_ocr/TOTOBAY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOTOBAY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "totwoo.jpg",
+        "path": "logo_ocr/totwoo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "totwoo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOUCAN.jpg",
+        "path": "logo_ocr/TOUCAN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOUCAN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOURISTIANO.jpg",
+        "path": "logo_ocr/TOURISTIANO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOURISTIANO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TOYVIAN.jpg",
+        "path": "logo_ocr/TOYVIAN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TOYVIAN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "trigema.jpg",
+        "path": "logo_ocr/trigema.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "trigema"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TSMADDTS.jpg",
+        "path": "logo_ocr/TSMADDTS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TSMADDTS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "TSMST.jpg",
+        "path": "logo_ocr/TSMST.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "TSMST"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UBAYEE.jpg",
+        "path": "logo_ocr/UBAYEE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UBAYEE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UBER.jpg",
+        "path": "logo_ocr/UBER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UBER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UCANAAN.jpg",
+        "path": "logo_ocr/UCANAAN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UCANAAN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "uideazone.jpg",
+        "path": "logo_ocr/uideazone.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "uideazone"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ulefone.jpg",
+        "path": "logo_ocr/ulefone.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ulefone"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Umelar.jpg",
+        "path": "logo_ocr/Umelar.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Umelar"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UNBREAKcable.jpg",
+        "path": "logo_ocr/UNBREAKcable.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UNBREAKcable"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UNIONBAY.jpg",
+        "path": "logo_ocr/UNIONBAY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UNIONBAY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UniPlus.jpg",
+        "path": "logo_ocr/UniPlus.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UniPlus"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UNISTAR.jpg",
+        "path": "logo_ocr/UNISTAR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UNISTAR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "USATDD.jpg",
+        "path": "logo_ocr/USATDD.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "USATDD"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "USEWELL.jpg",
+        "path": "logo_ocr/USEWELL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "USEWELL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UtechSmart.jpg",
+        "path": "logo_ocr/UtechSmart.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UtechSmart"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UUQ.jpg",
+        "path": "logo_ocr/UUQ.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UUQ"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "UVprotect.jpg",
+        "path": "logo_ocr/UVprotect.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "UVprotect"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VALLEYCOMFY.jpg",
+        "path": "logo_ocr/VALLEYCOMFY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VALLEYCOMFY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VALTRA.jpg",
+        "path": "logo_ocr/VALTRA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VALTRA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VAYINATO.jpg",
+        "path": "logo_ocr/VAYINATO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VAYINATO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VCEOA.jpg",
+        "path": "logo_ocr/VCEOA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VCEOA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VCOM.jpg",
+        "path": "logo_ocr/VCOM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VCOM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VEEDAA.jpg",
+        "path": "logo_ocr/VEEDAA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VEEDAA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VEESHA.jpg",
+        "path": "logo_ocr/VEESHA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VEESHA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VELMADE.jpg",
+        "path": "logo_ocr/VELMADE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VELMADE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VelVeeta.jpg",
+        "path": "logo_ocr/VelVeeta.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VelVeeta"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Venum.jpg",
+        "path": "logo_ocr/Venum.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Venum"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VERDEN.jpg",
+        "path": "logo_ocr/VERDEN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VERDEN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VETIQ.jpg",
+        "path": "logo_ocr/VETIQ.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VETIQ"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "viboton.jpg",
+        "path": "logo_ocr/viboton.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "viboton"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VIBRATEX.jpg",
+        "path": "logo_ocr/VIBRATEX.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VIBRATEX"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VIDAL.jpg",
+        "path": "logo_ocr/VIDAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VIDAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VINSIC.jpg",
+        "path": "logo_ocr/VINSIC.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VINSIC"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VIRGIN.jpg",
+        "path": "logo_ocr/VIRGIN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VIRGIN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VITOLER.jpg",
+        "path": "logo_ocr/VITOLER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VITOLER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VIVERE.jpg",
+        "path": "logo_ocr/VIVERE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VIVERE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VOLTAREN.jpg",
+        "path": "logo_ocr/VOLTAREN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VOLTAREN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VOMELON.jpg",
+        "path": "logo_ocr/VOMELON.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VOMELON"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "VONETS.jpg",
+        "path": "logo_ocr/VONETS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "VONETS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WALLMALL.jpg",
+        "path": "logo_ocr/WALLMALL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WALLMALL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Wanhao.jpg",
+        "path": "logo_ocr/Wanhao.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Wanhao"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WARMSTOR.jpg",
+        "path": "logo_ocr/WARMSTOR.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WARMSTOR"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WARMTREE.jpg",
+        "path": "logo_ocr/WARMTREE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WARMTREE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WATTFUN.jpg",
+        "path": "logo_ocr/WATTFUN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WATTFUN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WC.jpg",
+        "path": "logo_ocr/WC.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WC"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WEASY.jpg",
+        "path": "logo_ocr/WEASY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WEASY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Webelkart.jpg",
+        "path": "logo_ocr/Webelkart.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Webelkart"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WELLTREE.jpg",
+        "path": "logo_ocr/WELLTREE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WELLTREE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Wewant.jpg",
+        "path": "logo_ocr/Wewant.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Wewant"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WHALELIFE.jpg",
+        "path": "logo_ocr/WHALELIFE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WHALELIFE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Wheezy.jpg",
+        "path": "logo_ocr/Wheezy.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Wheezy"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WILLCEAL.jpg",
+        "path": "logo_ocr/WILLCEAL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WILLCEAL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "winfun.jpg",
+        "path": "logo_ocr/winfun.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "winfun"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WINSKY.jpg",
+        "path": "logo_ocr/WINSKY.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WINSKY"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WIWIGO.jpg",
+        "path": "logo_ocr/WIWIGO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WIWIGO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WOLFTEETH.jpg",
+        "path": "logo_ocr/WOLFTEETH.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WOLFTEETH"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "WOPET.jpg",
+        "path": "logo_ocr/WOPET.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "WOPET"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Xech.jpg",
+        "path": "logo_ocr/Xech.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Xech"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "xencelabs.jpg",
+        "path": "logo_ocr/xencelabs.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "xencelabs"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "XIANGUO.jpg",
+        "path": "logo_ocr/XIANGUO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "XIANGUO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "XIFEI.jpg",
+        "path": "logo_ocr/XIFEI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "XIFEI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "XORB.jpg",
+        "path": "logo_ocr/XORB.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "XORB"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YABAE.jpg",
+        "path": "logo_ocr/YABAE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YABAE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YAKALLA.jpg",
+        "path": "logo_ocr/YAKALLA.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YAKALLA"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YALIS.jpg",
+        "path": "logo_ocr/YALIS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YALIS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Yeamon.jpg",
+        "path": "logo_ocr/Yeamon.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Yeamon"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YEASHINE.jpg",
+        "path": "logo_ocr/YEASHINE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YEASHINE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YEMO.jpg",
+        "path": "logo_ocr/YEMO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YEMO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YESO.jpg",
+        "path": "logo_ocr/YESO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YESO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "yisibo.jpg",
+        "path": "logo_ocr/yisibo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "yisibo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YOCICE.jpg",
+        "path": "logo_ocr/YOCICE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YOCICE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YOOBAO.jpg",
+        "path": "logo_ocr/YOOBAO.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YOOBAO"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YOOFOSS.jpg",
+        "path": "logo_ocr/YOOFOSS.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YOOFOSS"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "YOSUN.jpg",
+        "path": "logo_ocr/YOSUN.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "YOSUN"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "youyeetoo.jpg",
+        "path": "logo_ocr/youyeetoo.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "youyeetoo"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZCENTER.jpg",
+        "path": "logo_ocr/ZCENTER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZCENTER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZFSOCK.jpg",
+        "path": "logo_ocr/ZFSOCK.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZFSOCK"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZITFRI.jpg",
+        "path": "logo_ocr/ZITFRI.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZITFRI"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZKTeco.jpg",
+        "path": "logo_ocr/ZKTeco.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZKTeco"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZM.jpg",
+        "path": "logo_ocr/ZM.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZM"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZOBER.jpg",
+        "path": "logo_ocr/ZOBER.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZOBER"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZONEMEL.jpg",
+        "path": "logo_ocr/ZONEMEL.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZONEMEL"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "ZTOONE.jpg",
+        "path": "logo_ocr/ZTOONE.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "ZTOONE"
+    },
+    {
+        "task": "logo ocr",
+        "subtask": "",
+        "name": "Zwitscherbox.jpg",
+        "path": "logo_ocr/Zwitscherbox.jpg",
+        "prompt": "Please extract text from the image, and return only the plain text without any punctuation or symbols.",
+        "gt": "Zwitscherbox"
+    }
+]

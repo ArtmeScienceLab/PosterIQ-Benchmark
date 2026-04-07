@@ -1,0 +1,1973 @@
+[
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000001.jpg",
+    "path": "overall_rating/000001.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000002.jpg",
+    "path": "overall_rating/000002.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000003.jpg",
+    "path": "overall_rating/000003.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000004.jpg",
+    "path": "overall_rating/000004.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000005.jpg",
+    "path": "overall_rating/000005.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000006.jpg",
+    "path": "overall_rating/000006.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000007.jpg",
+    "path": "overall_rating/000007.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000008.jpg",
+    "path": "overall_rating/000008.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000009.jpg",
+    "path": "overall_rating/000009.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000010.jpg",
+    "path": "overall_rating/000010.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000011.jpg",
+    "path": "overall_rating/000011.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000012.jpg",
+    "path": "overall_rating/000012.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000013.jpg",
+    "path": "overall_rating/000013.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000014.jpg",
+    "path": "overall_rating/000014.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000015.jpg",
+    "path": "overall_rating/000015.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000016.jpg",
+    "path": "overall_rating/000016.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000017.jpg",
+    "path": "overall_rating/000017.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000018.jpg",
+    "path": "overall_rating/000018.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000019.jpg",
+    "path": "overall_rating/000019.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 8.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000020.jpg",
+    "path": "overall_rating/000020.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000022.jpg",
+    "path": "overall_rating/000022.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000023.jpg",
+    "path": "overall_rating/000023.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000024.jpg",
+    "path": "overall_rating/000024.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000025.jpg",
+    "path": "overall_rating/000025.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000026.jpg",
+    "path": "overall_rating/000026.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000027.jpg",
+    "path": "overall_rating/000027.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000028.jpg",
+    "path": "overall_rating/000028.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000030.jpg",
+    "path": "overall_rating/000030.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000031.jpg",
+    "path": "overall_rating/000031.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000033.jpg",
+    "path": "overall_rating/000033.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000035.jpg",
+    "path": "overall_rating/000035.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000036.jpg",
+    "path": "overall_rating/000036.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000037.jpg",
+    "path": "overall_rating/000037.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000038.jpg",
+    "path": "overall_rating/000038.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000039.jpg",
+    "path": "overall_rating/000039.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000041.jpg",
+    "path": "overall_rating/000041.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000042.jpg",
+    "path": "overall_rating/000042.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000043.jpg",
+    "path": "overall_rating/000043.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 8.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000045.jpg",
+    "path": "overall_rating/000045.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 8.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000046.jpg",
+    "path": "overall_rating/000046.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000047.jpg",
+    "path": "overall_rating/000047.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000048.jpg",
+    "path": "overall_rating/000048.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000049.jpg",
+    "path": "overall_rating/000049.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000050.jpg",
+    "path": "overall_rating/000050.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000051.jpg",
+    "path": "overall_rating/000051.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000052.jpg",
+    "path": "overall_rating/000052.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000053.jpg",
+    "path": "overall_rating/000053.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000054.jpg",
+    "path": "overall_rating/000054.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000055.jpg",
+    "path": "overall_rating/000055.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000057.jpg",
+    "path": "overall_rating/000057.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000059.jpg",
+    "path": "overall_rating/000059.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000060.jpg",
+    "path": "overall_rating/000060.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000061.jpg",
+    "path": "overall_rating/000061.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000062.jpg",
+    "path": "overall_rating/000062.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000063.jpg",
+    "path": "overall_rating/000063.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000064.jpg",
+    "path": "overall_rating/000064.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000065.jpg",
+    "path": "overall_rating/000065.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000066.jpg",
+    "path": "overall_rating/000066.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000067.jpg",
+    "path": "overall_rating/000067.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000068.jpg",
+    "path": "overall_rating/000068.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "000070.jpg",
+    "path": "overall_rating/000070.jpg",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "0850f94d82624b4e8e5f95d19d777e5e.png",
+    "path": "overall_rating/0850f94d82624b4e8e5f95d19d777e5e.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "1007c5cda1864544a580eb8f99d32b2f.png",
+    "path": "overall_rating/1007c5cda1864544a580eb8f99d32b2f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 2.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "1014019d4c76464897456641866b6767.png",
+    "path": "overall_rating/1014019d4c76464897456641866b6767.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "12142f5d473744019bd29e1c808f084b.png",
+    "path": "overall_rating/12142f5d473744019bd29e1c808f084b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "150fc7bb6ee8495689291b5af06b5ccd.png",
+    "path": "overall_rating/150fc7bb6ee8495689291b5af06b5ccd.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "1688cfb582954f7089824a303a04899b.png",
+    "path": "overall_rating/1688cfb582954f7089824a303a04899b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "18d39d8614644f6b98efbd44596f2dbc.png",
+    "path": "overall_rating/18d39d8614644f6b98efbd44596f2dbc.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "204dbe558c094a9aa2e2998c3d0839c4.png",
+    "path": "overall_rating/204dbe558c094a9aa2e2998c3d0839c4.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "213552be050848c1a22eb9a135d9a5b9.png",
+    "path": "overall_rating/213552be050848c1a22eb9a135d9a5b9.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "230d79d416364cbab0b7c1a7aaabd18f.png",
+    "path": "overall_rating/230d79d416364cbab0b7c1a7aaabd18f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "2592e87c52644e94b834442e72215bb4.png",
+    "path": "overall_rating/2592e87c52644e94b834442e72215bb4.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "26792c7a833a4a80a1e51993f103ef92.png",
+    "path": "overall_rating/26792c7a833a4a80a1e51993f103ef92.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "292b8678656f48f58a6980a1153a445d.png",
+    "path": "overall_rating/292b8678656f48f58a6980a1153a445d.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "302423b9d2c5478d9bc5077b750c1493.png",
+    "path": "overall_rating/302423b9d2c5478d9bc5077b750c1493.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "3635ae2bb5c84391b85e360851691937.png",
+    "path": "overall_rating/3635ae2bb5c84391b85e360851691937.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "379c72319e694047a39524bd3c67daef.png",
+    "path": "overall_rating/379c72319e694047a39524bd3c67daef.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "384cd93616414810af37761f70104b69.png",
+    "path": "overall_rating/384cd93616414810af37761f70104b69.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "4081ce000c3944feaa1f8ecb9be5a8c0.png",
+    "path": "overall_rating/4081ce000c3944feaa1f8ecb9be5a8c0.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "430a0542d4e94ae7a79dcaa2fa9d0701.png",
+    "path": "overall_rating/430a0542d4e94ae7a79dcaa2fa9d0701.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "4394f6f104e74eb6b061c33c9d520b74.png",
+    "path": "overall_rating/4394f6f104e74eb6b061c33c9d520b74.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "4acb3d91f29446a78b031efe86fd29a5.png",
+    "path": "overall_rating/4acb3d91f29446a78b031efe86fd29a5.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "4dfff34bd4774eb5bb6632742c56fc65.png",
+    "path": "overall_rating/4dfff34bd4774eb5bb6632742c56fc65.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "50439a1e9f874e9c9c74d4033bce3668.png",
+    "path": "overall_rating/50439a1e9f874e9c9c74d4033bce3668.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "5257c7cb5427436e9db64b51d457ab48.png",
+    "path": "overall_rating/5257c7cb5427436e9db64b51d457ab48.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "54dfc111c719419086081ceb2c71f8d3.png",
+    "path": "overall_rating/54dfc111c719419086081ceb2c71f8d3.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "55152f97f7eb4e6996cca2d29a609a3c.png",
+    "path": "overall_rating/55152f97f7eb4e6996cca2d29a609a3c.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 7.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "5626a0463d9a468c974088ed89b6d156.png",
+    "path": "overall_rating/5626a0463d9a468c974088ed89b6d156.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 2.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "57ee3dabd4a243d79477ebc318fd80d2.png",
+    "path": "overall_rating/57ee3dabd4a243d79477ebc318fd80d2.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 2.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "5b307fdaf0454e09b9617fa9691d4bd6.png",
+    "path": "overall_rating/5b307fdaf0454e09b9617fa9691d4bd6.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "5c7bb5791f654411911f06b9cb22ed29.png",
+    "path": "overall_rating/5c7bb5791f654411911f06b9cb22ed29.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "60543c6affa94f18b25a3c361a63bc11.png",
+    "path": "overall_rating/60543c6affa94f18b25a3c361a63bc11.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "60cfda6701694e6d9243c6eadeaf9508.png",
+    "path": "overall_rating/60cfda6701694e6d9243c6eadeaf9508.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 2.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "61995654bef549f59fdcafcb1769c47b.png",
+    "path": "overall_rating/61995654bef549f59fdcafcb1769c47b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "61b266bb80e14564ac688d391f27b4dc.png",
+    "path": "overall_rating/61b266bb80e14564ac688d391f27b4dc.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "62d306e360904e2b84a884bfe458cf35.png",
+    "path": "overall_rating/62d306e360904e2b84a884bfe458cf35.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "630c3724e33c4fe3a1102b1295da2e6f.png",
+    "path": "overall_rating/630c3724e33c4fe3a1102b1295da2e6f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "644435b1998a4c10b6924e2b0f812068.png",
+    "path": "overall_rating/644435b1998a4c10b6924e2b0f812068.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "644a6a84b6f742ddadbf30b00a287549.png",
+    "path": "overall_rating/644a6a84b6f742ddadbf30b00a287549.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6708b7ed17574b3fbdca48b0013069ae.png",
+    "path": "overall_rating/6708b7ed17574b3fbdca48b0013069ae.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "67a605debd5441b3b074170b23f952b1.png",
+    "path": "overall_rating/67a605debd5441b3b074170b23f952b1.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "68ba516daf0240eaba5324764e9c5a65.png",
+    "path": "overall_rating/68ba516daf0240eaba5324764e9c5a65.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "692e7a437dbc41e7b918cf7d9b39f07a.png",
+    "path": "overall_rating/692e7a437dbc41e7b918cf7d9b39f07a.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "69b70a96be7e4791b9b022a1ea679eff.png",
+    "path": "overall_rating/69b70a96be7e4791b9b022a1ea679eff.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "69ef73e74a27435e84fb366178422740.png",
+    "path": "overall_rating/69ef73e74a27435e84fb366178422740.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6a31ca8747b24fee91355d7b38971405.png",
+    "path": "overall_rating/6a31ca8747b24fee91355d7b38971405.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6a61d938b86945dda125617ace79b5c5.png",
+    "path": "overall_rating/6a61d938b86945dda125617ace79b5c5.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6bf17c1dca63410292ff04a0d3eae71a.png",
+    "path": "overall_rating/6bf17c1dca63410292ff04a0d3eae71a.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6ccc22ef1d274b108e50f91ac7953385.png",
+    "path": "overall_rating/6ccc22ef1d274b108e50f91ac7953385.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6d0f6c38d37643f887bcf217214bbb26.png",
+    "path": "overall_rating/6d0f6c38d37643f887bcf217214bbb26.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6da895a65f0a400491abf53a909785ce.png",
+    "path": "overall_rating/6da895a65f0a400491abf53a909785ce.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6dc22400ff6148499fbd4ec51a3300de.png",
+    "path": "overall_rating/6dc22400ff6148499fbd4ec51a3300de.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6df53f71f46d4b76b5c2681bb0c95dc8.png",
+    "path": "overall_rating/6df53f71f46d4b76b5c2681bb0c95dc8.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6ef683e751084e2190439afee2072b77.png",
+    "path": "overall_rating/6ef683e751084e2190439afee2072b77.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6f9c16ad7a0c46ef88c099b0ac131d76.png",
+    "path": "overall_rating/6f9c16ad7a0c46ef88c099b0ac131d76.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "6fb71b5134a446f994287f1408354e22.png",
+    "path": "overall_rating/6fb71b5134a446f994287f1408354e22.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "7195a0cb2e594acfad46e39b2ef331de.png",
+    "path": "overall_rating/7195a0cb2e594acfad46e39b2ef331de.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "732a250e6f694944a500a6a94d35465d.png",
+    "path": "overall_rating/732a250e6f694944a500a6a94d35465d.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "73fdeca96eef4d198f7a272b2af1d7f6.png",
+    "path": "overall_rating/73fdeca96eef4d198f7a272b2af1d7f6.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "74516666b4ed4838b9e410903ebf0d5d.png",
+    "path": "overall_rating/74516666b4ed4838b9e410903ebf0d5d.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "74c14bcd2811426aa0168390177bd9fa.png",
+    "path": "overall_rating/74c14bcd2811426aa0168390177bd9fa.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "75bc1fcdd25648d89823ec216e2e2961.png",
+    "path": "overall_rating/75bc1fcdd25648d89823ec216e2e2961.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "787d3691086e4629bac5bf66536b6049.png",
+    "path": "overall_rating/787d3691086e4629bac5bf66536b6049.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "78b8b12aa716403aae4dfe821dafccd1.png",
+    "path": "overall_rating/78b8b12aa716403aae4dfe821dafccd1.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "78e704f45ff34a47b1c59f6364a2251d.png",
+    "path": "overall_rating/78e704f45ff34a47b1c59f6364a2251d.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "7945c0d2a58c457aa2811791e3e0ee89.png",
+    "path": "overall_rating/7945c0d2a58c457aa2811791e3e0ee89.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "7b500d59be644696985e46c7e391b87b.png",
+    "path": "overall_rating/7b500d59be644696985e46c7e391b87b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "7b59e50490b249c18ff6277155c3fefd.png",
+    "path": "overall_rating/7b59e50490b249c18ff6277155c3fefd.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "7b830ef82386451caa7770fdb4647a8b.png",
+    "path": "overall_rating/7b830ef82386451caa7770fdb4647a8b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "802352fa7c8341da8291d27873a02a6f.png",
+    "path": "overall_rating/802352fa7c8341da8291d27873a02a6f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "805bfc2cf9e84d53a12a9d7824a56b0e.png",
+    "path": "overall_rating/805bfc2cf9e84d53a12a9d7824a56b0e.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "813d677cbdf04c24b182dfc1de572019.png",
+    "path": "overall_rating/813d677cbdf04c24b182dfc1de572019.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8206435d61664df2b09f35366381fbea.png",
+    "path": "overall_rating/8206435d61664df2b09f35366381fbea.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8223c84e815c430e901621f99574021f.png",
+    "path": "overall_rating/8223c84e815c430e901621f99574021f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "84adb8365f0541c38fa2a1878234679c.png",
+    "path": "overall_rating/84adb8365f0541c38fa2a1878234679c.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "85c022ca5e33445aafee198919e268b5.png",
+    "path": "overall_rating/85c022ca5e33445aafee198919e268b5.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "86c30b9e8e2d456fb50a628cec91c70a.png",
+    "path": "overall_rating/86c30b9e8e2d456fb50a628cec91c70a.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8962bd1ebe9e48f49a2db85949d4d960.png",
+    "path": "overall_rating/8962bd1ebe9e48f49a2db85949d4d960.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8a39570a93ef4b04b7853f941fc891b8.png",
+    "path": "overall_rating/8a39570a93ef4b04b7853f941fc891b8.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8aa25162c1544d2085a325bf11068ba9.png",
+    "path": "overall_rating/8aa25162c1544d2085a325bf11068ba9.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8b167c791aa542bd9a5efcab358a7a5f.png",
+    "path": "overall_rating/8b167c791aa542bd9a5efcab358a7a5f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8b2a8a666ddf420185286189368ce727.png",
+    "path": "overall_rating/8b2a8a666ddf420185286189368ce727.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8bbf9cdf84884723b3aa06f7f9a12e44.png",
+    "path": "overall_rating/8bbf9cdf84884723b3aa06f7f9a12e44.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8d170bce6e6549a48e74edfcc818aa86.png",
+    "path": "overall_rating/8d170bce6e6549a48e74edfcc818aa86.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8e38183e6ec145b5a2447f88b47c2bbe.png",
+    "path": "overall_rating/8e38183e6ec145b5a2447f88b47c2bbe.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "8ef586f2055f44ed90eaa44a95faadab.png",
+    "path": "overall_rating/8ef586f2055f44ed90eaa44a95faadab.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9054964ab2734d2d978ede1f0bba35bb.png",
+    "path": "overall_rating/9054964ab2734d2d978ede1f0bba35bb.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "90b9a2237ab5460b85e13b9bc40ca44f.png",
+    "path": "overall_rating/90b9a2237ab5460b85e13b9bc40ca44f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9152af0b31904f91a052be98af7e3db7.png",
+    "path": "overall_rating/9152af0b31904f91a052be98af7e3db7.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "920cb9c20c434a8f84d3e2cbc189d809.png",
+    "path": "overall_rating/920cb9c20c434a8f84d3e2cbc189d809.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "924734f72ba94a2285ece12dd9b66cda.png",
+    "path": "overall_rating/924734f72ba94a2285ece12dd9b66cda.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "93f6a3d3ec0448b4a324ab7338e34132.png",
+    "path": "overall_rating/93f6a3d3ec0448b4a324ab7338e34132.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9423ab4504d64ba891b7a6e5143d00d4.png",
+    "path": "overall_rating/9423ab4504d64ba891b7a6e5143d00d4.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "96d6a3471b9b42539bdda710fd2488c1.png",
+    "path": "overall_rating/96d6a3471b9b42539bdda710fd2488c1.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "977570f6fdb1440481877e0183fd0836.png",
+    "path": "overall_rating/977570f6fdb1440481877e0183fd0836.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "97c06d403a6c4d37a4ef50f37ba30a9b.png",
+    "path": "overall_rating/97c06d403a6c4d37a4ef50f37ba30a9b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9a261dbdb5c9455197f762487995f9e1.png",
+    "path": "overall_rating/9a261dbdb5c9455197f762487995f9e1.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9b2ca9c475e54c48a8b39c6ba1196bfd.png",
+    "path": "overall_rating/9b2ca9c475e54c48a8b39c6ba1196bfd.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9d98cbe07a3741c6b07bad9825f06872.png",
+    "path": "overall_rating/9d98cbe07a3741c6b07bad9825f06872.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9dae0e6b988c402eac9fa724b2ad5202.png",
+    "path": "overall_rating/9dae0e6b988c402eac9fa724b2ad5202.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9dfe48130ad64b879e1ee60325f4a6b2.png",
+    "path": "overall_rating/9dfe48130ad64b879e1ee60325f4a6b2.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9e4678685802406782d15b41a05d2d9c.png",
+    "path": "overall_rating/9e4678685802406782d15b41a05d2d9c.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9eb1cd8c3b1f41d891ca73c753d7dd8b.png",
+    "path": "overall_rating/9eb1cd8c3b1f41d891ca73c753d7dd8b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9eff824e1be045f9a3a3089d8693c2fd.png",
+    "path": "overall_rating/9eff824e1be045f9a3a3089d8693c2fd.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9f77138c65ec442d8ea20b5b70e041a2.png",
+    "path": "overall_rating/9f77138c65ec442d8ea20b5b70e041a2.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "9fa945a5a60347ce9c8c7e1113e22a18.png",
+    "path": "overall_rating/9fa945a5a60347ce9c8c7e1113e22a18.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a05f46f8ce414c928f667f052bf86a96.png",
+    "path": "overall_rating/a05f46f8ce414c928f667f052bf86a96.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a1b1d4232e65403b9ce5412d75f6078f.png",
+    "path": "overall_rating/a1b1d4232e65403b9ce5412d75f6078f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a4318a4cb8664469856a98c50a0cd467.png",
+    "path": "overall_rating/a4318a4cb8664469856a98c50a0cd467.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a4a453eac5f74c4bbb03fb5526e4a8f9.png",
+    "path": "overall_rating/a4a453eac5f74c4bbb03fb5526e4a8f9.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a562eee227f44176ae38978dbb0cf4a6.png",
+    "path": "overall_rating/a562eee227f44176ae38978dbb0cf4a6.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a58adc56b1da4127845593908c7cfb76.png",
+    "path": "overall_rating/a58adc56b1da4127845593908c7cfb76.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a5cc21ddf0a54e5d97f6f269247aaad0.png",
+    "path": "overall_rating/a5cc21ddf0a54e5d97f6f269247aaad0.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a5d3ddb25ad54f8b8f274df320db19af.png",
+    "path": "overall_rating/a5d3ddb25ad54f8b8f274df320db19af.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a87c588e8909443e9e16f1222bd32f7f.png",
+    "path": "overall_rating/a87c588e8909443e9e16f1222bd32f7f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a8ebc0facd794f39b9e14ad0025353ff.png",
+    "path": "overall_rating/a8ebc0facd794f39b9e14ad0025353ff.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "a955cfd3e54c4770bf16c969f3b39496.png",
+    "path": "overall_rating/a955cfd3e54c4770bf16c969f3b39496.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "aa80a5ccf7294c838e438255b44c3c7d.png",
+    "path": "overall_rating/aa80a5ccf7294c838e438255b44c3c7d.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "b0bcc9c3c1824dd4b735971020a86177.png",
+    "path": "overall_rating/b0bcc9c3c1824dd4b735971020a86177.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "b16da988bc224500ae80ee84f48c30cd.png",
+    "path": "overall_rating/b16da988bc224500ae80ee84f48c30cd.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "b1975abb107642f694238fe4122d7b84.png",
+    "path": "overall_rating/b1975abb107642f694238fe4122d7b84.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "b76e192ad3524afebb6f8bb3a32de4c7.png",
+    "path": "overall_rating/b76e192ad3524afebb6f8bb3a32de4c7.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "b88fb91f318347a8a223efe74634c235.png",
+    "path": "overall_rating/b88fb91f318347a8a223efe74634c235.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "b9c6daa0c5924c2d98dc8465591d1106.png",
+    "path": "overall_rating/b9c6daa0c5924c2d98dc8465591d1106.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "bcad2eb5626042d3a0fd0d533e5f85a2.png",
+    "path": "overall_rating/bcad2eb5626042d3a0fd0d533e5f85a2.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "bee21b8716574ed5857efc86909d0ce4.png",
+    "path": "overall_rating/bee21b8716574ed5857efc86909d0ce4.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c17ca6e888354d9285b35ea5d9127a46.png",
+    "path": "overall_rating/c17ca6e888354d9285b35ea5d9127a46.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c1c737ceff7b47cc875149b2453a4bd0.png",
+    "path": "overall_rating/c1c737ceff7b47cc875149b2453a4bd0.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c2275e6da6ad4f4d84858f0f0ed0586b.png",
+    "path": "overall_rating/c2275e6da6ad4f4d84858f0f0ed0586b.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.6
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c22c239c391c49369f00e0185eae4370.png",
+    "path": "overall_rating/c22c239c391c49369f00e0185eae4370.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c2c100bfc5ae4e4d80d49cf66c0a1b04.png",
+    "path": "overall_rating/c2c100bfc5ae4e4d80d49cf66c0a1b04.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c2d0cdc77cf049078c005c204fa09d7a.png",
+    "path": "overall_rating/c2d0cdc77cf049078c005c204fa09d7a.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c405ce3e0ce841829f71a6e8dd6296f9.png",
+    "path": "overall_rating/c405ce3e0ce841829f71a6e8dd6296f9.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c40b1f89548b4492bc5b3d97a348a078.png",
+    "path": "overall_rating/c40b1f89548b4492bc5b3d97a348a078.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c48b6ebc33624bfcafae64e1e5408d62.png",
+    "path": "overall_rating/c48b6ebc33624bfcafae64e1e5408d62.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c6305bf2f5794e3288dc6ea99e03572f.png",
+    "path": "overall_rating/c6305bf2f5794e3288dc6ea99e03572f.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c66c41141bf14a36b719da0a42bb8d1d.png",
+    "path": "overall_rating/c66c41141bf14a36b719da0a42bb8d1d.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c77d4dab64fa42d785f41e6b912e4dc8.png",
+    "path": "overall_rating/c77d4dab64fa42d785f41e6b912e4dc8.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c800aa6b6b684bf4924ce9773107b167.png",
+    "path": "overall_rating/c800aa6b6b684bf4924ce9773107b167.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "c9fa954e283f4ec8a4eb66ae8a8d4f56.png",
+    "path": "overall_rating/c9fa954e283f4ec8a4eb66ae8a8d4f56.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.7
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "ca72a8bf88534c3581a5beb93a4b4737.png",
+    "path": "overall_rating/ca72a8bf88534c3581a5beb93a4b4737.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "cacb132dff2f427b8f7dbbf7be393c21.png",
+    "path": "overall_rating/cacb132dff2f427b8f7dbbf7be393c21.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "cb2896c9b7844869a141996afda02208.png",
+    "path": "overall_rating/cb2896c9b7844869a141996afda02208.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "cb6cb84e49764c19af6f57441728cb85.png",
+    "path": "overall_rating/cb6cb84e49764c19af6f57441728cb85.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "cbaf73f0eee04a1e834b33e2da89cefd.png",
+    "path": "overall_rating/cbaf73f0eee04a1e834b33e2da89cefd.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "cd3a0d94b789437f826438fdffac91f8.png",
+    "path": "overall_rating/cd3a0d94b789437f826438fdffac91f8.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "cd67ca69376c437996d0bfab79c1c523.png",
+    "path": "overall_rating/cd67ca69376c437996d0bfab79c1c523.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.8
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "ce975ffbfd474b4390c7d5369809e6ce.png",
+    "path": "overall_rating/ce975ffbfd474b4390c7d5369809e6ce.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "ceb107f8d8234bfa94669159da899e58.png",
+    "path": "overall_rating/ceb107f8d8234bfa94669159da899e58.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 2.0
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d05d4db31605467fbfd7f910ebba7163.png",
+    "path": "overall_rating/d05d4db31605467fbfd7f910ebba7163.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 2.4
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d0e5dea1f98f41d9a403fe45fa5b5cfa.png",
+    "path": "overall_rating/d0e5dea1f98f41d9a403fe45fa5b5cfa.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d1dd324043004842a3b784ab204fa515.png",
+    "path": "overall_rating/d1dd324043004842a3b784ab204fa515.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d2ae7cef7d6c466ebcad674d4c42f4b6.png",
+    "path": "overall_rating/d2ae7cef7d6c466ebcad674d4c42f4b6.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d3bb12dda86746cba760b390eedd1bfe.png",
+    "path": "overall_rating/d3bb12dda86746cba760b390eedd1bfe.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.3
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d4f1411998424d16a0167b750f8d7ac7.png",
+    "path": "overall_rating/d4f1411998424d16a0167b750f8d7ac7.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.5
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d6cee2da43e446f5bc513a87da10c170.png",
+    "path": "overall_rating/d6cee2da43e446f5bc513a87da10c170.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 5.1
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "d7f4f7ee6b424b6fa42ca6e97c815fca.png",
+    "path": "overall_rating/d7f4f7ee6b424b6fa42ca6e97c815fca.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 6.2
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "e2ca9fa78dae47a696c0452958f23ce5.png",
+    "path": "overall_rating/e2ca9fa78dae47a696c0452958f23ce5.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 4.9
+  },
+  {
+    "task": "overall rating",
+    "subtask": "",
+    "name": "f6b82a42038541a59e42c96054aa2a06.png",
+    "path": "overall_rating/f6b82a42038541a59e42c96054aa2a06.png",
+    "prompt": "Please carefully evaluate the given poster and assign a score from 1 to 10 based on the following three aspects:\n1. Typography Design – clarity, creativity, and consistency of font usage.\n2. Layout Composition – balance, hierarchy, and visual flow of the overall structure.\n3. Visual Metaphor and Aesthetics – how effectively the poster conveys meaning through imagery, symbolism, and color harmony.\n\nOutput only a single number (1–10) representing your overall score, without explanation or extra text."
+,
+    "gt": 3.6
+  }
+]

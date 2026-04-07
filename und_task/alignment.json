@@ -1,0 +1,2602 @@
+[
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "000_30_center_.png",
+        "path": "alignment/000_30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "001_15_right_.png",
+        "path": "alignment/001_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "002_0_center_.png",
+        "path": "alignment/002_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "003_-15_right_.png",
+        "path": "alignment/003_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "004_0_left_.png",
+        "path": "alignment/004_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "005_-30_left_.png",
+        "path": "alignment/005_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "006_0_right_.png",
+        "path": "alignment/006_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "007_-30_center_.png",
+        "path": "alignment/007_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "008_30_left_.png",
+        "path": "alignment/008_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "009_-30_left_.png",
+        "path": "alignment/009_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "010_-15_right_.png",
+        "path": "alignment/010_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "011_0_center_.png",
+        "path": "alignment/011_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "012_0_left_.png",
+        "path": "alignment/012_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "013_-30_center_.png",
+        "path": "alignment/013_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "014_30_left_.png",
+        "path": "alignment/014_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "015_15_right_.png",
+        "path": "alignment/015_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "016_-15_center_.png",
+        "path": "alignment/016_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "017_30_left_.png",
+        "path": "alignment/017_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "018_15_left_.png",
+        "path": "alignment/018_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "019_-30_left_.png",
+        "path": "alignment/019_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "020_0_right_.png",
+        "path": "alignment/020_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "021_0_left_.png",
+        "path": "alignment/021_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "022_-30_left_.png",
+        "path": "alignment/022_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "023_-15_left_.png",
+        "path": "alignment/023_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "024_15_left_.png",
+        "path": "alignment/024_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "025_0_center_.png",
+        "path": "alignment/025_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "026_30_right_.png",
+        "path": "alignment/026_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "027_-15_right_.png",
+        "path": "alignment/027_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "028_15_right_.png",
+        "path": "alignment/028_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "029_-15_right_.png",
+        "path": "alignment/029_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "030_30_center_.png",
+        "path": "alignment/030_30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "031_30_right_.png",
+        "path": "alignment/031_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "032_-30_right_.png",
+        "path": "alignment/032_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "033_-15_right_.png",
+        "path": "alignment/033_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "034_30_right_.png",
+        "path": "alignment/034_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "035_-15_left_.png",
+        "path": "alignment/035_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "036_-30_left_.png",
+        "path": "alignment/036_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "037_-30_left_.png",
+        "path": "alignment/037_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "038_0_right_.png",
+        "path": "alignment/038_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "039_-15_right_.png",
+        "path": "alignment/039_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "040_0_left_.png",
+        "path": "alignment/040_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "041_-15_left_.png",
+        "path": "alignment/041_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "042_-15_center_.png",
+        "path": "alignment/042_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "043_-30_center_.png",
+        "path": "alignment/043_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "044_0_left_.png",
+        "path": "alignment/044_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "045_-30_right_.png",
+        "path": "alignment/045_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "046_-15_right_.png",
+        "path": "alignment/046_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "047_-30_right_.png",
+        "path": "alignment/047_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "048_-30_left_.png",
+        "path": "alignment/048_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "049_-15_right_.png",
+        "path": "alignment/049_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "050_0_left_.png",
+        "path": "alignment/050_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "051_30_right_.png",
+        "path": "alignment/051_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "052_15_right_.png",
+        "path": "alignment/052_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "053_-15_center_.png",
+        "path": "alignment/053_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "054_0_center_.png",
+        "path": "alignment/054_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "055_0_right_.png",
+        "path": "alignment/055_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "056_30_center_.png",
+        "path": "alignment/056_30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "057_-30_right_.png",
+        "path": "alignment/057_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "058_15_left_.png",
+        "path": "alignment/058_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "059_15_center_.png",
+        "path": "alignment/059_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "060_15_left_.png",
+        "path": "alignment/060_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "061_-15_right_.png",
+        "path": "alignment/061_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "062_0_left_.png",
+        "path": "alignment/062_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "063_-15_right_.png",
+        "path": "alignment/063_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "064_0_left_.png",
+        "path": "alignment/064_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "065_-30_center_.png",
+        "path": "alignment/065_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "066_-30_left_.png",
+        "path": "alignment/066_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "067_-15_right_.png",
+        "path": "alignment/067_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "068_15_left_.png",
+        "path": "alignment/068_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "069_-30_right_.png",
+        "path": "alignment/069_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "070_15_right_.png",
+        "path": "alignment/070_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "071_0_right_.png",
+        "path": "alignment/071_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "072_30_right_.png",
+        "path": "alignment/072_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "073_-30_left_.png",
+        "path": "alignment/073_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "074_-15_center_.png",
+        "path": "alignment/074_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "075_0_center_.png",
+        "path": "alignment/075_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "076_0_right_.png",
+        "path": "alignment/076_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "077_0_center_.png",
+        "path": "alignment/077_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "078_-15_left_.png",
+        "path": "alignment/078_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "079_30_left_.png",
+        "path": "alignment/079_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "080_30_center_.png",
+        "path": "alignment/080_30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "081_0_left_.png",
+        "path": "alignment/081_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "082_15_center_.png",
+        "path": "alignment/082_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "083_15_right_.png",
+        "path": "alignment/083_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "084_-30_right_.png",
+        "path": "alignment/084_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "085_0_center_.png",
+        "path": "alignment/085_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "086_-15_left_.png",
+        "path": "alignment/086_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "087_30_left_.png",
+        "path": "alignment/087_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "088_-30_center_.png",
+        "path": "alignment/088_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "089_-30_center_.png",
+        "path": "alignment/089_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "090_30_left_.png",
+        "path": "alignment/090_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "091_30_center_.png",
+        "path": "alignment/091_30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "092_30_center_.png",
+        "path": "alignment/092_30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "093_-30_left_.png",
+        "path": "alignment/093_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "094_0_left_.png",
+        "path": "alignment/094_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "095_-30_left_.png",
+        "path": "alignment/095_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "096_-15_left_.png",
+        "path": "alignment/096_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "097_0_right_.png",
+        "path": "alignment/097_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "098_30_right_.png",
+        "path": "alignment/098_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "099_15_center_.png",
+        "path": "alignment/099_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "100_15_center_.png",
+        "path": "alignment/100_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "101_0_right_.png",
+        "path": "alignment/101_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "102_15_left_.png",
+        "path": "alignment/102_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "103_15_right_.png",
+        "path": "alignment/103_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "104_-30_center_.png",
+        "path": "alignment/104_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "105_0_left_.png",
+        "path": "alignment/105_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "106_15_right_.png",
+        "path": "alignment/106_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "107_0_center_.png",
+        "path": "alignment/107_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "108_-30_left_.png",
+        "path": "alignment/108_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "109_-15_center_.png",
+        "path": "alignment/109_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "110_-30_right_.png",
+        "path": "alignment/110_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "111_15_center_.png",
+        "path": "alignment/111_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "112_-30_left_.png",
+        "path": "alignment/112_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "113_-30_left_.png",
+        "path": "alignment/113_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "114_0_right_.png",
+        "path": "alignment/114_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "115_15_right_.png",
+        "path": "alignment/115_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "116_30_center_.png",
+        "path": "alignment/116_30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "117_-30_center_.png",
+        "path": "alignment/117_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "118_0_left_.png",
+        "path": "alignment/118_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "119_-30_left_.png",
+        "path": "alignment/119_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "120_0_left_.png",
+        "path": "alignment/120_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "121_0_center_.png",
+        "path": "alignment/121_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "122_-15_center_.png",
+        "path": "alignment/122_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "123_-30_right_.png",
+        "path": "alignment/123_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "124_30_left_.png",
+        "path": "alignment/124_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "125_15_center_.png",
+        "path": "alignment/125_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "126_-30_right_.png",
+        "path": "alignment/126_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "127_-15_right_.png",
+        "path": "alignment/127_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "128_-30_right_.png",
+        "path": "alignment/128_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "129_-30_left_.png",
+        "path": "alignment/129_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "130_30_left_.png",
+        "path": "alignment/130_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "131_0_center_.png",
+        "path": "alignment/131_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "132_-15_left_.png",
+        "path": "alignment/132_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "133_30_left_.png",
+        "path": "alignment/133_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "134_-30_right_.png",
+        "path": "alignment/134_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "135_0_left_.png",
+        "path": "alignment/135_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "136_15_left_.png",
+        "path": "alignment/136_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "137_15_center_.png",
+        "path": "alignment/137_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "138_0_center_.png",
+        "path": "alignment/138_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "139_-15_right_.png",
+        "path": "alignment/139_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "140_-15_left_.png",
+        "path": "alignment/140_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "141_-15_right_.png",
+        "path": "alignment/141_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "142_15_right_.png",
+        "path": "alignment/142_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "143_30_right_.png",
+        "path": "alignment/143_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "144_0_right_.png",
+        "path": "alignment/144_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "145_-15_left_.png",
+        "path": "alignment/145_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "146_0_left_.png",
+        "path": "alignment/146_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "147_-30_right_.png",
+        "path": "alignment/147_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "148_-30_left_.png",
+        "path": "alignment/148_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "149_-15_left_.png",
+        "path": "alignment/149_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "150_0_center_.png",
+        "path": "alignment/150_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "151_0_center_.png",
+        "path": "alignment/151_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "152_-30_right_.png",
+        "path": "alignment/152_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "153_-30_left_.png",
+        "path": "alignment/153_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "154_0_center_.png",
+        "path": "alignment/154_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "155_15_right_.png",
+        "path": "alignment/155_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "156_0_center_.png",
+        "path": "alignment/156_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "157_-15_left_.png",
+        "path": "alignment/157_-15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "158_-30_center_.png",
+        "path": "alignment/158_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "159_30_left_.png",
+        "path": "alignment/159_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "160_-15_right_.png",
+        "path": "alignment/160_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "161_-30_right_.png",
+        "path": "alignment/161_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "162_-30_center_.png",
+        "path": "alignment/162_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "163_0_left_.png",
+        "path": "alignment/163_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "164_30_right_.png",
+        "path": "alignment/164_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "165_0_right_.png",
+        "path": "alignment/165_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "166_15_right_.png",
+        "path": "alignment/166_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "167_-30_right_.png",
+        "path": "alignment/167_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "168_30_left_.png",
+        "path": "alignment/168_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "169_0_right_.png",
+        "path": "alignment/169_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "170_30_right_.png",
+        "path": "alignment/170_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "171_0_center_.png",
+        "path": "alignment/171_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "172_-30_right_.png",
+        "path": "alignment/172_-30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "173_-30_center_.png",
+        "path": "alignment/173_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "174_30_left_.png",
+        "path": "alignment/174_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "175_30_left_.png",
+        "path": "alignment/175_30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "176_0_left_.png",
+        "path": "alignment/176_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "177_0_left_.png",
+        "path": "alignment/177_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "178_0_center_.png",
+        "path": "alignment/178_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "179_30_right_.png",
+        "path": "alignment/179_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "180_-30_center_.png",
+        "path": "alignment/180_-30_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "181_15_left_.png",
+        "path": "alignment/181_15_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "182_-15_right_.png",
+        "path": "alignment/182_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "183_30_right_.png",
+        "path": "alignment/183_30_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "184_15_right_.png",
+        "path": "alignment/184_15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "185_15_center_.png",
+        "path": "alignment/185_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "186_-15_center_.png",
+        "path": "alignment/186_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "187_-15_right_.png",
+        "path": "alignment/187_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "188_-30_left_.png",
+        "path": "alignment/188_-30_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "189_-15_right_.png",
+        "path": "alignment/189_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "190_0_right_.png",
+        "path": "alignment/190_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "191_-15_right_.png",
+        "path": "alignment/191_-15_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "192_0_right_.png",
+        "path": "alignment/192_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "193_15_center_.png",
+        "path": "alignment/193_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "194_15_center_.png",
+        "path": "alignment/194_15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "195_0_right_.png",
+        "path": "alignment/195_0_right_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "right-aligned"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "196_0_left_.png",
+        "path": "alignment/196_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "197_0_left_.png",
+        "path": "alignment/197_0_left_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "left-aligned"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "198_0_center_.png",
+        "path": "alignment/198_0_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "alignment",
+        "subtask": "",
+        "name": "199_-15_center_.png",
+        "path": "alignment/199_-15_center_.png",
+        "prompt": "Please observe the text alignment and choose one of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['center-aligned']",
+        "gt": [
+            "center-aligned"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    }
+]

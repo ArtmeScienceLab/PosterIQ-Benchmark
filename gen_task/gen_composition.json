@@ -1,0 +1,1325 @@
+[
+  {
+    "task": "poster composition",
+    "id": 0,
+    "name": "4000.jpg",
+    "path": "composition/4000.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster that presents a literary theme in a minimalist style.\n\n- The background is deep crimson, and the upper center is dominated by the huge black, bold word \"LOVE.\" The letter \"O\" is cleverly turned into an off-white spotlight slanting from the upper left to the lower right.\n- The light forms an oval pool in the lower-right corner. Standing in it is the silhouette of a man in a hat, with a crisp shadow at his feet, conveying a sense of loneliness and exposure.\n- In the lower left, the title \"SO WHAT IS THIS LOVE?\" appears in black type. Below it is an English quotation describing love’s power and contradictions: it can lift a person to heaven and dash them back to hell; it is changeable—at once a chain and an inextinguishable flame; it is as romantic as a summer night’s starry canopy and the scent of earth, yet it makes the young shy from prying eyes and leaves the old hiding behind the lonely walls of their homes\n\nOverall, through stark blocks of contrasting color and the visual metaphor of a letter becoming a beam of light, the design casts love as both illumination and constraint: it puts the figure under the public spotlight while also revealing his inner loneliness and the impossibility of hiding.",
+    "gt": [
+      "an off-white spotlight slanting from the upper left to the lower right",
+      "stark blocks of contrasting color"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 1,
+    "name": "4001.jpg",
+    "path": "composition/4001.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster designed like a newspaper/magazine cover.\n\n- In the upper left corner is a black “wp” logo, dated December 23, 2012.\n- The centerpiece is the word “LIVES,” rendered as large three-dimensional letters formed by strips of paper that seem cut from and lifted off the white surface. The curled edges cast shadows, creating a hand-crafted paper-craft 3D effect. Inside the letters is a blue-green gradient background set with dense lines of small type—apparently fragments of the lives being commemorated.\n- Each letter is dotted with small subheads pointing to different people and identities, such as:\n  - The Chinatown Matriarch\n  - The Girl Who Lived in Fast Forward\n  - The Fearless Teacher\n  - The Baseball Visionary\n  - Strong-Legs the Soldier\n  - The Human Jazz Almanac\n- In the upper right, handwritten text reads “The gifts of our neighbors,” with “Remembered” below in the same script, expressing the theme of honoring the gifts our neighbors gave us.\n- A row of teaser lines runs along the bottom, such as “FAMPOSER … SLEPT HERE (p4)” and “TOM SIE & FRIEND GO-TO SPOTS (p31).”\n\nThe palette is primarily white, black, and blue-green, with a restrained, solemn tone. The lifted paper strips feel like pages of memory being turned, symbolizing a look back and a tribute to the stories of those who have passed.",
+    "gt": [
+      "a handcrafted papercraft 3D effect"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 2,
+    "name": "4002.jpg",
+    "path": "composition/4002.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist poster composed of two colors. The upper right features an off-white background, the lower right a dark gray, with a clear dividing line running from the top-right corner to the bottom-left. In the lower right, “Phtom Tead” is set in a slender, elegant serif typeface. The dark area extends past the dividing line to the left, forming the silhouette of a man in profile; within its contours, negative space reveals a half-length profile of a woman, as if she were cut from his figure. Along the color boundary there’s a brushstroke effect. The stark light–dark contrast and interplay of positive and negative space both echo the themes of fashion and fabric and suggest the couple’s entangled, dependent, almost ghostly relationship. The overall mood is cool, elegant, and vintage.",
+    "gt": [
+      "The dark area extends past the dividing line to the left, forming the silhouette of a man in profile.",
+      "Within the man's profile, negative space reveals a half-length profile of a woman.",
+      "A distinct color dividing line runs from the lower left corner to the upper right.",
+      "Positive and negative space interlace."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 3,
+    "name": "4003.jpg",
+    "path": "composition/4003.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- The poster’s overall color scheme is cold and vintage, set against a grayish-white wall.\n- At the center is the upper half of a woman in dark clothing, her dark hair pinned up. Her face is divided into a three-by-three grid; each square holds a different cropped facial pose, giving the composite face a jumbled, out-of-sequence feel. Her profile is outlined on the left, with the opposite side of her head visible on the right.\n- Below, she grips a small crucifix pendant on a silver necklace with both hands, and the religious imagery heightens the oppressive, ominous mood.\n- The title “MUSARAÑAS” appears centered near the bottom in white, all-caps serif type; above it are the credits “ALEX DE LA IGLESIA PRESENTA” and “DIRIGIDA POR ESTEBAN ROEL Y JUAN FERNANDO ANDRÉS,” among others.\n- The top of the poster lists the cast: Macarena, Luis, Nadia de, Hugo, Carolina.\n- Overall, it conveys a sense of suspense and horror, with a Spanish period feel and visual themes of religious oppression.",
+    "gt": [
+      "cropped images of a face in different poses",
+      "each square holds a cropped image of the face in a different pose",
+      "a three-by-three grid of squares"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 4,
+    "name": "4004.jpg",
+    "path": "composition/4004.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster is set against a white background. Along the top runs the English slogan, “Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.” At the center is a black triangle edged in gold; inside it appears a statue-like female figure dressed in white with a black bowler hat, head bowed and gazing downward. She grips a sharp dagger in one hand, which thrusts beyond the confines of the triangle, its blade aimed straight at the viewer, creating a powerful sense of threat and drama. The imagery carries a cold, futuristic, dystopian aura. Near the base of the larger triangle, within it, there is another triangle containing a white female statue. Beneath the triangle, heavy geometric lettering spells out “STANLEY KUBRICK’S” and “CLOCKWORK ORANGE,” the stacked type with layered shadow effects evoking a distinctly 1970s graphic style. At the very bottom are the title credits and production details—the cast list. Overall, the design is clean yet razor-sharp, using stark contrasts of black, white, and gold to convey the film’s violent, icy aesthetic.",
+    "gt": [
+      "Within the triangle appears a statue-like female figure in white, wearing a black bowler hat, her head bowed, gazing downward",
+      "One hand grips a sharp dagger that thrusts beyond the triangle, its blade aimed straight at the viewer",
+      "Near the base of the larger triangle, within it, there is another triangle containing a white female statue"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 5,
+    "name": "4005.jpg",
+    "path": "composition/4005.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a dark-toned poster composed from a low-angle perspective. Towering city skyscrapers encircle the frame; their facades are shattered, rebar exposed, with stones and debris flying through the air, creating a catastrophic sense of motion and oppression. At the center is a blinding white light and a gray-white sky, and the jagged edges of the surrounding buildings visually outline a clear bat silhouette—as if the bat emblem is “revealed” by the city’s collapse. The palette is dominated by blacks and grays, with stark contrast and a gritty feel of dust and rubble.\n\nAt the bottom, clean white sans-serif type lists “SUMMER 2012” along with release details and a website. The overall atmosphere is somber and monumental, symbolizing the bat’s rise from ruin and chaos.",
+    "gt": [
+      "Towering city skyscrapers all around",
+      "Low-angle perspective",
+      "The fractured edges of the buildings visually outline a clear bat silhouette"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 6,
+    "name": "4006.jpg",
+    "path": "composition/4006.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe title “LAR” appears at the top in large serif type, with the actor’s name “Nice” above it. Below the title is the tagline: “WHERE THERE’S A WILL, THERE’S A WEAPON.”\n\nThe central image on the white field is an upper-body silhouette of a man in a suit, assembled from various types of ammunition: bundles of copper-colored bullets and shells stack along the top and edges of the head; the suit jacket is densely laid out with dark shell casings; the shirt collar is neatly lined with silver-gray bullets to create a pleated texture; and the tie knot is composed of brass-colored casings. Fine-print credits and copyright information run around the border. The stark contrast of white, black, and metallic copper-gray underscores the theme of arms and war, forming a visual metaphor with a satirical edge.",
+    "gt": [
+      "an upper-body silhouette of a man in a suit",
+      "the top and edges of the head are stacked with bundles of copper-colored bullets and shells",
+      "the suit jacket is densely laid out with dark shell casings",
+      "the shirt collar is neatly lined with silver-gray bullets to create a pleated texture",
+      "the tie knot is composed of brass-colored casings"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 7,
+    "name": "4007.jpg",
+    "path": "composition/4007.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist movie teaser poster.” Against a black background, dense columns of green characters and symbols cascade vertically, varying in brightness and weight like streams of light, creating a stark, cyberpunk atmosphere.\n\nCentered at the bottom, the glowing light-green type reads “2003,” with several horizontal scan lines layered over it to heighten the electronic feel. Beneath the date is the URL “WOM.” Faint studio and distributor logos are just visible along the sides and in the bottom corners. There are no characters or specific scenes—only the code rain and the year convey the message—directly echoing the visual iconography and themes: virtual reality, the digital world, and a mysterious, high-tech aesthetic.",
+    "gt": [
+      "Dense green characters and symbols rain down vertically."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 8,
+    "name": "4008.jpg",
+    "path": "composition/4008.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster for the film. In the center is a figure shown from the upper torso up, with the outline of the shoulders and neck. The palette is predominantly cool, with teal and violet blending into a neon gradient split into three bands—left, center, and right. The central band is triangular, and the dividing lines run from the top of the head, pass through the eyes, and converge at the edge of the chin, creating an atmosphere that’s cool yet gentle, like moonlight. Three bluish‑violet light sources illuminate the face in contrast, resulting in a clean, minimalist composition.\n\nCentered at the bottom, “MOOGHT” appears in a glowing pale‑cyan sans‑serif type, with densely set credits beneath the title.",
+    "gt": [
+      "The face is split into sections",
+      "A downward-pointing triangle",
+      "Three color bands"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 9,
+    "name": "4009.jpg",
+    "path": "composition/4009.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a classic poster for film. The design is vertical with a narrow white border, set against a bold orange-red (vermilion) background.\n\n- At the center is a spiral vortex rendered in fine white lines, tightening inward layer by layer to create a dizzying visual effect.\n- At the heart of the vortex are two silhouetted figures: a black male silhouette appears to be chasing or steadying a woman (outlined in white and wearing a dress). They stand on a red, oval “island,” their bodies tilted as if being drawn into the spiral, suffused with unease and a sense of falling.\n- In the upper left, the stars’ names—James and Kim written in bold, slightly twisted black hand-lettering, with “IN ALFRED HITCHCOCK’S MASTERPIECE” underscoring Hitchcock’s authorship.\n- Below, the title “VERTIGO” appears in the same style in large letters, the forms irregular and slightly jittery, further reinforcing the atmosphere of dizziness and instability. A fine line of credits and production information runs along the bottom.\n- The overall style is minimalist, geometric, and high-contrast (red/white/black): using abstract forms and strong motion to convey themes of psychological suspense, falling, and obsession.",
+    "gt": [
+      "At the center of the composition is a spiral vortex composed of fine white lines, tightening inward layer by layer.",
+      "At the heart of the vortex are two silhouetted figures."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 10,
+    "name": "4010.jpg",
+    "path": "composition/4010.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- A minimalist vertical poster with a broad expanse of pale blue sky as the background, creating a strong sense of negative space.\n- At the bottom stands an old-style apartment building whose facade is mainly orange, pink, and gray-white, with a dense grid of windows interspersed with external air-conditioning units and balconies.\n- The building appears to be “split,” with several rectangular modules of windows and wall panels floating in midair like Tetris pieces dropping from the sky.\n- The floating blocks cast crisp shadows, and the soft light evokes the clean feel of late-afternoon sunshine.\n- The composition has a strong sense of geometry and order; the cool–warm contrast (blue sky versus orange-pink facade) lends a light, playful, and surreal vibe.\n- It conveys imagery of urban space being assembled and reconfigured, the fragmentation of dwelling units, and the imaginative gamification of everyday architecture.\n- The ample negative space leaves room for a title and copy, making it suitable as a promotional visual for architecture/urban renewal exhibitions, creative festivals, independent films, or design events.",
+    "gt": [
+      "Vertical",
+      "The building appears to be 'split apart'.",
+      "Tetris blocks falling from the sky",
+      "Assembly and Reconfiguration"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 11,
+    "name": "4011.jpg",
+    "path": "composition/4011.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster designed like a magazine cover, themed around birdwatching and nature.\n\n- Title: At the top, “Aon” appears in large white serif type. The upper right reads “May/June 2013.”\n- Headline and layout: The image is divided into a grid of three rows by two columns. Along each row divider sits the headline and secondary copy. Headline: directly beneath the title, a line reads “UR: ROSEATE SPOONBILLS AND THE EVERGLADES,” with “UR” in red all caps and the rest in black.\n- Secondary copy: Across the center, a small horizontal line of text reads “HUMMER GARDENS | EDEN BEFORE THE FALL | CROW FEATS.”\n- Image: The background is a light gray sky, arranged into a three-by-two grid—six panels in total. Six roseate spoonbills appear, one in each panel, captured in different flight poses—wings spread, climbing, diving, banking, and turning. Their bodies range from white to rosy pink; their wing feathers are vivid pink to red; their long black legs and signature flat, spoon-shaped bill stand out.\n- Visual style: Ample negative space and soft tones. The contrast between the pink birds and the gray sky highlights lightness and movement; overall, it’s clean and elegant, celebrating the beauty of nature and the fleeting moment of flight.",
+    "gt": [
+      "three rows by two columns"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 12,
+    "name": "4012.jpg",
+    "path": "composition/4012.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white poster showing the subject from the waist up. Centered in the frame, the person wears a dark athletic T-shirt with “Luf” and a line-drawn logo of several runners on the left chest, and the words “MIS” and “Luzng” on the right. The right hand is raised beside the head, forming a gun-like gesture pointed at the temple. The face is divided into three equal horizontal sections; the middle band—the part with the eyes—has been cut out and shifted slightly to the left, creating a deliberate misalignment. The background is a simple indoor wall, with soft yet high-contrast lighting and ample negative space. The overall atmosphere feels cool and restrained, carrying a sense of warning or contemplation.",
+    "gt": [
+      "Misaligned face",
+      "Split face",
+      "Right hand raised beside the head making a finger-gun gesture"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 13,
+    "name": "4013.jpg",
+    "path": "composition/4013.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster adopts a retro collage aesthetic: the background is a yellowed page from an English dictionary, with “SUNDAY” and “SUPERFLUOUS” clearly printed at the top and the page number “728” in the middle. The surface is densely packed with entries and definitions in black serif type; you can make out “Sunday,” “sunder,” “sunset,” “sunshine,” and other words beginning with “sun-.”\n\nIn the foreground is an upper-body figure: hair neatly parted in the middle and combed back, ears exposed, wearing thick-rimmed glasses; a plain white crew-neck short-sleeve T-shirt with slightly rolled cuffs. The subject is centered, shown front-facing at half length, fingers pinching a cigarette at the lips in a smoking gesture. The glasses and the “C”-shaped space formed by the hand are rendered as cutouts that reveal the dictionary page beneath.\n\nThe overall tone is quiet and artsy, suitable for a bookstore or cultural event poster, a literary magazine cover, or a hero visual for a retro fashion theme. Key design elements include vintage paper texture, a densely textual background, centered composition, minimalist apparel, and high-contrast warm lighting.",
+    "gt": [
+      "Fingers pinching a cigarette at the lips in a smoking gesture",
+      "The glasses are cut out, revealing the dictionary page beneath"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 14,
+    "name": "4014.jpg",
+    "path": "composition/4014.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster centers on imposing typography, with the title “THE LAST OF US” rendered in heavy block letters stacked from top to bottom: “THE” at the top, “LAST” in the middle, and “OF US” at the bottom. The letters’ interiors and edges carry rust- and rock-like textures, interwoven with patterns of fungal erosion and spreading strands of mycelium and vines. The palette leans toward gray-black, deep blue, and copper-orange, conveying a sense of decay and encroachment. The letters are hollowed to reveal fragmented scenes and silhouettes, smoke, and cracks, building a suffocating, post-apocalyptic atmosphere. A small tagline in the upper right reads: “When you're lost in the darkness, look for the light.” Across the top, smaller text says: “Based on the acclaimed video game.” A few fireflies drift around the composition, echoing the theme of seeking light in the dark. At the bottom are the logos for “HO Original,” “Naughty Dog,” and “HO Max.” The overall background is a clean light gray, which makes the gritty textures and organic growth stand out and conveys a tense contrast between desolation, survival, and hope.",
+    "gt": [
+      "Letters stacked from top to bottom",
+      "The letters are hollowed, revealing fragmented scenes and silhouettes, smoke, and cracks"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 15,
+    "name": "4015.jpg",
+    "path": "composition/4015.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white magazine cover poster. At the top center, a circular badge reads “Little White”; a barcode sits above it, with “Issue 38 Jun/Jul ’11 £3.95” noted alongside. The badge is positioned over the figure’s forehead. The background is a black-and-white sketch of a woman’s face, with several hand-drawn feathers scattered around, creating a light, floating atmosphere. Large, thin black type runs down the left and right sides and across the bottom, spelling out “BLACSSUE”; the letters overlay the face and fill the entire frame. The overall design is minimalist with an illustrative feel, and the white backdrop contrasts sharply with the thick black lines.",
+    "gt": [
+      "black-and-white sketch of a woman’s face as the background",
+      "large black lettering",
+      "lettering overlaying the face and filling the entire frame"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 16,
+    "name": "4016.jpg",
+    "path": "composition/4016.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist black-and-white poster. A vertical axis splits the composition in two: on the left, the dark-toned upper body and hands of a figure wearing a chunky black knit sweater; the fingers are slightly curled, with the index finger held parallel to the lips, and the nails painted black. On the right, a pure white background features the word “SELF” set vertically in bold, black sans-serif letters. The four letters are cut out, revealing the face through the negative space. The design leverages stark black-and-white contrast, generous white space, and text–image layering to convey a modern, stylish, and coolly austere visual tone.",
+    "gt": [
+      "A vertical axis splits the composition in two.",
+      "The four letters are arranged vertically.",
+      "The four vertically stacked letters are cut out, revealing the face."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 17,
+    "name": "4017.jpg",
+    "path": "composition/4017.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist poster: a white background with generous white space around the edges. In the center, three triangles are arranged from left to right; the triangles are cut out, revealing a woman’s profile—her eye, nose, and lips. They read like decorative or directional markers. The overall impression is airy, clean, and subtly elegant.",
+    "gt": [
+      "Three triangles arranged from left to right",
+      "Triangular cutouts reveal a woman's profile"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 18,
+    "name": "4018.jpg",
+    "path": "composition/4018.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster uses a grainy black, white, and gray texture with soft lighting and shadow, creating a restrained, mysterious mood. The background is a blurred black-and-white portrait of a man with medium-length hair. Along the side, “notice the details” is set in lowercase sans-serif type across three lines, with “Prequel” below. On the middle-right of the image, a thin white rectangular outline falls over the man’s right cheek; within the frame, his eye, nose, and the right half of his lips come into sharp focus. The overall style is minimalist, and the theme centers on paying attention to detail.",
+    "gt": [
+      "portrait of a man’s face",
+      "blur effect",
+      "thin white rectangular outline",
+      "within the frame, the man's eye, nose, and the right half of his lips are in sharp focus"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 19,
+    "name": "4019.jpg",
+    "path": "composition/4019.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- The background is a solid royal/cobalt blue.\n- Slightly right of center, there’s a vertical stack of pink, magenta-leaning rectangular bars; each bar contains white, all-caps sans-serif text.\n- From top to bottom there are eight bars: the first four read “ALIGNED”; the fifth reads “NOT ALIGNED”; the last three read “ALIGNED” again.\n- Except for the “NOT ALIGNED” bar, which is offset to the left, the other seven align along the same vertical axis, forming a tidy column.\n- A small “Deic” logo appears in the bottom-right corner.\n- Visual intent: by deliberately misaligning the one “NOT ALIGNED” bar, the design highlights the principle of alignment and the jarring contrast when it’s broken.",
+    "gt": [
+      "The \"NOT ALIGNED\" bar sticks out to the left",
+      "A tidy column"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 20,
+    "name": "4020.jpg",
+    "path": "composition/4020.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist movie poster set against a light beige background. In the center is a black-and-white photograph showing the upper body of a man in a cardigan, his arms outstretched as he embraces a figure defined by pure white negative space—a visual metaphor of an embrace that reveals an absence, expressing the theme of “the unseen her” in intimate relationships. The negative-space figure, cradled in the man’s arms, reads as a woman; her arm lines up to cover his, and his hands are visible at her waist.\n\nBelow, a laurel icon bearing the word “WINNER”. The title “HR” appears centered in bold, all caps, with the tagline “ALOVE STORY” beneath it. Further down are the cast and key creatives: Joaquin, Adams, Mara, Olivia, Scarlett, with a note that the score is by Fire. Along the bottom are the R rating, release and distribution details and the production company logos.\n\nThe overall design is clean and restrained, using stark negative space and the gesture of an embrace to convey loneliness, longing, and love in the age of technology.",
+    "gt": [
+      "Silhouette of a figure outlined in pure white negative space",
+      "Arms outstretched in an embrace"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 21,
+    "name": "4021.jpg",
+    "path": "composition/4021.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white, minimalist poster themed around photography.\n\n- The main subject is a top-down view of a classic Leica camera, positioned at the bottom center. On the black body, the white “Lca” and “LER GERMANY” markings are visible. Silver mechanical dials and buttons sit to either side; a lens is mounted in the middle, pointing upward so its barrel is clearly visible.\n- From the lens opening, a narrow column of type “shoots” upward—like a strip of film or a beam of light—stretching straight to the top of the poster. Inside the column, the word “MONOCHROME” is repeatedly set in bold, condensed sans serif, interspersed with the Cyrillic words “ФОТОКОНКУРС” and “ФОТОВЫСТАВКА” (meaning “photo contest” and “photo exhibition”).\n- The background is largely left blank, with very light gray, oversized versions of the same word groups used as typographic texture—adding layers without competing with the main visual.\n- The palette is strictly black, white, and gray to echo the Monochrome theme, with strong contrast and a symmetrical composition.\n- At the bottom center are three small icons and contact handles/accounts: mnchrm_hneu, mnchrm_bot / mnchrm_hneu, and the email mnchl.com—likely the event’s contact details.\n\nOverall, it communicates a competition/exhibition centered on black-and-white photography, leveraging the Leica camera and typography to create a strong monochrome visual identity.",
+    "gt": [
+      "Lens pointing upward",
+      "A narrow column of text shoots upward from the lens opening"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 22,
+    "name": "4022.jpg",
+    "path": "composition/4022.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a painterly poster with a strong, moody atmosphere. At its center, in a circular pool of harsh light, stands an empty wooden chair. Everything around it recedes into deep black. Encircling the chair is a ring of people—men and women of various ages—faces indistinct, expressions grave, almost swallowed by shadow. Only the floor near the glow and the figures’ feet are faintly lit, creating a stark contrast of light and dark.\n\nAcross the top, in hand-lettered script, it asks: “Who is in charge?” Within the crowd, several figures are tagged in white handwriting with arrows and names—Kevin, Barry, and others. The composition and these labels suggest a theme of multiple personalities/dissociative identities: a circle of “selves” gathered, with the empty chair in the middle symbolizing the seat of power or control. Whoever takes that chair—steps into the light—assumes command.\n\nThe palette is dominated by black-brown, gray, and ochre. The brushwork is rough, the edges smudged and unruly, cultivating a mood of unease, eeriness, and psychological struggle.",
+    "gt": [
+      "circular pool of light",
+      "An empty wooden chair, lit by harsh light, sits in the circular pool at the center",
+      "stark contrast of light and dark"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 23,
+    "name": "4023.jpg",
+    "path": "composition/4023.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white abstract poster. The milky-white background is filled with evenly spaced vertical stripes, like venetian blinds. At the center, upward-tilted and downward-tilted portraits of a woman are sliced into many slender vertical strips, each slightly misaligned, creating a multiple-exposure effect in which frontal, profile, and three-quarter views of the same face interlace. Her hair is swept back, her eyes are mostly closed or downcast, and her expression is calm and restrained. At the bottom, dark bands stack into a jagged base, enhancing the sense of rhythm and depth. Overall, the image sits between collage and glitch art, conveying a mood of fragmented identity, introspection, and hazy unease.",
+    "gt": [
+      "vertical stripes",
+      "interlaced",
+      "multiple portraits",
+      "different angles"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 24,
+    "name": "4024.jpg",
+    "path": "composition/4024.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a light-toned poster encouraging the public to report misconduct. In the center is an upper-body photo of a person wearing a burgundy knit sweater. The person’s face is divided into a three-by-three grid of squares; five squares are filled with the background color and spell “UNRTED.” In the lower right there’s a white information box that reads “Every report helps build a picture until we catch them” and “REPORT IT TO STOP IT,” with the prompt “Text what, when, where to 61016”—urging people to text what happened, when, and where to 61016 to make a report, and underscoring that every report helps piece together clues and identify suspects. Along the bottom are the logos. The overall design is simple and restrained, emphasizing stopping inappropriate behavior through reporting.",
+    "gt": [
+      "The person's face is divided into a three-by-three grid of squares.",
+      "Five of the squares are filled with the background color, and together they spell 'UNREPORTED'."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 25,
+    "name": "4025.jpg",
+    "path": "composition/4025.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis black-and-white poster uses a nested, Russian-doll style composition: a man faces the camera, holding up a large picture frame with both hands, and inside it sits a smaller frame. In the first frame is a long-haired woman, also holding a smaller frame; deeper in the second frame, a child holds yet another; deeper still, in the third frame, another child presents an even smaller frame, within which a small, long-haired dog sits at the center. Each frame is slightly tilted, creating a layered progression of geometric lines and visual rhythm. The backdrop is soft gray studio lighting, and the overall mood is humorous and warmly familial, with a strong emphasis on contrast and texture.",
+    "gt": [
+      "Russian-doll nesting composition",
+      "Man holding a picture frame",
+      "Woman holding a picture frame",
+      "Child holding a picture frame",
+      "A smaller frame nested inside the frame",
+      "A small dog sitting upright at the center of the frame"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 26,
+    "name": "4026.jpg",
+    "path": "composition/4026.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist poster with a dark gray gradient background. In the top-left corner, the phrase “BE THE DIFFERENCE” appears in white, with “THE DIFFERENCE” in bold to emphasize the idea of standing out. On the right, five white paper airplanes fly to the right along parallel horizontal dashed lines in a neat, orderly formation. Mid-left, an orange-yellow paper airplane breaks ranks, climbing along a roughly 45-degree dashed diagonal path; its color and direction sharply contrast with the others. The juxtaposition of a single plane with a different color and trajectory against rows of identical planes conveys themes of breaking convention, embracing change, leadership, and innovation.",
+    "gt": [
+      "Five white paper airplanes fly to the right along parallel horizontal dashed lines",
+      "Mid-left, an orange-yellow paper airplane breaks formation, climbing along a dashed diagonal path at roughly 45 degrees",
+      ""
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 27,
+    "name": "4027.jpg",
+    "path": "composition/4027.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is an outdoor-themed poster built around an optical illusion. The scene takes place in a shadowy coniferous forest, with the ground carpeted in green moss, fallen leaves, and scattered stones and dead wood. In the right foreground stands a hiker wearing a dark top, red pants, and hiking boots, holding aloft a long, curved branch. The branch extends to the left and cleverly overlaps with the upper body of a backpacked figure in the background, creating a playful visual trick: it looks as though the hiker’s upper body has been “moved” to the left end of the branch, splitting the figure in two. The overall palette is dominated by deep forest greens and browns, while the red pants provide a striking contrast that anchors the focal point. The upper right corner features the logo, underscoring the work’s creative, optical-illusion-driven style.",
+    "gt": [
+      "The hiker's upper body appears 'moved' to the left end of the branch",
+      "The body appears split in two"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 28,
+    "name": "4028.jpg",
+    "path": "composition/4028.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a vintage-style collage poster. Against an off-white background, a large left-facing profile silhouette dominates the center. The silhouette is divided into a dozen-plus rectangular panels, creating a retrospective montage of film characters and scenes. Some panels are rendered in a black-and-red palette, others in black and white. The overall look is primarily black, white, and gray, accented by striking red overprints and halftone textures that evoke the feel of newsprint.\n\nWithin the panels you can spot signature looks and props from several works: an ocean-explorer outfit with a red knit cap; uniforms with ghost-busting gear and straps; the shot of sharing a car with a groundhog; a scene on a boat wearing life jackets and lashed with rope; moments interacting with small animals (like gophers); a preppy, collegiate argyle sweater; a zebra-striped wallpaper backdrop; and a pose with a finger pointing upward. Red blocks and halftone overlays appear on some panels and around the silhouette’s edges, heightening the drama and sense of rhythm.\n\nThe layout is orderly and grid-like, with strong color contrasts. It reads as a commemorative or tribute poster that brings together multiple character personas, blending humor with a nostalgic, retro tone.",
+    "gt": [
+      "More than a dozen rectangular panels",
+      "A large left-facing profile silhouette",
+      "The face is divided into rectangular panels",
+      "Iconic looks and props from multiple films"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 29,
+    "name": "4029.jpg",
+    "path": "composition/4029.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- Overall style: A minimalist, editorial fashion poster. Black-and-white photography paired with pale gold type and a white banner creates a sophisticated, restrained look.\n- Key visual: A black-and-white profile shot of a curly‑haired woman. Her lower body, in a skirt, walks from left to right, while her upper body turns left, creating a deliberate offset. The background is a cobblestone street and a light-colored wall. She wears a mid-length coat and black flats, with the emphasis on her stride and shoes.\n- Title and branding:\n  - A fine-line framed brand mark “MAG” sits at the top.\n  - A white band running across the center carries the theme number “No 9” in large pale gold lettering.\n- Copy (placed on the white band, divided into three columns):\n  - Left: Ma F/W 2014 Collection, Season Lookbook — #9.\n  - Center: City —underscoring a global footprint.\n  - Right: Finest Quality Shoes, Made in, magna.com (highlighting Spanish-made premium footwear and the official site).\n- Other elements: A barcode and numerals centered at the bottom lend the feel of a catalogue or magazine cover.\n- Visual focus and composition: The oversized “No 9” overlaps the figure’s midsection to create strong layering; ample negative space and disciplined typography foreground the brand and collection information, reinforcing footwear as the core product.",
+    "gt": [
+      "Her upper body turns left",
+      "Her lower body, in a skirt, walks from left to right",
+      "Creating a deliberate offset"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 30,
+    "name": "4030.jpg",
+    "path": "composition/4030.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nA minimalist sunset-themed poster.\n\n- Layout and palette: A pure white background with ample negative space. The color scheme pulls sunset orange, brown, and black from the photo, with three small dots in the top-left that echo the sunset tones.\n- Core visual: Centered is the word “SUNSET” in bold sans-serif type. Beneath it runs a band of narrow vertical strips cut from the same sea-sunset photo, arranged side by side. The sun is close to the horizon, the water gleams golden, and there are silhouettes of clouds and boats/a pier. A soft shadow behind the lettering creates a subtle bas-relief depth.\n- Copy:\n  - Top right: “CAPTURE THE MOMENT.”\n  - Top left date: “SUNDAY 07 MAY 2023,” with an ellipsis “...” alongside.\n  - Bottom left: an Indonesian line meaning roughly, “Nature’s beauty lies in its scenery, while a person’s beauty lies in their conscience/heart.” “nya” (scenery) and “Hani” (conscience) are highlighted in red.\n  - Footer signature: “Instastories by _aafwn.”\n- Mood and style: Clean and uncluttered overall. The central image uses letterform slicing to create a creative visual that emphasizes capturing the sunset moment and the beauty of nature.",
+    "gt": [
+      "Under each letter are narrow vertical strips",
+      "Each strip is filled with the same sea-sunset photo",
+      "Narrow vertical strips",
+      "The narrow strips are arranged side by side"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 31,
+    "name": "4031.jpg",
+    "path": "composition/4031.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white poster with a surrealist sensibility. The image is built on a minimalist composition: an empty stone plaza and a high, open sky create broad negative space, quiet and cool in tone. A single vertical white fissure—like a portal of light—runs from ground to sky at the center, splitting the frame and dividing the gigantic female profile in the background. Her eyes are closed, chin slightly lifted, her expression serene, as if in meditation. The lower edge of her face merges naturally into a rocky mountainside in a double-exposure effect that layers person, nature, and inner life.\n\nIn the foreground, a woman in a long, floral dress stands in profile before the light-portal, head tilted upward, her figure casting a sharp shadow across the ground. Set against the monumental face, she creates a striking contrast of scale: a small, tangible body confronting an immense inner world. Low railings and horizontal lines in the distant plaza emphasize the portal’s vertical thrust, drawing the eye upward.\n\nThe piece is defined by vivid textural contrasts—the face’s smoothness against the rock’s roughness, the plaza’s order against the sky’s vastness. The mood leans toward contemplation and self-inquiry, suggesting themes of a doorway into the self, a projection of memory or soul, and the unity of nature and identity. The generous negative space also leaves room for a title, tagline, and credits, giving the poster the feel of an art-house film or conceptual image.",
+    "gt": [
+      "A woman's profile split in two",
+      "A vertical white fissure (a portal of light) at the center",
+      "A woman standing in profile before the portal of light"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 32,
+    "name": "4032.jpg",
+    "path": "composition/4032.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster uses “shattered memory” as its visual metaphor: at the center, a hand reaches forward from below, its fingertips seeming to touch a cracked pane of glass, with dense fissures spreading outward like a spiderweb. Suspended shards of glass contain different scenes and clues—a street under dim amber streetlights with a lone figure walking, the silhouette of a man bent over his phone, close-ups of a vintage clock and gears, and the side profile of a seated child. The background is suffused with a hazy glow of gray-blue and sandy gold; tiny motes of dust and paper-like flecks drift through the air, deepening the atmosphere of fragmented memories and time out of joint. At the bottom, the title “Broken Memory” appears in elegant handwritten script. The overall tone leans toward psychological suspense and drama, expressing themes of a lost past and the search for self.",
+    "gt": [
+      "Fingertips seem to touch a cracked pane of glass",
+      "A dense web of cracks radiates outward like a spiderweb",
+      "Floating shards of glass contain different scenes and clues",
+      "The background is suffused with a hazy glow of gray-blue and sandy gold",
+      "Tiny dust motes and paper-like flecks drift through the air"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 33,
+    "name": "4033.jpg",
+    "path": "composition/4033.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- In the upper left is the gold mask emblem, the words “E FILM AWARDS,” and the turquoise “EE” dot logo. “2016” appears in the upper right.\n- The main image is a large dark silhouette containing a nighttime checkpoint scene: brick walls topped with barbed wire on both sides, and a horizontal barrier gate in the middle.\n- A figure stands in the distance and another in the foreground. The nearer figure wears a trench coat and hat, carries a briefcase, and is walking toward the guard ahead.\n- In the background are guard towers and spotlights; three powerful beams crisscross through fog and shadow. The ground is wet, casting long reflections.\n- The palette is dominated by deep blue-green and black, set against beige negative space. The overall mood is austere and suspenseful, with a strong spy-thriller and film noir vibe.",
+    "gt": [
+      "Beige negative space",
+      "The main image is a large dark silhouette",
+      "Within the silhouette is a nighttime checkpoint scene",
+      "Brick walls topped with barbed wire on both sides",
+      "A horizontal barrier gate in the middle",
+      "A figure stands in the distance and another in the foreground",
+      "The nearer figure wears a trench coat and hat and carries a briefcase",
+      "Guard towers and spotlights"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 34,
+    "name": "4034.jpg",
+    "path": "composition/4034.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist, poetic illustration poster.\n\n- The background is a solid field of deep blue-gray with a hint of canvas texture.\n- A fine white line sketches the profile of a woman with long hair over her shoulders, holding a sprig of slender leaves.\n- The inside of her outline isn’t a solid fill but a real seascape: in the foreground, a gently rippling blue-green surface; in the distance, a horizon where pale pink blends with light blue, like the light of dusk or dawn.\n- Below, her “body” seems to flow into a long dress made of seawater.\n- A simplified white sailboat moves across the sea, suggesting scale and exploration.\n- In the upper left, a small, soft pink sun/moon dots the sky, echoing its tones.\n- The overall style is airy with plenty of negative space, using a double-exposure effect to convey serenity, introspection, and oneness with nature—as if she is the sea itself, gentle and vast.",
+    "gt": [
+      "Within the woman's silhouette is a real seascape."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 35,
+    "name": "4035.jpg",
+    "path": "composition/4035.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist black-and-white poster with a calm, introspective mood.\n\n- At the center is a large white disc—like a sun or full moon—with a soft halo.\n- In front of the disc, a silhouetted figure sits cross-legged, back to the viewer, on a smooth, rounded gray boulder.\n- A mirror-still sheet of water on the ground perfectly reflects the boulder, the figure, and the white disc, creating an almost symmetrical top-and-bottom composition.\n- The sky is veiled in light mist and pale gray cloud, and the horizon is a hairline, enhancing the image’s balance and tranquility.\n- The textural contrasts are pronounced: the boulder’s roughness against the water’s smooth surface, the figure’s black silhouette against the disc’s bright white, creating a striking counterpoint.\n- The palette is entirely black, white, and gray, with generous negative space that underscores a sense of emptiness and stillness.\n\nOverall, it conveys themes of meditation, solitude, and introspection: the disc symbolizes wholeness and cycles; the reflection in the water hints at self-observation and the mirroring of inner and outer worlds. The central symmetry and expansive negative space evoke Zen, suspended time, and inner equilibrium. It would suit meditation courses, psychological healing, minimalist art exhibitions.”",
+    "gt": [
+      "Mirror-still water",
+      "An almost symmetrical top-and-bottom composition"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 36,
+    "name": "4036.jpg",
+    "path": "composition/4036.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster uses a black-and-white palette in a portrait layout, with a centered title at the top: “PRINCIPLES OF FORM AND DESIGN.” Below the title is a grid of 5 columns by 6 rows; each cell pairs an English concept term with a geometric diagram that uses minimal dots, lines, planes, and shapes to illustrate design principles. The rows cover roughly the following:\n\n- Row 1: Basic components\n  - Point: shown as a single isolated dot.\n  - Line: a thin vertical line.\n  - Plane: a tilted quadrilateral plane.\n  - Gradation: multiple vertical lines transitioning from thin to thick (or sparse to dense) to create a gradient.\n  - Radial: fine lines radiating from a center, forming a starburst-like glow.\n\n- Row 2: Form and rhythm\n  - Geometric: regular geometric shapes such as squares, triangles, and circles.\n  - Organic: irregular, flowing “soft forms,” like droplets or star-shaped blots.\n  - Volume: light–shadow shading on a solid block (e.g., a cube) to suggest mass.\n  - Repetition: a regular grid of dots.\n  - Rhythm: a sequence of dots with rhythmic changes in spacing or size.\n\n- Row 3: State and organization\n  - Static: forms aligned vertically with a stable center of gravity.\n  - Active/Dynamic: slanted, rotated, or offset forms that convey movement.\n  - Symmetry: compositions balanced left–right or top–bottom.\n  - Asymmetry: unequal elements arranged to achieve overall balance.\n  - Grouping: nearby or similar forms perceived as a group.\n\n- Row 4: Tension, space, and scale\n  - Tension (1): a sense of strain from forms that approach, touch, or overlap.\n  - Tension (2): tension produced as forms press toward the edge of the page.\n  - Space/Placement: lines extending outward from a point to emphasize spatial direction and arrangement.\n  - Space/Scale: contrasts in size and density that create spatial depth.\n  - Scale: elements with striking size differences in the same scene (e.g., a large circle and a small square) establish a sense of scale.\n\n- Row 5: Figure–ground and layering\n  - Negative/Positive: figure–ground relationships shown through black–white inversion.\n  - Transparent: overlapping translucent circles reveal their intersection.\n  - Opaque: solid shapes that block whatever lies beneath.\n  - Layers: multiple shapes stacked to create front–back relationships.\n  - Direction: repeated forms arranged along a vector, creating directionality and motion.\n\n- Row 6: Surface and pattern\n  - Texture: dense, irregular lines that evoke a rough surface.\n  - Gesture: quick, arcing strokes that express gesture and force.\n  - Pattern: regular repetition of dots or symbols forming a motif.\n  - Figure/Ground Ambiguous: black and white interlock so it’s hard to tell figure from ground.\n  - Figure/Ground Reversible: remains legible when black and white swap (e.g., up- and down-pointing arrows with the spaces between them alternating as figure and ground).\n\nThe overall style is clean and analytical, aiming to explain foundational design concepts with the fewest visual elements: point, line, plane; geometric and organic form; volume; repetition and rhythm; static/dynamic and symmetry/asymmetry; grouping and tension; space and scale; negative/positive relationships and transparency; layering and direction; plus texture, gesture, pattern, and figure–ground relations.",
+    "gt": [
+      "A 5-column by 6-row grid"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 37,
+    "name": "4037.jpg",
+    "path": "composition/4037.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a surreal photographic poster. It features two men in shirts and ties, casually dressed with loosened ties and rolled-up sleeves. The background is a plain gray wall with side lighting, and the overall palette is cool and restrained.\n\n- The man standing in the back has swapped his head for a giant Rubik’s Cube, its six faces in red, blue, green, yellow, orange, and white, not fully solved.\n- He cradles another, smaller Rubik’s Cube in both hands, holding it at the neck of the man in the foreground, as if “installing” or “adjusting” a cube head for him.\n- The man in the foreground is seated, leaning back, one hand resting on his knee and the other hanging naturally, as if letting the person behind fiddle with his “head.”\n- The bottom right corner bears the photo credit “CY.”\n\nThe composition is simple yet dramatic, using the visual metaphor of a Rubik’s Cube in place of a head to evoke the complexity of thought and the notion of being shaped or reorganized, with symbolic undertones of identity, control, repair, or enlightenment.",
+    "gt": [
+      "Two men in shirts and ties",
+      "Head replaced by a giant Rubik's Cube",
+      "Cradling another Rubik's Cube in both hands"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 38,
+    "name": "4038.jpg",
+    "path": "composition/4038.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a concept poster titled “Frogn,” set against a light gray, subtly speckled paper background. The layout is arranged in two rows, with a soft, nature-leaning palette (beige, wood tones, green, white).\n\n- Top row, left to right:\n  1) A line drawing of a lounger/daybed with an arched frame and a round seat cushion, showing pillows and a circular base.\n  2) A leaf curled into an arched form, placed on a circular base, hinting at the source of the design.\n  3) A semi-finished rendering: an arched canopy made of cane- or bamboo-like curved ribs, with a round cushion and pillows beneath.\n\n- Bottom row, left to right:\n  1) A heart-shaped green leaf with a long stem, emphasizing the natural archetype.\n  2) Final render: a light-colored, thick round cushion with several pillows; at the back right, an upward-curling woven rattan arch that evokes the curvature of leaf veins and edges.\n  3) A circular design sketch—a hybrid elevation/section diagram—showing the structural spine and internal layout.\nOverall, the poster conveys a biomimetic design process: taking a leaf as inspiration to derive a woven rattan, arched-canopy round daybed suited to outdoor or resort settings, with an emphasis on organic curves and natural materials.",
+    "gt": [
+      "Arranged in a 2x3 grid"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 39,
+    "name": "4039.jpg",
+    "path": "composition/4039.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- Overall look: Primarily red and blue on a white background. At the lower center is a red bottle; its cap appears to have popped off and blue liquid gushes out. The spray cleverly forms a large “PSIT,” full of motion.\n- Title and theme: PR.\n- Date and place: Sunday, Oct 15, 2023, 12–7 pm, Markthalle Neun (Berlin).\n- Red handwritten note on the right: Geared toward a mindful drinking culture, featuring stage talks, workshops, tastings, and activities for children.\n- Blue text on the left lists drink options: Kombucha, Kefir, Wine‑Proxies, Verjus, Shrubs, Beer, Wine, single‑variety juices, fruit seccos, Spirits, etc.\n- Lower right: QR code and website: pron.de; organizer and partner logos along the bottom.\n- Visual impression: A playful, eye‑catching mix of handwritten lettering and splash shapes, emphasizing a “pop‑the‑cap celebration” vibe and the festive market of diverse drinks.",
+    "gt": [
+      "A red bottle sits at the lower center of the image",
+      "Blue liquid gushes out",
+      "The splash shapes cleverly spell out a giant 'PROSIT'"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 40,
+    "name": "4040.jpg",
+    "path": "composition/4040.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster, styled like a vintage adventure piece with a yellow-green and brown palette. The edges of the paper have a distressed, torn look. The upper half is divided into three vertical panels, each featuring a different man: on the left, one in expedition gear with a wide-brimmed hat and a scarf; in the center, one in a black suit with a white shirt and bow tie; on the right, one in rugged outdoor clothing set against a tropical jungle backdrop. Across the middle of these panels is the text: “Fr Slave.”\n\nThe lower half shows a dense forest and a river, with a small boat or raft carrying several explorers; warm firelight glows in the distance. The title “TF Z” appears prominently at the center, with the cast listed above: Charlie, Robert, Miller, Tom. Below the title, it reads “Based on the incredible true story,” and at the bottom: “Coming Soon.”",
+    "gt": [
+      "The upper half is divided into three vertical panels",
+      "Three men",
+      "The lower half shows a dense forest and a river"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 41,
+    "name": "4041.jpg",
+    "path": "composition/4041.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster that fuses photography and typography. The palette is black and white, with aged-paper textures and creases that create a vintage, tranquil atmosphere.\n\nAt the center is a bamboo-lined path receding into the distance; the bamboo rises tall, its vertical lines producing strong perspective and depth. The photograph is divided by several broad horizontal white bands. The right edges of these bands, together with areas of negative space, carve out oversized letterforms that spell “KTO,” interlocking image and type to create a striking typographic rhythm.\n\nSlightly left of center near the bottom, a figure in a kimono stands quietly at the path’s edge, holding a traditional Japanese paper umbrella. The umbrella is rendered in bright orange—the only color in the composition—standing out against the monochrome background and adding warmth and a sense of memory to the stillness. Centered at the bottom is a line of text: “I loved the quiet places, the places that held the world within a windless moment.”\n\nThe design builds on the serenity of black-and-white photography, using segmented layout and oversized type to underscore the sense of place; the solitary orange umbrella becomes the visual focal point, expressing a remembered, emotional connection to Kyoto’s quiet moments.",
+    "gt": [
+      "A strong sense of perspective and depth",
+      "The photograph is divided into multiple sections by several broad horizontal white bands",
+      "The right edges of the white bands, together with areas of negative space, carve out oversized letterforms",
+      "A traditional Japanese paper umbrella. The umbrella is rendered in bright orange, the only color in the composition"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 42,
+    "name": "4042.jpg",
+    "path": "composition/4042.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- The poster is a magazine cover. At the top, “D” appears in large, bold, white sans-serif letters, with a registration symbol in the upper right. Beneath the title is a faint line of small text carrying a slogan along the lines of “WE ARE DIFFERENT / A MAGAZINE ABOUT URBAN … CULTURE.”\n\n- The background is pure white, shot in a high-key, minimalist style. A huge female face fills the center. The face is rendered with a paper-like texture and torn down the middle, creating a wide gash that reveals one real half of the woman’s face beneath. The paper-textured face on both sides has eyes wide open, as if in surprise, while the real face in the middle has a piercing gaze. The woman wears blunt bangs, a shoulder-length bob, and red lipstick. The overall feel is urban and avant-garde, with a palette dominated by white and brownish hair tones, emphasizing texture and contrast.",
+    "gt": [
+      "A huge female face occupies the center of the image",
+      "The face part has been separated",
+      "Open gaps reveal a face"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 43,
+    "name": "4043.jpg",
+    "path": "composition/4043.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist black-and-white conceptual poster. Broad swathes of deep black line the left and right sides, their surfaces textured like skin and stubble, reading as enlarged cheeks and lips. The negative space between them traces a sinuous S-shaped corridor that simultaneously resolves into multiple facing profiles, as if about to kiss, whisper, or argue. At the bottom of this corridor stands a tiny human silhouette, arms folded, gazing upward, trapped between two looming “mouths” or cliffs. Stark light–dark contrast and drastic shifts in scale create an oppressive tension. There is no text; the image hinges on a visual double entendre—an optical-illusion composition and the mood it evokes.",
+    "gt": [
+      "Broad swathes of deep black on the left and right read as enlarged cheeks and lips",
+      "The central negative space is outlined by these contours into a corridor",
+      "A tiny human silhouette stands at the bottom"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 44,
+    "name": "4044.jpg",
+    "path": "composition/4044.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist black-and-white poster with a solid black background. A gigantic white fork runs vertically down the left side from top to bottom, its handle ending at the bottom edge. The spaces between the tines use negative space to form the silhouettes of three black wine bottles, cleverly linking the fork with wine. In the top right, information set in all-caps sans serif reads “MTIVAL,” with the dates “8–14 OCTOBER 2007” below it, “OCTOBER” highlighted in light gray. In the bottom right are the website “www.om.au” and a small “The Ag007” mark. The overall design is high-contrast and concise, with a clear focal point.",
+    "gt": [
+      "A gigantic white fork is the central subject.",
+      "The fork’s end sits at the bottom of the frame, and the gaps between the tines use negative space to form the silhouettes of three black wine bottles."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 45,
+    "name": "4045.jpg",
+    "path": "composition/4045.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a movie poster rendered in cool tones against a gritty, paper-like texture. In the center, multiple vertical “fragments” or cracks divide the image into slices, like a shattered mirror or torn strips. Between the fragments, partial human faces appear with different emotions; lower down, a web of cracks reinforces the imagery of rupture and splitting.\n\nAt the bottom, the title “ST” appears in bold, distressed lettering riddled with fissures. Above it reads “An thriller from writor M. Nian,” and below, “This January.” The overall design conveys tension, psychological suspense, and a theme of split personality. The visual style is minimalist and austere, using fractured typography and sliced imagery to evoke unease and suspense.",
+    "gt": [
+      "In the center, multiple vertical \"fragments\" or cracks split the image into several slices",
+      "Partial human faces with different emotions"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 46,
+    "name": "4046.jpg",
+    "path": "composition/4046.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a print ad poster. The whole piece is designed like a newspaper page, packed with dense German text. A large headline at the top reads “Dea!”. The nose of a massive A380 enters from the right, shown in profile. You can clearly see the cockpit windows, a door, the Staance emblem, the Lufte logo, the blue “Luftsa” wordmark, and the “Airbus A380-800” designation. The aircraft’s nose appears to press into the front page, crumpling the paper along the left side. Color and contrast: the newspaper is rendered in newsprint black, white, and gray, while the aircraft is pristine white with striking brand blue.",
+    "gt": [
+      "aircraft nose",
+      "aircraft pressing into the newspaper",
+      "newspaper forming creases"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 47,
+    "name": "4047.jpg",
+    "path": "composition/4047.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a nine-panel, comic-book–style basketball poster. Each square looks like a player trading card or a comic cover, with ultra-vivid colors, thick, rough lines, exaggerated action poses, and big onomatopoeic sound effects. Bold titles and team crests jump out across the layout, and corners like the upper right and upper left often feature radial bursts, star shapes, and halftone-dot backdrops. The overall vibe is high-energy.\n\n- Top left: An orange-red “KABOOM!” cover with “Stephen Curry” and “Golden State Warriors.” Curry wears Warriors colors, No. 30.\n- Top center: A gray-black radial background with the big yellow title “Tyrese Haliburton,” plus “Indiana Pacers” and “Magical Kid #0.” Haliburton is shown in a ball-handling pose.\n- Top right: A purple-blue background with diagonal green “ALEXANDER,” alongside “OKLAHOMA,” “#2,” and the Thunder logo; the player is dribbling.\n- Middle left: A bright blue “Jimmy Butler” cover, with “KABOOM! A REAL TOUGH GUY!” along the bottom.\n- Middle center: A red “MARVELS” cover labeled “OKC,” “#2,” “Shooting Guard,” featuring an orange Thunder jersey.\n- Middle right: A dark red background with giant “JAMES,” a black-and-red Miami Heat uniform, No. 6. JAMES is soaring in for a dunk.\n- Bottom left: A green-and-red background reading “Steven Adams,” in a Rockets colorway jersey, No. 12, with “Houston Rockets” and “Gentle Boy.”\n- Bottom center: A gray background with “Allen Iverson” and “THE ANSWER,” alongside “1996–2013” and No. 3; the player is shown from the back.\n- Bottom right: A blue background with “Jalen Brunson,” in New York Knicks colors, No. 11, with the team crest; the player is dribbling.\n\nThe overall aesthetic blends retro comics with trading-card visuals: thick black outlines, neon blocks of color, kinetic lettering, and punchy sound effects make each panel feel like a standalone comic cover.",
+    "gt": [
+      "Nine-panel poster",
+      "Each panel looks like a player trading card or a comic cover"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 48,
+    "name": "4048.jpg",
+    "path": "composition/4048.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a fashion-forward poster: at the center stands a statuesque female model in a dance-like pose, one leg slightly bent and the other supporting her, arms gracefully extended to either side. She wears a visually arresting typographic gown—the bodice is a fitted, corset-style top, while the skirt flares from the waist. Bold black English words are stretched and arranged in circular bands, repeating “I DON’T WANT …” and “WANT,” forming an exaggerated, record-like spinning disc that conveys motion and speed. She stands in glossy red high heels that sharply contrast with the black-and-white text; her long hair sweeps to one side, and there are small tattoos on her arms. The background is a clean light-gray gradient with a soft shadow on the ground, making the subject pop. The overall style is avant-garde and minimalist, with photography and typography cleverly fused.",
+    "gt": [
+      "A gown constructed from typography"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 49,
+    "name": "4049.jpg",
+    "path": "composition/4049.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white art poster. The central subject is the silhouette of a human profile rendered with a double-exposure effect: within the silhouette unfolds a harbor scene—water, moored boats, distant masts, a city skyline, and layered clouds filling the figure’s head and torso. Superimposed over the head is a geometric “brain” drawn in fine white lines, like a neural network made of polygons and connecting lines. From the bottom of the “brain,” a curved white line descends to the lower edge of the image, like a kite string.\n\nOverall, the piece feels tranquil and contemplative: the sea and sky suggest a vast inner world and flowing thoughts; the geometric brain hints at reason and connection; and the white line seems to tether the mind to reality. The work blends a modern, minimalist visual language with themes of psychological, creative, and spiritual exploration.",
+    "gt": [
+      "Silhouette of a side-facing human profile",
+      "Inside the silhouette is a harbor scene",
+      "A geometric 'brain' drawn in fine white lines is superimposed over the head"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 50,
+    "name": "4050.jpg",
+    "path": "composition/4050.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist poster with a strong, theatrical stage feel.\n\n- The main visual is a cool white spotlight pouring down from above, splitting into multiple conical beams that cut through the darkness. You can faintly see the ceiling truss at the top.\n- The light casts and illuminates a line of uppercase text on the floor: \"ON A MISSION.\" It’s set in bold, sans serif type, white, high-contrast. The words are stretched in perspective, running from the lower left toward the lower right; the right and bottom edges are partially cropped, with \"MISSION.\" the clearest, complete with a period.\n- The overall palette is black and grayscale, with ample negative space and stark contrast, creating a cool, mysterious, focused mood.\n- Compositionally, the beam acts as a leading line, guiding the eye from the top of the frame to the slogan on the floor, forming a spotlight-to-target visual path.\n- It conveys a sense of laser focus and mission certainty.",
+    "gt": [
+      "A cool white spotlight pouring down from above",
+      "Uppercase text: \"ON A MISSION.\""
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 51,
+    "name": "4051.jpg",
+    "path": "composition/4051.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster centers on the massive numerals “1917,” with “19” on top and “17” below. The numbers sit against solid black, while their interiors reveal a sky that fades from blue‑violet to orange‑gold. Through the cutout shapes, we see the backs of two soldiers in World War I British uniforms sprinting across open ground, rifles and packs in tow, clambering over barbed wire and wooden posts, with a battlefield at sunset behind them. Across the middle appears “FRLL,” and in the lower right are the tagline “TY” and the release month “DECEMBER.” The overall palette shifts from cool to warm, emphasizing urgency and the headlong rush to complete the mission.",
+    "gt": [
+      "The giant '1917' dominates the composition",
+      "Inside the numerals, the sky transitions from blue-violet to orange-gold",
+      "Through the cutout numerals, two soldiers in World War I British uniforms can be seen"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 52,
+    "name": "4052.jpg",
+    "path": "composition/4052.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- A deep black background with almost no other elements, creating bold negative space and stark contrast.\n- Centered near the top is a white barcode with a line of numbers beneath it. The barcode is rendered as a light source.\n- From the barcode, multiple cool white beams shoot downward like stage spotlights or searchlights, fanning out and becoming more diffuse as they descend.\n- Outside the beams, a broad expanse of darkness remains, shaping a cold, mysterious, minimalist atmosphere.\n- The visual focus sits on the barcode and the light beams, strongly evoking ideas of commodity, scanning, and scrutiny.\n- Possible subtext: identity encoded and commodified, put under the spotlight in a consumer society; or the notion that scanning reveals and light exposes the truth.",
+    "gt": [
+      "Centered near the top of the image is a white barcode.",
+      "From the barcode, multiple cool white beams of light shoot downward."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 53,
+    "name": "4053.jpg",
+    "path": "composition/4053.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- The poster features a cool blue color palette.\n- At the center is the profile silhouette of a man; within the silhouette, the image fades into a city of skyscrapers. Right in the middle, someone is pulling apart heavy curtains, with intense golden sunlight pouring through the gap, hinting at grass and sky beyond.\n- The left side is composed of a high-rise skyline. The city is cast in shadow, creating a stark contrast with the bright light; the overall composition links the urban landscape with human consciousness/the mind.\n- The top lists the lead actors: Eugene and Wyatt.\n- The middle reads: “A film by Mf.”\n- The title appears at the bottom in bold all caps: SEN, with the tagline “PROTECTYOU,” suggesting themes of genetics and identity.\n- A credits block and production details sit at the very bottom, and the overall style points to a sci-fi thriller.",
+    "gt": [
+      "A man’s profile silhouette",
+      "In the center, someone is pulling apart heavy curtains",
+      "Intense golden sunlight pours through the gap between the curtains"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 54,
+    "name": "4054.jpg",
+    "path": "composition/4054.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist-style promo poster, with a beige-and-black color scheme. In the background, oversized pale letters filled with diagonal hatching form shapes that read like “AE.” On the left is a striking black silhouette that looks like two hands with crossed thumbs, fingers spread in a dove gesture. Inside the silhouette is the left half of a woman’s face.\n\nThe info block is grouped in the lower left:\n- a large “25”\n- the smaller word “March” beneath it\n- followed by “GLASGOW” and the venue “The SSE Hydro”\n\nThe design uses clean sans-serif type and a high-contrast palette, highlighting the date “25,” the month of March.",
+    "gt": [
+      "silhouette of two hands",
+      "the left half of a woman's face inside the silhouette"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 55,
+    "name": "4055.jpg",
+    "path": "composition/4055.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist, surreal poster. Against a pale gray background, a black hand reaches down from above, its thumb and index finger curving into an arc that neatly traces the outline of a light bulb’s glass. Between the fingers burns a warm flame; below the flame sits the bulb’s metal screw base. The whole image reads as a light bulb without a glass shell, the hand cupping the flame and turning it into the bulb’s light source.\n\nVisual features:\n- A black–white–gray palette with strong contrast and a clean composition.\n- Use of negative space, with the curve of the fingers standing in for the bulb’s silhouette.\n- A blend of a traditional flame and a modern bulb base, generating contrast and creativity.\n\nPossible meanings:\n- The source and protection of light: cherishing energy or safeguarding the flame of inspiration.\n- A fusion of old and new: the shift from firelight to electric light, the evolution of energy.\n- Creativity and insight: holding inspiration in one’s hands and turning it into usable light.",
+    "gt": [
+      "The curve of the fingers stands in for the bulb’s silhouette"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 56,
+    "name": "4056.jpg",
+    "path": "composition/4056.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster set against a dark, textured background. At the center is an elderly white woman shown from the shoulders up. Her silver-gray, slightly bluish wavy hair fans out on both sides, with her neck and collarbones clearly visible. Her face is split diagonally down the middle, as if it were a jar opened to reveal the black-and-white face of a young woman inside. The background is black with a grainy texture, evoking a vintage film feel.\n\nText elements:\n- On the right: the Russian phrase “ВРЕМЯ ИДЕТ,” meaning “Time goes on/Time passes,” with a small square, stamp-like mark below it.\n- On the left: the Russian phrase “Толед,” meaning “Only forward/Keep moving forward.”\n- Four white X’s arranged in the upper right corner, and three matching X’s in the lower left, serving as decorative marks.\n\nOverall, the style is minimal yet powerful, using a contrast of cool and warm tones and stripped-down typography to emphasize the theme of time passing and moving forward.",
+    "gt": [
+      "The old lady's face is split apart.",
+      "The interior of the center is a black-and-white image of a young woman's face."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 57,
+    "name": "4057.jpg",
+    "path": "composition/4057.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster is rendered in a minimalist style: a sheet of rough‑textured white paper has been torn downward from the top, the rip irregular and fringed with fibers, with a corner at the top curling back. Through this vertical tear, like a narrow window, you glimpse the sea at golden hour, sunlight scattering into fine sparkles on the water. In the lower right sits a small sailboat; faint numbers and letters show on its beige triangular sail, while the hull and crew appear as black silhouettes, gliding slowly through the shimmer.\n\nThe palette hinges on a cool–warm contrast: outside, the soft gray‑white of paper; inside, blue‑green water and golden light. There is no text or logo—the materials.",
+    "gt": [
+      "A sheet of rough-textured white paper has been torn downward from the top",
+      "Through the vertical tear, you can see the sea at golden hour"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 58,
+    "name": "4058.jpg",
+    "path": "composition/4058.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- A minimalist black-and-white poster with a subtly grained, pure-white background.\n- Across the center, a single line of uppercase serif type reads “AMOE”.\n- In the lower half, a sharply rendered human hand reaches upward, the index finger slightly raised in a gentle gesture.\n- In the upper half, the blurred shadow of a hand reaches down to meet it.\n- A small gap remains between their fingertips, as if they’re about to touch yet just shy of contact.\n- The play of light and shadow emphasizes the relationship between the real hand and the shadow, evoking a sense of distance and longing.\n- The overall tone is restrained, poetic, and romantic, conveying a theme of love and touch.",
+    "gt": [
+      "In the lower half, a sharply rendered human hand reaches upward.",
+      "In the upper half, a blurred shadow of a hand reaches down from above."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 59,
+    "name": "4059.jpg",
+    "path": "composition/4059.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a themed poster.\n\n- Layout and text: The background is a gray gradient from dark to light. Centered at the top, “WILITH” appears in large white sans-serif uppercase. Down the left side runs a long column of white biographical text, covering his given name, his birth year, and his multiple roles as an actor, comedian, producer, and rapper; his achievements in television, film, and music; and the fact that in 2007 Newsweek named him “the most influential actor in Hollywood.” It notes five Golden Globe nominations, two Academy Award nominations, and four Grammy Awards; his late-1980s rise to fame as “The Fresh Prince”; his six-season run in The Fresh Prince of Bel-Air from 1990 to 1996; his subsequent move to film, headlining numerous blockbusters and setting a record with eight consecutive movies grossing over $100 million at the North American box office. At the end of the paragraph, words like “eight…box office” are stacked vertically to create a rhythmic visual effect.\n\n- Imagery and composition: On the right is a silhouette-style graphic assembled from multiple stills, forming a profile of Will Smith’s upper body and segmented into a grid of rectangular panels. The imagery is predominantly black and white, punctuated by bold red blocks and accents. Notable motifs include:\n  - An agent in a black suit raising a neuralyzer (evoking Men in Black).\n  - Post-apocalyptic survival alongside a dog (evoking I Am Legend).\n  - Law-enforcement/action scenes with “POLICE” on a tactical vest (suggesting Bad Boys, etc.).\n  - A tender moment of father and son sitting together on a bus (evoking The Pursuit of Happyness).\n  - Boxing training and in-ring shots (evoking Ali).\n  These photos intercut with red geometric elements to create a collage with a strong cinematic feel.\n\n- Overall tone: Minimalist and modern, with a striking black, white, and red contrast. The text-on-left/image-on-right layout juxtaposes biographical information with imagery from his signature works, underscoring the actor’s versatility across comedy, action, sci-fi, and drama, as well as his professional accomplishments.",
+    "gt": [
+      "On the right is a silhouette-style human figure assembled from multiple film stills.",
+      "Inside, it is segmented into a grid of rectangular panels."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 60,
+    "name": "4060.jpg",
+    "path": "composition/4060.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white movie poster: dense high-rises are stacked like geometric blocks, and layers of gray tones create an oppressive atmosphere. In the upper left, a slanting beam of intense light—like a searchlight sweeping down from above—forms a triangular shaft that falls onto a pool of light on the ground, within which a human silhouette appears.\n\nBelow the city, huge three-dimensional letters integrated into the streetscape spell out the title “TLE.” The beam partially illuminates the letters, casting long shadows. The building facades carry the names of the leads and the director: Jesse, Mia, and “A film by Ayoade.”\n\nIn the pool of light at the lower right stands a tiny, solitary figure, set in stark contrast against the massive letters and the towering buildings, conveying a mood of isolation, oppression, and absurdity. The overall style leans toward film noir and surrealism, with a composition that emphasizes depth and dramatic shifts in scale.",
+    "gt": [
+      "In the upper left, a slanting beam of intense light",
+      "Within the pool of light on the ground, a human silhouette appears"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 61,
+    "name": "4061.jpg",
+    "path": "composition/4061.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist black-and-white poster with a light gray background.\n\n- At the center is a shirtless man, shown only from the right half of his upper body. He wears a wide-brimmed black hat and pinches the brim with his right hand, tilting his head slightly downward so his eyes are hidden, creating a sense of mystery. He has a dog-tag necklace and wears rings. His body is covered in tattoos: a full sleeve on his right arm with star motifs, the word “STOP” on his forearm, and Roman numerals at his collarbone. The overall vibe is cool and rebellious.\n- Behind the portrait is an oversized black letter “G,” with the figure’s outline aligning with the letter’s curve, creating an interesting compositional effect.\n- On the left, a vertical line of small type reads “MOVCITON,”.”\n- In the lower middle, a handwritten-style font sets the text in three lines: “Who Is / The Coolest / Everyday?” The phrasing is a bit awkward; in natural English it should read “Who is the coolest every day?” or “Who is the coolest, every day?” (“every day” as two words).\n- Centered at the very bottom is the small date “4/11/2021.”\n\nOverall, the design uses negative space and black-and-white contrast to create a sleek, austere tone. The overlay of the figure with the capital letter enhances memorability, making it feel like a teaser poster for a film or a fashion ad, though the text contains minor spelling and grammatical slips.",
+    "gt": [
+      "As if a giant black letter 'G' were layered behind him."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 62,
+    "name": "4062.jpg",
+    "path": "composition/4062.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist poster in portrait format: at the center rises a massive orange‑brown rock, mask-like, thrusting up from a glass-still lake like a column. Its surface is fissured with cracks and layered seams, rough and tactile. The water is mirror-calm, clearly reflecting the rock and its surroundings, with hardly a ripple. On the right, a person in a dark coat stands on a small rock facing the monolith; the contrast in scale creates a powerful sense of grandeur and solitude. In the background, a mist-veiled shoreline and sparse tree silhouettes recede beneath an expanse of open, pale sky. The palette leans toward cool grays and foggy whites, accented by the rock’s rusty tones and the water’s inky black. The composition is clean and spacious, with ample negative space; the eye settles on the monolith and its reflection, while the figure on the right balances the frame and guides the gaze. It conveys stillness, mystery, and a quiet confrontation with nature.",
+    "gt": [
+      "A rock resembling a human face mask",
+      "A reflection in the lake"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 63,
+    "name": "4063.jpg",
+    "path": "composition/4063.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white poster in a surreal style. The scene looks outward from inside a massive circular, tubular structure. The space is composed of layered, strip-like panels resembling stone slabs or metal sheets, assembled into concentric rings that converge on a deep central void, creating a powerful, vortex-like pull and an inward-spiraling perspective.\n\nIn the foreground, a figure sits motionless on a slope with their back to the viewer, casting a long shadow; in the middle ground, another, smaller figure walks toward the central opening. The contrast in their scale underscores the vastness of the space and our human smallness. In the distance, a minimal horizon meets a mist-like sky; a soft light seeps in from outside, lending the image a stark, quiet calm.\n\nThe overall mood is still, contemplative, tinged with solitude and the unknown. Every line in the composition points toward the center, heightening a psychological tension between being pulled inward and sinking.”",
+    "gt": [
+      "From the inside looking out",
+      "Arranged into concentric rings"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 64,
+    "name": "4064.jpg",
+    "path": "composition/4064.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe overall palette is a cool gray-green, with a dim, mysterious atmosphere touched by a hint of mist and faint specks of starlight. Along the bottom runs a range of towering snowcapped mountains, with the peak on the right catching more light. In the center sits a massive dark circle. Inside it appears an upside-down mountain range, mirroring the real mountains below to create an inverted reflection. At the circle’s very center is a tiny black human figure, limbs slightly splayed, seemingly weightless—as if falling from the sky or drifting in space. The lighting is soft, brighter at the center and fading toward the edges, guiding the eye to the figure at the circle’s core.\n\nThe layout is restrained, with generous negative space and a largely centered, symmetrical composition that keeps the visual focus clear. Centered at the bottom is the text: “SLL” set in uppercase serif with wide letter spacing; beneath it, in smaller type, “MUSIC ARTWORKS.” The overall style blends surreal/sci-fi and minimalism, reminiscent of double exposure or collage. It evokes falling, weightlessness, and a journey into another world or the depths of the self, suffused with a sense of solitude, suspense, and a dreamlike, sleepwalking mood.",
+    "gt": [
+      "An upside-down mountain range appears inside the circle",
+      "At the circle's center is a tiny black human figure"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 65,
+    "name": "4065.jpg",
+    "path": "composition/4065.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nSet against a warm pastel peach-orange sky, the poster centers on a surreal, collage-like portrait: a man’s head split open like a shell and offset in overlapping layers. A fluffy head of hair tops the upper section, while the lower section shows a beard and neck, together forming an arcing, shell-like structure that evokes psychological suspense and an inner rift. The face on the left turns left; the face on the right turns right. Huge white letters “L” and “I” flank a central “U,” spelling the title “LUI”. In fine type near the lower middle, “Un fanet”. Along the bottom, the credits list the principal cast—Guillaume, Efira, Kassovitz, Casta—and also include Baye, Patrick, and Gilles; the production team credits name producer Alain and composer Desplat, alongside the logos of multiple companies and institutions. Overall, the design is minimalist yet symbolic, softly toned, and emphasizes the film’s inner psychological theme.",
+    "gt": [
+      "Collage-style portrait",
+      "Two faces"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 66,
+    "name": "4066.jpg",
+    "path": "composition/4066.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a highly dramatic red-and-blue duotone poster. Set against a pure black backdrop, it blends a retro Hollywood sensibility with a cyber-futurist edge. Red–blue channel shifts and double exposure create 3D misalignment and ghosted edges, while smoke-like textures or light trails ripple around the head. The blue-lit woman is shown from the torso up in dark clothing, her hands crossed at her chest with index fingers meeting to form a sharp point; her hands are bathed in cool blue light and her composed expression intensifies the warm–cool clash. Slightly to the right, a red-lit version of the woman appears with her mouth open in a shout. The red and blue figures partially overlap in translucent layers. The composition is centered and symmetrical, with stark contrast; the mood is mysterious and alluring, evoking themes of duality and self-dialogue.",
+    "gt": [
+      "Blue and red lighting",
+      "Two overlapping figures",
+      "Blue-lit woman with hands crossed",
+      "Red-lit woman shouting"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 67,
+    "name": "4067.jpg",
+    "path": "composition/4067.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster has a surreal style: a massive, plaster-like human head in right profile. The center of the head looks blown apart, with fragments flying outward. Set into the split is an old double wooden door, half ajar, its frame fused with the head itself. Beyond the doorway stretches a dim corridor, with warm golden-brown detailing along the top; the floor is strewn with dust and debris. At the far end a stark white light spills out, and beyond it you can just make out a barren landscape, distant mountains, and a pale, washed-out sky. Outside, the palette leans cool—bluish grays and stony tones—forming a strong contrast with the warm gold-browns inside the door. The ear, bridge of the nose, and mouth retain a sculptural texture, while the cheek and jaw show blocky fractures. Overall it is both realistic and dreamlike, as if expressing the idea of opening the door of the mind, breaking free of constraints, and moving from the inner self toward a wider world.",
+    "gt": [
+      "A door at the center of the head",
+      "White light beyond the door"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 68,
+    "name": "4068.jpg",
+    "path": "composition/4068.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a blue-themed movie poster with a fresh look, rich in metaphor.\n\n- At the center of the composition is a light bulb glowing warm yellow. Its “filament” is formed by missing puzzle-piece shapes; in the upper right, one piece seems to lift off and turn into a paper airplane, trailing a dotted flight path.\n- At the base of the bulb, a silhouette of a child with a backpack stands on a stack of books. Mirrored below is the same child’s running shadow, echoing the imagery of “shadow” and “running.”\n- The background is a gradient blue, like a chalkboard or starry sky, faintly overlaid with math formulas, symbols, and handwritten doodles. Speckles that twinkle like starlight enhance the dreamy, knowledge-seeking atmosphere.\n- Rows of laurel-wreath icons line the top, signifying festival selections or awards.\n- Text elements: At the top, “Starring Jchu” and “Artistic Director Zhuangzhuang.” In the mid-lower area, the title “Ming Show” appears in both Chinese and English. Along the bottom runs a horizontal line of credits and production companies, capped by a prominent release date: January 16, 2018.\n- Color and symbolism: The cool–warm contrast spotlights the bulb’s sense of “inspiration” and “hope.” The puzzle pieces suggest a search for self or becoming whole; the books and formulas represent education and growth; the paper airplane symbolizes dreams and aspirations; and the running shadow underscores the contrast between the inner world and real-life action. Overall, the tone is youthful, inspirational, and imaginative.",
+    "gt": [
+      "A light bulb combined with jigsaw puzzle pieces",
+      "The light bulb contains a silhouette of a child with a backpack",
+      "Below, the same child’s running shadow is mirrored"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 69,
+    "name": "4069.jpg",
+    "path": "composition/4069.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white, suspense-themed poster. At the center stands a figure in a black suit, white shirt, and black tie, holding a triangular shard of mirror up to their right eye; in the shard is a woman’s face. The background is a narrow urban alley with brick walls, metal staircases, and string lights, receding with a strong sense of depth and a cold, hard city edge. Crime-scene tape cuts diagonally across the frame, with fragments of text like “SNE DO …,” heightening the tension of a police investigation. At the top, the credits read “author: RIN” and “graphics by: IKY.” At the bottom, the title “RIVER & RAIN” appears in bold, all-caps serif type, creating a clear visual anchor; overall, the mood leans toward film noir and detective fiction.",
+    "gt": [
+      "The right hand holds a triangular shard of mirror in front of the right eye",
+      "A woman's face is reflected in the shard"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 70,
+    "name": "4070.jpg",
+    "path": "composition/4070.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a vertical photography poster with a calm, poetic mood and a slightly surreal composition.\n\n- The lower half shows a railway stretching into the distance: a red-brown vintage train is pulling away along the right-hand track; on the left are weeds and makeshift storage sheds. In the light haze of the background, a few high-rise buildings are visible, and the lighting feels like the golden glow of early morning or late afternoon. The rails form a strong leading line toward the center of the frame.\n- The upper half leaves a broad expanse of pale sky for text. Centered, it reads: “Art is the Highest Form,” with “the Highest” in italics and “HOPE” in bold all caps, colored olive green. Below the text is a thin vertical line; under it, the credit reads: “Colours and Frames By Asela.”\n- Along the very top edge, a man appears upside down: he wears a white shirt and light blue jeans, leaning against a railing, with grass and buildings in the background. This inverted figure creates a visual contrast with the right-side-up railway below, suggesting a “change of perspective” theme.\n- The palette centers on warm golds and greens, with the train’s red-brown contrasting against the surrounding greenery. Overall, it conveys the idea that art brings hope, shifts perspective, and points toward distant horizons.",
+    "gt": [
+      "Upside-down figure",
+      "The phrase 'Art is the Highest Form of HOPE' set in varied typography"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 71,
+    "name": "4071.jpg",
+    "path": "composition/4071.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster is dominated by cool mint green and teal. At the center, the upper body of a figure rises from the water’s surface like a statue cast in blue-green, dressed in futuristic attire. Behind the figure stands a massive cracked disk: its outer rim glows icy blue, while within, vivid orange churns. The fractures and dripping, liquid forms create a strong sense of motion. The lower portion is the water’s reflection, stretched by ripples into abstract waveforms where blue-green and orange intertwine; in the reflection, the orange extends into a sinuous, ribbon-like trail that cuts across the bottom of the frame. The overall style leans surreal and minimalist, with sharp color contrasts and a cool, mysterious mood, as if evoking themes of rupture, rebirth, and unleashed energy.",
+    "gt": [
+      "The lower half is the water's reflection"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 72,
+    "name": "4072.jpg",
+    "path": "composition/4072.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nBrief description\n- A portrait-format sci‑fi poster. At the center stands a lone wanderer in a long black cloak, back to the viewer, walking over undulating ground toward a colossal golden sun in the distance. Dark, cliff-like structures on both sides curve inward like parted curtains, forming a corridor that leads to the light source. A palette of orange-gold, amber, and deep umber dominates. The intense backlight throws the figure into silhouette, evoking solitude, epic grandeur, and a sense of pilgrimage.\n\nDetails and composition\n- Symmetrical composition with strong perspective; every line and texture converges on the central sun and the figure.\n- Above, a vast, rounded sun hangs in an orange sky, commanding the visual center of the upper half.\n- The ground resembles wind-sculpted sand ripples or silk-like folds, with a metallic sheen that catches warm golden-orange highlights.\n- The flanking “cliffs” show vertical striations and faceted geometry; their bases curl inward like waves or drapery, closing in to suggest a tunnel.\n- The figure moves unhurriedly; the cloak sways slightly with each step. Fine rim lights trace the silhouette from the powerful backlight.\n\nAtmosphere and themes\n- Scorching and vast, blending the desolation of an unknown world with a distinctly sci‑fi sensibility.\n- The imagery points to “a journey toward the light,” “the call of destiny,” and “solitary exploration.”\n\nTagline inspiration\n- Walk toward the light\n- Traverse the desolation to find the answer\n- Between the threshold and the light, choose to go on\n\nNo text or logos; the image relies on contrasts of color and scale to leave a strong, memorable impression.",
+    "gt": [
+      "Forming a corridor that leads to the light source"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 73,
+    "name": "4073.jpg",
+    "path": "composition/4073.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- Overall style: Ultra-minimal, with generous white space. On a cool beige background, only a few elements create a strong focal point and a sense of breathing room. A vine descends from the top left, its heart-shaped leaves rendered in warm copper-brown with realistic texture. Slightly left of center is a small, hummingbird-like bird with wings outstretched; the foreground is crisp, while a translucent afterimage behind it suggests fluttering speed and lightness. In the lower right sits a large, deep burgundy form that reads as a chunky ampersand and, at the same time, an open pair of scissors (the round dot as the pivot, the sharp right-leaning tip as the blade), a clever metaphor that fuses typography with the trade. To the right of this mark, set in small sans-serif type across three lines—\"Morg32\", \"Aptitbels\", \"Hairers\"—the text is right-aligned and quietly restrained, reading like an address and a shop name/tagline. Color and contrast: warm copper-brown (vine leaves, bird) and deep burgundy (ampersand/scissors) create a warm, refined contrast against the beige background; the interplay between realistic flora and fauna and flat geometric shapes adds a modern edge.\n\n- Composition flow: The eye travels from the top left (vine) to the center (bird) and down to the bottom right (ampersand/scissors and text), forming a diagonal momentum with a clear visual path.\n\n- Mood conveyed: Elegant, refined, and full of life. The bird’s buoyancy and the “scissors” metaphor evoke a hairdresser’s dexterity and creative freedom, expressing a brand character that is precise yet natural.",
+    "gt": [
+      "From the top-left vine to the bird in the center, then down to the lower-right text,"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 74,
+    "name": "4074.jpg",
+    "path": "composition/4074.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nA strikingly futuristic poster. The background is almost entirely black, with fine blue lines stretching across upper and lower planes to form a regular three-dimensional grid. All the lines converge toward a vanishing point at the center-left, creating a powerful sense of perspective and infinite space. In the lower right, a person sits with their back to the viewer in a director’s chair, wearing a white shirt, their right hand pointing into the distance. Beneath the chair is an angled red quadrilateral floor plane aligned with the grid, like a small “private plot” carved out of the boundless black void. Beside the figure, four lines of red uppercase type read: “SHAPE A NEW WORLD AROUND YOU.” The palette is dominated by black and blue, with the red text and ground serving as visual focal points. The style evokes an ’80s sci‑fi/digital aesthetic (reminiscent of neon grids), conveying the theme of creating, shaping, and commanding a new world within a vast virtual space; its spare composition feels austere yet inspiring.",
+    "gt": [
+      "three-dimensional grid",
+      "upper and lower planes"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 75,
+    "name": "4075.jpg",
+    "path": "composition/4075.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster suffused with a surreal sensibility. At the center is an oversized silhouette of a man’s profile, his head tipped back to the right. Inside the silhouette runs a dusky blue ice-cave passage, the striated walls like layer upon layer of thought. From the neck extends a damp wooden boardwalk leading toward a bright exit deep within the silhouette’s mind. At the end of the walkway stands a lone traveler in a hooded jacket and jeans, a backpack on his shoulders, seemingly holding a camera, gazing into the light ahead.\n\nOutside the silhouette, the lower portion is swallowed by dense white fog, with the treetops of a coniferous forest faintly showing through, evoking a mist-shrouded woodland. The overall palette leans on gray, blue, and teal—cool and restrained—with a crisp contrast of light and dark: the exterior is hazy, while the interior light source is clear and bright, creating a strong visual pull.\n\n- Visual technique: double exposure/collage compositing, overlaying the human profile with a cave/journey to suggest the metaphor of walking into the mind.\n- Composition: the diagonal of the boardwalk guides the eye to the point of light inside the head; the cave’s arcs echo the facial contours, adding depth and dimension.",
+    "gt": [
+      "An oversized silhouette of a man's profile",
+      "Inside the silhouette, there is a dusky blue ice-cave passage"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 76,
+    "name": "4076.jpg",
+    "path": "composition/4076.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster with a surreal, brooding quality.\n\n- The primary palette is gray‑green and black, like a world steeped in mist; at the center, a white halo bursts forth from the distance.\n- A railway track stretches from the bottom of the frame into the distance, its perspective drawing the eye to the center. A solitary, coat‑clad figure walks against the light, back to the viewer, moving toward the glow.\n- Between the far horizon and the sky stands a colossal antique clock face, ringed with Roman numerals; its metal bezel and ornate hands are exquisite yet cold. The two hands cross and are frozen pointing in different directions, as if time were stuck.\n- Several black silhouettes of crows wheel in and around the dial; one perches on the rim near XII, like a watcher of time or an ill omen.\n- The surrounding landscape is bleak and barren, with no vegetation or buildings. Slightly darkened corners heighten the sense of pressure and drama.\n\nAtmosphere and symbolism:\n- The track and the distant light suggest the “rails” of a journey or fate, the figure walking into the unknown; the giant clock embodies the vastness and inevitability of time, serving as both barrier and threshold; the crows add undertones of death, portents, or destiny.\n- Overall it conveys loneliness, suspense, and philosophical reflection, fitting for stories about time, psychological suspense, or a post‑apocalyptic mood.",
+    "gt": [
+      "A railway track stretches from the bottom of the frame into the distance",
+      "A colossal antique clock face"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 77,
+    "name": "4077.jpg",
+    "path": "composition/4077.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster. The palette is dominated by icy blues and snowy whites, evoking a cold, sweeping northern wilderness. At the top is a close-up of an older man wearing a chunky knit wool cap. In the center, the title THE CA WILD in large, bold type serves as the visual focal point. Below is a snowy scene: an explorer in rugged winter gear with a backpack stands alongside a large brown-and-white dog; behind them rise towering snow-covered mountains and pine forests, with snowflakes drifting through the air. The composition is clear and layered, highlighting the partnership between man and dog and the theme of adventure.",
+    "gt": [
+      "At the top is a close-up of an older man wearing a chunky knit wool cap"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 78,
+    "name": "4078.jpg",
+    "path": "composition/4078.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a cinematic city poster.\n\n- Scene and subject: At the center stands a Gothic, spired clock tower, calling to mind a famous London landmark. Its clock face glows with warm light, striking against the chill of the gloomy sky. Modern skyscrapers rise behind and on both sides, sharpening the contrast between old and new.\n- Weather and atmosphere: Heavy clouds and slanting rain, with fine mist and spray hanging in the air. The palette is dominated by cool gray-blues, creating a crisp, solemn, slightly melancholic autumn mood.\n- Ground and reflections: In the foreground, rain-slick cobblestones; the water’s surface mirrors the clock tower and streetlights with clarity. Strong contrasts of light and dark deepen the sense of depth and openness.\n- Autumn leaves: A few orange-red maple leaves are scattered across the wet ground and puddles. Some are whipped by wind and rain, becoming the scene’s brightest pops of color and breaking the cool palette’s monotony.\n- Urban details: Vintage wrought-iron railings and street lamps with round heads line both sides. Warm light spills from distant windows, and the occasional silhouettes of cars and pedestrians keep the city feeling alive despite the storm.\n- Composition and light: Shot from a low angle, with leaves and brick seams in the foreground forming leading lines that draw the eye to the clock tower at center. The cool–warm contrast—cool sky and pavement against warm lights and maple leaves—sharpens the visual focus, while raindrops and splashes add motion.\n- Mood and resonance: It balances urban grandeur and order with the solitude and romance of the changing season, evoking a brief pause in the city’s bustle, enveloped by time and the sound of rain.\n\nOverall, the poster weaves autumn rain, reflections, and the interplay of old and new architecture into its core narrative. Its restrained yet layered colors create a cool yet gentle kind of urban poetry.",
+    "gt": [
+      "Mirroring the light and shadow of the clock tower and streetlights"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 79,
+    "name": "4079.jpg",
+    "path": "composition/4079.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- A broad expanse of off-white negative space sets a minimalist tone.\n- At the center, a jagged, lightning-like tear runs from top to bottom, slanting slightly along the diagonal.\n- Dark gray shading along the edges adds depth, as if the paper has been ripped open.\n- Within the tear, parts of a figure are visible: a wisp of brown hair at the top, and bare shoulder, neck, or arm at the bottom.\n- With no prominent text or logos, the overall mood is mysterious and avant-garde, suggesting a breakthrough—breaking through the surface.",
+    "gt": [
+      "A jagged, lightning-like tear",
+      "Parts of a figure’s body are visible within the tear"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 80,
+    "name": "4080.jpg",
+    "path": "composition/4080.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- The poster is rendered in black and white, with a light gray gradient sky in the background. A flock of birds sweeps across the upper left, creating an airy, uplifting mood.\n- In the lower portion, the silhouette of a dancer is superimposed, performing a demanding ballet move: one leg extended high to the back, arms opening upward. Parts of the dancer’s body overlap with the face of a large female bust, forming a surreal composition that marries motion and stillness and emphasizes the juxtaposition of strength and freedom, elegance and wildness.\n- The lighting is restrained and the contrast soft, with generous negative space, giving the whole image a clean, poetic quality and a palpable sense of visual tension.",
+    "gt": [
+      "The dancer's body overlaps with the face of another portrait"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 81,
+    "name": "4081.jpg",
+    "path": "composition/4081.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist music festival poster.\n\n- Main subject: Against a milky, frosted-glass-like background, the silhouette of a black horse appears to push up from behind the surface, creating a soft yet taut bulge. The horse’s head is faintly visible at the top, and two black legs extend downward; two hooves almost fully break through the plane, creating a striking sense of volume and tactility.\n- Color and mood: A cool gray-white palette with small amounts of black and a touch of brown at the hooves evokes a quiet, mysterious, surreal atmosphere. The only vivid color is the title’s bright yellow, which becomes the visual focal point.\n- Copy and typography: The information sits mid-right. The numbers “21 • 8,” annotated with “SEPT / OCT,” correspond to the vertically set “2011” on the right, indicating the festival runs from September 21 to October 8, 2011. The title “musica” appears in lowercase, set in a rounded sans serif typeface and highlighted in bright yellow. Below it, in white type, is the French line “Fesg” (Ibourg), followed by the website “wworg,” with the web address accented in yellow.\n- Visual composition: Generous negative space balances the central horse-shaped bulge with the text on the right. The vertical forms guide the eye from top to bottom, finally landing on the information block. The overall design is simple and restrained, yet taut with energy.\n- Symbolism: The horse breaking through the surface suggests the moment when sound or creativity breaches its boundaries and pierces the medium, echoing the exploratory, avant-garde spirit of a contemporary music festival. It also conveys speed, power, and rhythm.",
+    "gt": [
+      "Hooves breaking through the surface"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 82,
+    "name": "4082.jpg",
+    "path": "composition/4082.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- Main subject: A profile view of a young man holding a smartphone, staring intently at the screen at close range.\n- Lighting and palette: The frame is almost entirely black. The phone is the sole light source, casting a cool blue-white glow across his face and neck. The background is a deep blue gradient with stark contrast.\n- Visual effect: His face is exaggeratedly “stretched” into a band of light that converges on the phone. His features are dragged and blurred, as if his face is being pulled into the screen, melting into the light.\n- Mood: Isolation, compulsion, and loss of control, with an oppressive, surreal undertone.\n- Imagery and meaning: A metaphor for smartphone/social media addiction and information overload—the digital world consuming the self and our time—prompting reflection on how screens shape attention and identity.\n- Design style: Minimalist composition, single light source, cool tones, and a high-contrast surreal composite/stretch effect—a cautionary, satirical visual poster.",
+    "gt": [
+      "The phone is the only light source",
+      "His facial features are fused to the phone"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 83,
+    "name": "4083.jpg",
+    "path": "composition/4083.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- Uses a double-exposure effect: the profile silhouette of a man (facing left) overlaid with a mountain forest landscape.\n- Within the silhouette lies a cool-toned mountain forest: towering pines, mist-draped slopes, and, in the distance, a solitary figure standing on a woodland path—evoking a mood of exploration and introspection.\n- The same natural scene carries through foreground and background: below runs a mountain stream whose long-exposed surface is silky smooth, winding between moss and gray stone.\n- The palette leans blue-green and gray-white—cool and pristine; the textures of mist and water heighten depth and mystery.\n- Compositionally, the silhouette occupies the upper and central portions of the frame; negative space on the right plays against the treetops’ contour, while the stream’s lines lead inward from the bottom, guiding the eye into the “forest of the mind.”\n- The thematic imagery is clear: the bond between people and nature, the wilderness of the soul, and an exploration that looks both inward and outward. The overall mood is tranquil and contemplative, with a faint call to adventure.",
+    "gt": [
+      "A man's profile silhouette",
+      "Inside the silhouette lies a cool-toned mountain forest"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 84,
+    "name": "4084.jpg",
+    "path": "composition/4084.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nAn inspirational poster in a surreal style.\n\n- At the center is an open book, enlarged to the size of a “door.” Its spine is heavy and reddish-brown, and its pages are golden. The book forms an archway, and inside it is a sunrise scene. A few birds skim across the “sky” created by the pages.\n- A black asphalt road begins in the foreground, winding forward. A yellow dashed line guides the way, ultimately passing through the book’s “doorway” and extending into the sunlit hillside and horizon within the book.\n- In the foreground, a traveler in dark clothing with a backpack walks along the road toward the book. The back view reinforces the feeling of setting out.\n- Outside the book, the scene is cool-toned: a night sky, starlight, and a barren, wasteland-like terrain. Inside, it’s warmed by morning light, creating a striking contrast between cool and warm.\n- Light spills out from the “world within the book,” illuminating the page edges and the road, underscoring the book as a source of light and a symbol of hope.\n- The composition uses bold perspective and strong leading lines. The curve of the road draws the eye to the book’s gate and the rising sun, keeping the focus tight.\n- The mood is dreamy and tranquil yet full of anticipation, blending a sense of solitude with longing.\n- Theme and meaning: Reading is a road to new worlds, knowledge, and self-growth. The book is the gateway that begins the journey, leading us beyond the barrenness before us toward light and greater heights.\n- Suitable uses: reading promotion, school libraries, training centers, personal growth/motivational events, World Book Day posters, and more.\n- Sample copy to pair with the image:\n  - “Open a book.”\n  - “Reading the road.”\n  - “Open dreams.”",
+    "gt": [
+      "The open book is like a doorway.",
+      "A black asphalt road begins in the foreground, winding forward."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 85,
+    "name": "4085.jpg",
+    "path": "composition/4085.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white poster in a double-exposure style. The main subject is an open palm that fills the center and lower half of the frame. Its outline is crisp, while the interior blends in a rural lane: two people riding bicycles side by side, the road catching a faint gleam, with subtle shadows of trees and leaf textures around them. The background is largely left blank, creating strong contrast and a pronounced sense of negative space.\n\nThe overall mood is quiet and gentle, as if a journey and its memories are being cradled or protected in the palm of a hand. The look is film-like, with fine grain and layered textures along the edges. The imagery suggests themes of companionship, protection, growth, or a road remembered.",
+    "gt": [
+      "The main subject is an open palm",
+      "In the palm is a scene of two people riding bicycles side by side"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 86,
+    "name": "4086.jpg",
+    "path": "composition/4086.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist poster that uses a double-exposure technique. The subject is a man with a thick beard shown in profile, facing right, his outline crisp and his look cool and austere. Within the contours of his head and upper torso, a mountain-and-sea landscape is filled in: layered distant ranges and the ocean, soft clouds, and a flock of birds sweeping across the upper left. On the rocks at the mountain’s peak sits a silhouetted figure, seemingly deep in thought. Along a path threading through the rocks below, another figure appears in motion, as if climbing or running.\n\nThe background is pure white, heightening the contrast and the sense of negative space. The palette is primarily black, white, and gray, with the sky tinged a cool blue-gray. The image overlays a rugged outward profile with an inner world of mountains, sea, contemplation, and movement, conveying themes of self-exploration, solitude and courage, and the coexistence of action and reflection.",
+    "gt": [
+      "Side profile of a man with a thick beard",
+      "Ocean",
+      "Climbing"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 87,
+    "name": "4087.jpg",
+    "path": "composition/4087.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- A top-down viewpoint centers on a giant blue eyeball whose iris ripples outward like water or crackles like electricity, with a pitch-black pupil. The palette is dominated by deep blue, teal, and cold white, with light converging from the iris’s rim toward the center, giving an icy, sci‑fi feel.\n- A shirtless man in dark shorts dives or glides horizontally from above, arms outstretched, his body aimed at the black pupil as if about to plunge into the “eye” or be pulled into it, creating a striking contrast in scale and an unsettling sense of being watched.\n- A tagline sits at the top of the poster: IMMORITY IS ONLY A MATTER OF TIME.\n- At the bottom is the title: REALIVE, set in a cool-toned, futuristic typeface with expanded letterspacing; beneath are the credits and the “SYLMS” logo.\n- Overall tone: austere and mysterious, blending the imagery of eye/ocean/energy to hint at sci-fi themes of life, time, and resurrection/immortality, along with a sense of loneliness.",
+    "gt": [
+      "A giant blue eyeball whose iris radiates outward like rippling water or crackling electricity",
+      "A shirtless man in dark shorts"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 88,
+    "name": "4088.jpg",
+    "path": "composition/4088.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster features a surreal double-exposure effect. The central form resembles a massive rock draped into the shape of a hood or cloak, its exterior rough and gray-black with crisp, defined textures. Inside the rock, however, lies a valley bathed in golden light: towering conifers line sheer cliffs, a stream tumbles over stones in tiers of small waterfalls, and mist intertwines with shafts of light to create a soft, mysterious atmosphere. The lower edge seems to hang in midair, like a floating island, with fragments and moss-like strands dangling from its rim. The background is minimalist—a gray-brown field scattered with tiny points of light like dust or snow. The palette hinges on a contrast between cool grays and warm golds, at once calm and stately, evoking an epic, mystical aura of a “spirit of nature” and a “hidden guardian of the forest.”",
+    "gt": [
+      "A massive rock draped into the shape of a hood or cloak",
+      "Inside the rock, however, lies a valley bathed in golden light"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 89,
+    "name": "4089.jpg",
+    "path": "composition/4089.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster has a strong sci-fi and surreal vibe:\n\n- In the lower part of the image stands a lone man, pushing a road bike. He wears a backpack, with gear strapped to the side—something like a tripod or foldable equipment. He’s at the edge of a barren expanse, with a dirt road and loose gravel underfoot.\n- A thick layer of fog in the distance separates the foreground from the background, creating the sense of an unknown boundary.\n- The sky is an entire upside-down city: dense high-rises, blocks, and rooftops all hanging above like a city ceiling, producing a striking sense of visual disorientation and inverted gravity.\n- Muted gray-green and cool gray tones dominate, with diffuse light that renders the buildings and fog hazy, amplifying feelings of loneliness, exploration, and suspense.\n- Compositionally, the figure sits below while the city occupies the top, with a sharp contrast in scale that underscores the theme of an individual confronting a vast world; a central vanishing point and successive layers of buildings draw the eye deeper into the scene.\n- Overall, the imagery feels like standing on the borderline between two worlds: a real wasteland and an inverted metropolis. It symbolizes entering unknown dimensions, defying convention, or embarking on an adventure.",
+    "gt": [
+      "The sky is an entire upside-down city"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 90,
+    "name": "4090.jpg",
+    "path": "composition/4090.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster shows, from a first-person perspective, someone climbing upward out of a deep well or tunnel. Rough, ochre cylindrical walls enclose the passage, and a wooden ladder rises from the bottom of the frame straight toward an intense white light at the top, creating a strong sense of depth and clear leading lines. In the foreground, two hands grip the rungs, emphasizing strength and tension. At the opening above, the silhouette of a bird skims across the bright aperture. The light shifts from dark at the bottom to bright at the top, and the whole scene is suffused with a warm golden glow.\n\n- Symbolism and mood: The transition from darkness to light conveys the theme of escaping hardship and seeking hope; the ladder symbolizes the path and effort, the bird represents freedom and aspiration, and the clenched hands underscore perseverance and self-rescue.\n- Composition and color: A central perspective, pronounced vanishing point, and high-contrast lighting draw the eye to the light source at the top; warm tones evoke warmth and hope, and the pared-back elements heighten both impact and immersion.",
+    "gt": [
+      "Intense white light at the top",
+      "Strong sense of depth"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 91,
+    "name": "4091.jpg",
+    "path": "composition/4091.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a double-exposure style poster.\n\n- The main subject is a silhouette of a man in profile, head facing right, with a left-to-right gradient of light. The background transitions gently from warm orange to cool blue.\n- Within the outline of his “head,” a sunset scene is overlaid: the sky is tinted orange-pink by the setting sun, a few birds are in flight, and a lone figure stands at the cliff’s edge gazing into the distance, evoking freedom and contemplation.\n- Inside his “chest and torso” lies a railway cutting through a cave: the ties and rails form strong perspective lines leading out to a valley and snow-capped mountains. Another traveler walks along the tracks toward the light, symbolizing journey and forward motion.\n- The lighting is clean and layered, with the silhouette’s edges blending seamlessly into the inner scenes, creating a contrast of cool and warm tones and a sense of depth.\n- Visual symbolism: the inner world is made tangible as landscapes and roads; the distant gaze in the head and the forward motion in the chest echo each other. The birds symbolize freedom, the railway a life path, presenting themes of self-exploration, choice, and hope.",
+    "gt": [
+      "Silhouette of a man in profile",
+      "Within the 'head' outline, a sunset scene is overlaid",
+      "Inside the 'chest and torso,' a railway cuts through a cave"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 92,
+    "name": "4092.jpg",
+    "path": "composition/4092.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- The overall image is dark, with a hazy background. A side-profile silhouette of a man dominates the frame, facing left.\n- A ring of warm light glows within the head of the silhouette, revealing a “cell” inside: vertical iron bars partition the space.\n- Behind the bars stands a small figure, gripping the bars with both hands and leaning slightly forward, as if imprisoned—helpless yet yearning to escape.\n- Above the cell, the faint outline of a glowing brain is visible, like the cell’s “ceiling” or light source, suggesting the captivity takes place within the mind.\n- The palette is dominated by deep blacks and brown-grays; the strong contrast and silhouette style make the scene feel oppressive, lonely, and closed off.\n- The concept is immediately clear: a person is imprisoned by their own brain, thoughts, or emotions—perhaps anxiety, depression, obsession, trauma, inner turmoil, or self-imposed limits—underscoring the theme of a “prison of thought” and “mental shackles.”\n- The composition is clean and highly symbolic, using a double-exposure effect and negative space to convey a psychological struggle rather than a literal scene.",
+    "gt": [
+      "A side-profile silhouette of a man dominates the frame, facing left",
+      "A ring of warm light glows within the silhouette's head, revealing a 'cell' inside"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 93,
+    "name": "4093.jpg",
+    "path": "composition/4093.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black-and-white minimalist poster. A vast expanse of sea is cleaved by a straight, slightly jagged white corridor, like ripples caught in light, stretching from the bottom of the frame to the horizon. The water to the left is a lighter gray, while the right side is deeper and darker, creating a stark contrast between light and shadow.\n\nA lone figure in black silhouette walks along the corridor toward the distance, casting a long, slender shadow to the right. Above, the sky is a blank field of white, devoid of any details, heightening the sense of solitude and scale. The composition is vertically centered, and strong perspective with leading lines draws the eye toward a distant vanishing point.\n\nVisually and symbolically, it suggests the parting of the sea or a passage between darkness and light—a metaphor for choice, breakthrough, conviction, and a solitary journey. Its mood is cool, modern, and conceptual, charged with dramatic tension and a contemplative air.",
+    "gt": [
+      "A vast expanse of sea is cleaved by a straight, slightly jagged white corridor",
+      "Stretching from the bottom of the frame all the way to the horizon",
+      "A lone figure in black silhouette"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 94,
+    "name": "4094.jpg",
+    "path": "composition/4094.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \n- Tone: Monochrome in black, white, and gray; high contrast with pronounced grain, conveying an austere, cool mood.\n- Background: An arched or tunnel-like space with rough, mottled walls showing the texture of aged plaster and water stains. Multiple concentric arcs trace the vault, their edges softly haloed to form tiered rings of light.\n- Scene elements: A pillar or timber post is visible on the left. The floor and walls sit in dim light, evoking a sparse, industrial environment.\n- Composition: Lines and arc-rings lead the eye toward a central axis, creating a strong sense of depth and direction. Along the bottom, the shadowed lower half of a human face contrasts with the cold, hard space.",
+    "gt": [
+      "Multiple concentric arcs line the vaulted ceiling",
+      "The lower half features a human face"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 95,
+    "name": "4095.jpg",
+    "path": "composition/4095.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a stark black‑and‑white minimalist poster. The scene feels as if we’re looking up from the bottom of a well: rough, circular well walls surround us, and the central opening is flooded with intense white light. A metal ladder slants from the lower left to the upper right, with dramatic foreshortening; its rungs glint in the darkness. At the bright mouth of the well, a bird with outstretched wings forms a crisp silhouette midair. Vast swaths of black envelop the composition, creating an oppressive, profound, and dramatic atmosphere.",
+    "gt": [
+      "Looking up from the bottom of a well",
+      "A metal ladder slants from the lower left to the upper right",
+      "At the bright mouth of the well, a bird with outstretched wings forms a crisp silhouette"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 96,
+    "name": "4096.jpg",
+    "path": "composition/4096.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a surrealist concept poster.\n\n- In the immediate foreground sits a weathered wooden stringed instrument—somewhere between a violin and a jazz archtop guitar—complete with f-holes and a fretted fingerboard. Its finish is flaked and mottled, as if eroded by time and moss. The strings and fingerboard have been “converted” into railway tracks, with the frets serving as railroad ties, running off into the distance.\n- At the far end of the tracks, a vintage red train approaches head-on, belching tall plumes of white steam that swirl in the air. The crimson body stands out strikingly against the overall cold, damp gray-green palette.\n- The background is a fog-shrouded conifer forest with autumnal shrubs. The air is humid and hushed; the perspective is dramatic, creating a depth axis that runs from the instrument’s body to the tracks, to the train, to the billowing steam.\n- The visual contrasts are pronounced: warm amber wood tones versus the cool green forest mist; the hard, metallic rails versus the rough, gritty wood grain; human-made object and natural setting interlocking.\n- The overall mood blends nostalgia with a sense of adventure—an allegory, where melody becomes the track that guides the train through a forest of time and memory.",
+    "gt": [
+      "The strings and fingerboard are \"converted\" into railway tracks",
+      "A little red train approaches head-on"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 97,
+    "name": "4097.jpg",
+    "path": "composition/4097.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist, high-key white poster. The background is nearly pure white, and the central subject is composed mainly of white fabric, giving the whole image a soft, pristine feel. At the center is a pared-down, abstract face where the nose and mouth are visible. The left eye is a black silhouette of a boat on a lake seen bow-on, its mast rising like a cross, oriented vertically. The right eye is a side-view silhouette of a person rowing across the lake, oriented horizontally. The lower half of the composition forms a distinct V-shaped opening whose edges resemble a thick coat or shawl; inside the opening are white, layered folds—like fabric or bandages—that taper downward into an inverted triangle, creating strong textural contrast and a sense of convergence. The poster is almost devoid of text, with only a small, slender vertical line element in the upper left. Overall, it exudes a cool, restrained mood with a touch of mystery and futurism, emphasizing the visual themes of wrapping, layering, and negative space.",
+    "gt": [
+      "The right eye is a silhouette of a person rowing across the lake.",
+      "The left eye is a silhouette of a boat on the lake."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 98,
+    "name": "4098.jpg",
+    "path": "composition/4098.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster uses a double-exposure concept: the silhouette of a man sitting on a beach is fused with a fiery ocean sunset. Inside the figure is a stretch of coastline; the sun is sinking slowly toward the horizon, and golden-red light casts long reflections across the wet sand. A woman wearing a red headscarf sits at the water’s edge with her back to the viewer, quietly gazing at the sunset. In the far right distance, the silhouettes of palm trees and a headland are visible, with a few birds circling in the sky. The palette is dominated by red, orange, and black, with a rich interplay of light and shadow that creates a tranquil, nostalgic mood tinged with longing. Portrait and landscape are interwoven, as if the inner world were being projected as a scene. In the foreground, the man’s bare feet and rolled-up jeans heighten the realism of the beach setting.",
+    "gt": [
+      "The silhouette of a man sitting on the beach is fused with a fiery ocean sunset.",
+      "Inside the figure's body is a stretch of coastline.",
+      "A woman, her back to the viewer, sits quietly at the water's edge, gazing at the setting sun."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 99,
+    "name": "4099.jpg",
+    "path": "composition/4099.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster presents transformation and potential through a striking metaphor.\n\n- Main subject: A wooden chess pawn sits on a wooden table. Resting on the pawn’s top is a pale green caterpillar with eye-like markings.\n- On the right stands a slightly tilted, wood-framed mirror. In the reflection, the same pawn is topped by an orange butterfly edged in black.\n- Lighting and mood: Soft, warm light falls in from the left; the background is gently blurred; the tabletop and pawn show mellow wood tones. The overall feel is serene and poetic.\n- Composition and contrast: The real caterpillar and the butterfly in the mirror form a vivid contrast. The ordinary pawn echoes the chess idea of promotion, reinforcing the theme of rising from the ordinary to the extraordinary.\n- Symbolism:\n  - Growth and metamorphosis: the caterpillar-to-butterfly life cycle.\n  - Self-knowledge and belief: the “better self” in the mirror represents the possibilities within.\n  - Potential and breakthrough: a pawn’s promotion in chess symbolizes that any starting point can rise to a higher rank.\n\nOptional copy lines:\n- “See your better self.”\n- “A caterpillar now, a butterfly next.”\n- “Humble start, extraordinary metamorphosis.”\n- “Believe in your potential. Embrace change.”\n- “Every move is a prelude to promotion.”",
+    "gt": [
+      "A pale green caterpillar with eye-like markings rests atop the chess pawn",
+      "In the mirror, an orange butterfly edged in black is perched atop the same pawn"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 100,
+    "name": "4100.jpg",
+    "path": "composition/4100.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster adopts a dreamy double-exposure style: an expansive landscape is layered within the translucent silhouette of a beautiful, black-haired woman rendered at monumental scale. The sky sits at dawn or dusk, shifting from cool teal to golden orange beneath soft clouds. In the distance, rolling ridgelines and river valleys and fields are swathed in mist and dotted with sparse trees. In the foreground, a backpacker stands on a jutting rock with his back to the viewer, gazing out; his figure is rim-lit by the orange afterglow. Within the silhouette, the same mountains and rivers unfold, with the sun sinking on the horizon. The composition uses a cinematic teal-and-orange grade, its strong cool–warm contrast evoking a mood of travel, exploration, and introspection.",
+    "gt": [
+      "a huge translucent silhouette",
+      "a backpacker stands on a jutting rock",
+      "inside the silhouette, the mountains and rivers are visible, with the sun setting on the horizon"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 101,
+    "name": "4101.jpg",
+    "path": "composition/4101.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster suffused with a sense of fantasy. At its center stands a “staircase” built from thick, heavy volumes, rising from the ground all the way up to an open door at the top, from which a warm golden light spills. The book spines vary in color, stacked layer upon layer to form a towering column; a long ladder leans against this book tower, inviting people to climb. A small figure stands at the threshold, bathed in light, as if about to step into a new world.\n\nThe background is a night sky that shifts from deep blue to indigo, dotted with a crescent moon and stars. In the distance, hot-air balloons drift among the clouds, creating a dreamlike atmosphere. The ground resembles a wooden platform, scattered with loose pages and small piles of books. A few miniature figures bustle at the base, further emphasizing the monumental scale of the tower.\n\nThe colors set a vivid contrast between cool and warm tones: the blues and purples of the sky and the books echo the golden glow pouring from the doorway, naturally drawing the eye upward to the radiant door. The composition is dominated by vertical lines, reinforcing the imagery of ascent and passage.\n\nThe theme is clear: books and knowledge are the steps to a broader world, and reading can open doors to light and the unknown. The overall style leans toward illustration and fantasy—gentle and reassuring yet motivational—making it well suited for posters promoting reading, education, or the pursuit of dreams.",
+    "gt": [
+      "In the center of the poster, a long ladder leans against the book tower, stretching up from the ground.",
+      "At the top, a door stands open, with warm golden light spilling out from within."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 102,
+    "name": "4102.jpg",
+    "path": "composition/4102.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster presents a surreal scene: a person with their back to the viewer stands in a wild, overgrown field of weeds and wildflowers, gazing up at the sky. Above, clouds and mist, swept by the wind, spiral into a vast vortex. Concentric rings recede into the distance, creating tunnel-like depth. Dozens of ravens wheel within the vortex, their plumage a blue-black that catches a cold sheen in the play of light and shadow. There’s a powerful sense of motion, as if they’re being drawn toward the center by an unseen force.\n\n- Composition: A vertical format. The circular paths of the birds and clouds lead the eye toward the center; the figure is placed low and near center, setting up a visual path of “look up - drawn in - converge.”\n- Palette: Dominated by gray-green, blue-gray, and inky black, with cool, subdued tones that create a brooding, mysterious mood. The grasses on the ground carry touches of brown-green and pale beige, lending a natural note.\n- Texture and style: An illustrative blend of realism and fantasy. Soft brushwork and a hazy, oil-paint-like glow give the vortex a dreamlike quality.\n- Mood and imagery: It holds both a tranquil stillness and the tension of being swept in. The ravens suggest omens, transformation, or an unknown summons, and the vortex feels like a doorway to another world.\n\nOverall, the effect is mysterious and richly narrative, like a fable about self-discovery or crossing a boundary.",
+    "gt": [
+      "A massive vortex, with concentric rings receding into the distance",
+      "Dozens of ravens wheel within the vortex"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 103,
+    "name": "4103.jpg",
+    "path": "composition/4103.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster exudes a surreal aura. Rendered in cool ice blue and pearly white, with soft, diffused light, it evokes a high-key, low-saturation dreamscape.\n\n- Theme and setting: A colossal white ship bursts through billowing layers of a sea of clouds, as if sailing the sky. It combines the masts and rigging of an old sailing vessel with the streamlined form of a modern luxury liner, wondrously fusing sea and sky.\n- Composition and sense of scale: In a vertical composition, the great ship cuts diagonally from lower left to upper right, creating a strong upward momentum. On a rocky platform below, a solitary figure in a white cloak gazes up at the ship; their tiny silhouette underscores the scene’s grandeur and mystery.\n- Details and texture: Cloudbanks are thick as cotton, at once like surf and like mist; the rock surface is weathered pale gray with a frosted feel; the ship’s hull is pristine white with intricate lines; masts and rigging are half-veiled in the clouds.\n- Atmosphere and mood: Serene, solemn, awe-inspiring. It carries the epic sense of expedition and departure, while also suggesting pilgrimage, ascension, and transcendence.\n- Imagery and symbolism: By layering seafaring with the sky, it hints at exploring the unknown, pursuing ideals, and journeying from the mundane into a higher realm.\n\nSuggested:\n- Vessel in theouds\n- Skyward\n- Bey",
+    "gt": [
+      "A colossal white ship bursts through billowing layers of a sea of clouds",
+      "On the rocky platform below, a solitary figure in a white cloak gazes up at the great ship"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 104,
+    "name": "4104.jpg",
+    "path": "composition/4104.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis poster is themed around an autumn forest. At its center runs a woodland path carpeted with fallen leaves; the gray surface peeks through the golden and russet foliage. The path stretches ahead and curves gently into the depths of the woods. Tall trunks stand on either side, their branches heavy with golden leaves. Sunlight filters through the trees, casting a warm golden glow and long shadows.\n\nWhat draws the eye most are the shadows of two people in the middle of the path, as if they were the viewer’s own, extending upward from the bottom of the frame. Lengthened by the low-angled sun, they mingle with the surrounding tree shadows, creating a quiet, romantic mood. A lamppost on the right hints that this is a park or woodland trail. The overall palette is warm and soft, full of autumn’s atmosphere and a touch of nostalgia—like a leisurely fall stroll—conveying themes of companionship, nature, and tranquility.",
+    "gt": [
+      "At the center are the shadows of two people."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 105,
+    "name": "4105.jpg",
+    "path": "composition/4105.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is an art poster centered on a half-length figure, rendered in a collage and decorative style.\n\n- The head is wrapped in blue-black fabric or a headscarf, densely adorned with curvilinear calligraphy and motifs.\n- A golden earring by the ear is set with red and green gemstones.\n- A realistic sparrow perches on the left shoulder.\n- The clothing and chest area feature a floral ground in orange-red, soft pinks, and emerald green, overlaid with black and magenta calligraphic lines, geometric symbols (such as a six-pointed star lattice), small insect motifs, and checkerboard patches.\n- A chain adorns the neck: at the top, a red circular gemstone with black metalwork; below, an amulet-like pendant with a green, glass-like sheen, linked to a rectangular plaque densely covered with fine script. Ink-like curves and teardrop-shaped elements extend around it.\n- The right sleeve bears an abstract ripple pattern in blue and magenta, accented with blossoms.\n- The background is a simple light gray, highlighting the subject’s colors and textures.\n\nThe overall palette is vivid, blending Middle Eastern/Persian calligraphy with floral and jeweled elements, and evoking a sense of mystique and cultural ornamentation.",
+    "gt": [
+      "Collage and Decorative Style"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 106,
+    "name": "4106.jpg",
+    "path": "composition/4106.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a high-contrast black-and-white abstract poster. The upper portion is a pitch-black expanse; at the horizon, a semicircular light source peeks out, like a sun or moon rising or setting. Below, a “path of light” stretches from the foreground into the distance, formed by dense black-and-white rippling lines that resemble fingerprints or contour lines. They coil and undulate, like shimmering reflections on water. The lines are thicker and more tightly spaced in the foreground, then thin out and gradually converge toward the distance, creating a strong sense of perspective and depth. The overall style leans toward psychedelic geometric Op Art—minimalist and mysterious—evoking the feeling of being led through the darkness by a flowing ribbon of light into the distance.",
+    "gt": [
+      "A semicircular light source peeks out at the horizon",
+      "Dense black-and-white rippling lines"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 107,
+    "name": "4107.jpg",
+    "path": "composition/4107.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a Modernist poster defined by high-contrast black and white.\n\n- Background and border: A narrow gray frame runs around the edges, enclosing a solid black field.\n- Main visual: Oversized white lowercase sans-serif letters stack, overlap, misalign, and are cropped from top to bottom, forming a fragmented reading of “type spaces.” The letterforms are bold, rounded, and layered over one another to create a strong sense of depth and spatial hierarchy. Some characters are cut off by the edges of the poster, emphasizing the idea of type occupying space.\n- Composition and rhythm: The title letters align vertically along the central axis, setting a top-to-bottom cadence. The figure–ground tension (white type against a black field) creates depth and dynamism. Reading is deliberately interrupted, compelling viewers to move in close.\n- Color and tone: Strictly black and white—minimal, crisp, and rational—with a distinctly Swiss/Modernist graphic design sensibility.\n- Information area: At the bottom, very small white type is set in several columns with exhibition details, including dates (Dec, 2012), the theme “Typography,” and the Museum, address and contact information.\n\nOverall, it treats text as volumetric forms in space. Through contrasts of scale, cropping, and overlap, it creates visual tension and curiosity, echoing the theme “Type Spaces.”",
+    "gt": [
+      "Letters are cropped and misaligned",
+      "Top-to-bottom orientation"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 108,
+    "name": "4108.jpg",
+    "path": "composition/4108.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster rendered in the style of a book cover—cool, minimalist, and strongly symbolic.\n\n- The background is a pale gray city map with recognizable street names such as Heras, Fe, and “Cemenecoleta,”.\n- In the upper right corner, a transparent glass ink bottle has been tipped over, with black ink spilling from its mouth. The ink spreads across the map, forming thick black masses that resemble a street grid. In places it’s pocked with droplets and holes, evoking a sense of contamination, erosion, or the city being rewritten.\n- Near the top is a small blue mark reading “znk”.\n- The lower half carries the title and author details: “Ernesto Sábato” is centered in larger blue serif type; the subtitle is in Polish, “Abaddon – anioł zagłady,” meaning “Abaddon—the Angel of Destruction.” At the bottom, small lettering reads “50 na 50,” with fine line ornaments.\n- Along the left edge runs a decorative vertical band made of densely spaced blue dots, adding rhythm and texture.\n- The palette is dominated by white, gray, and black, with cool blue lettering that creates a restrained, austere visual tone.\n- The composition overlays spilled ink with the city map.",
+    "gt": [
+      "The background is a pale gray city map",
+      "The ink spreads across the map, forming thick black masses that resemble a street grid"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 109,
+    "name": "4109.jpg",
+    "path": "composition/4109.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a black line poster on a white background—more like a collection of icons—centered on the theme of wind/airflow. The whole set is drawn with clean vector linework. The icons are arranged in a centered 4×4 grid, for 16 symbols in total, each using curves, swirls, ripples, and arrows to express the movement of air.\n\n- Colors and style: solid black strokes, no fills, uniform stroke weight; minimal and modern.\n- Layout: four rows and four columns, ample whitespace between icons, a clean composition.\n- Content overview:\n  - Row 1: a wavy line with an arrow; a gust with a spiral; cloud-like airflow; wind lines curled on one side.\n  - Row 2: a curled gust; a funnel-shaped tornado; wind with three swirls; a spiraling wave crest.\n  - Row 3: wind-and-cloud with multiple swirls; three ripple lines (air/water waves); a cloud-and-wind combo; three simplified wind lines.\n  - Row 4: a windsock (wind direction indicator); a small tornado; three wind lines with arrows indicating direction; a spiral wind symbol.\n- Theme and use: conveys concepts like breeze, strong wind, airflow direction, storm, and ventilation. Suitable for weather icons, environmental signage, app UI, infographics, or poster design to represent wind, air movement, and intensity.",
+    "gt": [
+      "A 4×4 grid with 16 symbols"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 110,
+    "name": "4110.jpg",
+    "path": "composition/4110.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a collage poster composed of a nine-panel grid, themed “Natural Materials and Textures.” Each panel is a close-up photograph showcasing the textures and the interplay of light and shadow on natural surfaces.\n\n- Top left: stacks of split firewood, the surfaces dusted with frost or sawdust; tawny browns interlaced with pale grays.\n- Top center: backlit palm or fan leaves with sharp, overlapping blades; the green stands in strong contrast against a soft, luminous backlight.\n- Top right: wet beach sand left by the receding tide, with white wave lines tracing gentle, curving boundaries.\n- Middle left: a cross-section of tree rings, alternating light and dark grain forming a swirling pattern.\n- Center: large, deep-green broad leaves (banana-like), veins clearly defined, lightly beaded with moisture or dew; the overall tone is on the darker side.\n- Middle right: wind-sculpted ripples on desert dunes; raking sidelight turns the waves into distinct bands of light and shadow.\n- Bottom left: a fracture face or stack of pale off-white rock slabs, with sharp edges and crisp layering.\n- Bottom center: slate or stone showing both rust orange and deep gray; a rough surface mottled with mineral patches.\n- Bottom right: the broken surface of white porous rock or chalk, with fine, fragmented shadows and undulating texture.\n\nThe overall palette leans into earth tones—browns, sand, deep green, gray, and ivory—emphasizing the textures and order of four natural elements: wood, leaves, sand, and stone. There is no text on the image; it foregrounds the beauty and tactility of the materials themselves, conveying a calm, elemental, nature-connected atmosphere. It suits use as a mood board/visual inspiration or for themes related to nature, sustainability, and raw materials.",
+    "gt": [
+      "A collage poster composed of a nine-panel grid"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 111,
+    "name": "4111.jpg",
+    "path": "composition/4111.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a promotional poster themed around vintage insect illustrations.\n\n- Theme and text: “Canva” is written at the top in a handwritten script, with “FRYWORD” beneath it. In the center there’s a search bar showing the keyword “sxoBo,” with a magnifying-glass icon on the right, suggesting you can search Canva for a free elements collection.\n- Background and palette: A warm beige background, with all insect illustrations and text in a deep ink green, creating a vintage scientific-illustration feel.\n- Layout: The main body features 12 black-and-white insect line drawings arranged in 3 columns by 4 rows.\n  - Row 1: Left, a butterfly with wings spread; center, a bee; right, a rhinoceros or stag beetle.\n  - Row 2: Left, a ladybird (ladybug); center, a small spotted butterfly; right, a patterned moth.\n  - Row 3: Left, a butterfly with intricate textures; center, a striped beetle; right, a dragonfly.\n  - Row 4: Left, a hairy moth; center, a pale, delicate butterfly; right, a large beetle or a ladybird-type insect.\n- Style and purpose: Fine, delicate linework in a symmetrical arrangement, reminiscent of old natural history plates, used to showcase a set of insect illustration elements on Canva that can be found for free via search.",
+    "gt": [
+      "Black-and-white insect line drawings arranged in 3 columns by 4 rows"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 112,
+    "name": "4112.jpg",
+    "path": "composition/4112.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist poster.” At the top center, the title appears in uppercase English: “BI SILHOUETTE SET.” Below, nine black bird silhouettes are arranged on a white background in a three-by-three grid, each showing a different flight posture and wing spread:\n\n- First row: wings mostly raised or swept back, with sharp, angular lines that convey a sense of speed.\n- Second row: rounder body shapes, with some wings pressing downward and others reaching forward, resembling pigeons or small birds mid-flap.\n- Third row: more decorative forms, with exaggerated tail feathers and wingtips, most oriented to the right, reminiscent of logo or icon-style designs.\n\nOverall, it’s a high-contrast black-and-white set of vector silhouettes with crisp edges and a balanced, orderly layout, suitable for use as an icon set or decorative graphics.",
+    "gt": [
+      "three rows and three columns"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 113,
+    "name": "4113.jpg",
+    "path": "composition/4113.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a poster that combines minimalism with a collage aesthetic. The background is light gray, and at the center is a composition built around a black-and-white portrait: it faces forward, but is deconstructed with segmented, offset cuts that reveal step-like slices of the profile. High-saturation geometric color blocks—primarily orange and magenta—are embedded in these cuts, creating a striking contrast between black-and-white and neon hues. A soft shadow beneath the portrait enhances the sense of floating and depth.\n\nThe text elements are arranged with clean simplicity:\n- Top left: DIVIOP\n- Top right: 196\n- Left vertical: APRIL 13, 2017\n- Right vertical: MAKE A POSTER DAY\n- Bottom center: BY OPEZ\n\nOverall, the design conveys a theme of splitting/deconstruction (“Dividido” means “divided” in Spanish). Ample negative space highlights the central subject, while color accents underscore a modern, futuristic, and experimental feel. The layout is restrained and the information is clear. This reflecting the artist’s exploration of merging portraiture with geometric forms.",
+    "gt": [
+      "The portrait is segmented",
+      "High-saturation color blocks are embedded in the cuts"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 114,
+    "name": "4114.jpg",
+    "path": "composition/4114.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist, predominantly black-and-white film poster with intense visuals and emotion.\n\n- The upper half shows a vast silhouette of black birds in flight, filling the sky and evoking oppression and unease.\n- A large swath of negative space occupies the center, bearing the words “I WANT”, with logos beside it.\n- The lower half is cleaved by a diagonal, “scorched” tear; its ripped edge is rimmed with an orange, flame-like glow, like paper burned open—also like a wound left by war.\n- At the bottom is a black-and-white half-length portrait of a short-haired boy gazing up at the sky. He wears shoulder straps or a backpack, his expression intent yet vacant. Scattered black specks around him resemble ash or bits of paper drifting through the air.\n- Just below center sits the Korean title “페인티드” along with the release date “2020.03”; above the title and along the bottom runs a line of small print listing the cast and creative team.\n\nOverall style:\n- Color: Mainly black, white, and gray, with only a touch of orange along the burned, torn edge.\n- Composition: Top-heavy, with the flock of birds set against an expanse of blank space; a diagonal scorch cuts through the image, creating strong narrative tension.\n- Mood and symbolism: The bird swarm echoes the title; the scorched fissure suggests war and trauma; “I want to go home” underscores the theme of displacement; the boy’s upward gaze conveys helplessness and longing.",
+    "gt": [
+      "The upper half shows a vast silhouette of black birds in flight.",
+      "The lower half is cleaved by a diagonal, scorched tear.",
+      "At the bottom is a black-and-white half-length portrait of a short-haired boy gazing up at the sky."
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 115,
+    "name": "4115.jpg",
+    "path": "composition/4115.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThis is a minimalist black-and-white poster with a clean light gray background. A cutout of white hands lifts upward from the bottom; in the gap between the hands is a face with closed eyes. The artist’s signature appears in the lower right corner.",
+    "gt": [
+      "A cutout of white hands rises from the bottom",
+      "In the gap between the hands is a human face"
+    ]
+  },
+  {
+    "task": "poster composition",
+    "id": 116,
+    "name": "4116.jpg",
+    "path": "composition/4116.jpg",
+    "prompt": "Please generate a 2:3 aspect ratio poster with the following composition: \nThe poster features a warm beige background, with the upper half of a person centered in the frame. The subject wears a vibrant patchwork-print shirt with the collar buttoned up. At the neck is a black rectangular device secured by a neon green perforated watch strap, with white wired earphones hanging beside it. Letters projected across the face spell “Set About No,” blending into the facial contours. Bold white block letters—G, M, and A—are overlaid around the edges, with “2017” set vertically along the left side. A circular emblem in the top right bears the text “Gold8,” pointing to the 28th Golden Melody Awards. Overall, the design mixes retro and tech vibes, with a bold color palette and modern typography.",
+    "gt": [
+      "Letters are projected across the face in a staggered pattern"
+    ]
+  }
+]

@@ -1,0 +1,3602 @@
+[
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Acme-Regular_3.png",
+        "path": "font_matching1/Acme-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Acme-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "AdventPro-SemiBold_7.png",
+        "path": "font_matching1/AdventPro-SemiBold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "AdventPro-SemiBold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Aldrich_8.png",
+        "path": "font_matching1/Aldrich_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Aldrich"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Alegreya-BoldItalic_8.png",
+        "path": "font_matching1/Alegreya-BoldItalic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Alegreya-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "AllertaStencil-Regular_0.png",
+        "path": "font_matching1/AllertaStencil-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "AllertaStencil-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Amethysta-Regular_2.png",
+        "path": "font_matching1/Amethysta-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Amethysta-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Andada-Bold_7.png",
+        "path": "font_matching1/Andada-Bold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Andada-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Andada-Italic_7.png",
+        "path": "font_matching1/Andada-Italic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Andada-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "AndadaSC-Bold_8.png",
+        "path": "font_matching1/AndadaSC-Bold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "AndadaSC-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "AnonymousPro_4.png",
+        "path": "font_matching1/AnonymousPro_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "AnonymousPro"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "ArchivoNarrow-Regular_7.png",
+        "path": "font_matching1/ArchivoNarrow-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "ArchivoNarrow-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "ArialRoundedMTBold_2.png",
+        "path": "font_matching1/ArialRoundedMTBold_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "ArialRoundedMTBold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "ArialUnicodeMS_4.png",
+        "path": "font_matching1/ArialUnicodeMS_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "ArialUnicodeMS"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Arimo-BoldItalic_4.png",
+        "path": "font_matching1/Arimo-BoldItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Arimo-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Arimo-Bold_3.png",
+        "path": "font_matching1/Arimo-Bold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Arimo-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Arizonia-Regular_1.png",
+        "path": "font_matching1/Arizonia-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Arizonia-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "ARSMaquetteWebOne_3.png",
+        "path": "font_matching1/ARSMaquetteWebOne_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "ARSMaquetteWebOne"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Arvo-BoldItalic_6.png",
+        "path": "font_matching1/Arvo-BoldItalic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Arvo-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Arvo-Bold_2.png",
+        "path": "font_matching1/Arvo-Bold_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Arvo-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Arvo-Italic_7.png",
+        "path": "font_matching1/Arvo-Italic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Arvo-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Asap-Regular_7.png",
+        "path": "font_matching1/Asap-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Asap-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Asset_7.png",
+        "path": "font_matching1/Asset_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Asset"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Astloch-Bold_3.png",
+        "path": "font_matching1/Astloch-Bold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Astloch-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "AveriaLibre-LightItalic_4.png",
+        "path": "font_matching1/AveriaLibre-LightItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "AveriaLibre-LightItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "AveriaSansLibre-Italic_2.png",
+        "path": "font_matching1/AveriaSansLibre-Italic_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "AveriaSansLibre-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "AveriaSerifLibre-Italic_8.png",
+        "path": "font_matching1/AveriaSerifLibre-Italic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "AveriaSerifLibre-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "BadScript-Regular_7.png",
+        "path": "font_matching1/BadScript-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "BadScript-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Bello-Pro_0.png",
+        "path": "font_matching1/Bello-Pro_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Bello-Pro"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "BenchNine-Regular_2.png",
+        "path": "font_matching1/BenchNine-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "BenchNine-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Bentham-Regular_4.png",
+        "path": "font_matching1/Bentham-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Bentham-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Bevan_7.png",
+        "path": "font_matching1/Bevan_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Bevan"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "BilboSwashCaps-Regular_5.png",
+        "path": "font_matching1/BilboSwashCaps-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "BilboSwashCaps-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "BlackOpsOne-Regular_1.png",
+        "path": "font_matching1/BlackOpsOne-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "BlackOpsOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "BowlbyOneSC-Regular_1.png",
+        "path": "font_matching1/BowlbyOneSC-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "BowlbyOneSC-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Brevia-Regular_2.png",
+        "path": "font_matching1/Brevia-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Brevia-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "BubblerOne_4.png",
+        "path": "font_matching1/BubblerOne_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "BubblerOne"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Buenard-Bold_8.png",
+        "path": "font_matching1/Buenard-Bold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Buenard-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Cabin-SemiBoldItalic_4.png",
+        "path": "font_matching1/Cabin-SemiBoldItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Cabin-SemiBoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "CabinCondensed-Medium_6.png",
+        "path": "font_matching1/CabinCondensed-Medium_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "CabinCondensed-Medium"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "CabinCondensed_1.png",
+        "path": "font_matching1/CabinCondensed_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "CabinCondensed"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Calluna-Regular_1.png",
+        "path": "font_matching1/Calluna-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Calluna-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Cantarell-BoldOblique_2.png",
+        "path": "font_matching1/Cantarell-BoldOblique_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Cantarell-BoldOblique"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "CantoraOne-Regular_7.png",
+        "path": "font_matching1/CantoraOne-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "CantoraOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Cardo-Italic_5.png",
+        "path": "font_matching1/Cardo-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Cardo-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "CenturyGothic_4.png",
+        "path": "font_matching1/CenturyGothic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "CenturyGothic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Chivo-Italic_5.png",
+        "path": "font_matching1/Chivo-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Chivo-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "ClickerScript-Regular_6.png",
+        "path": "font_matching1/ClickerScript-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "ClickerScript-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "CrimsonText-BoldItalic_3.png",
+        "path": "font_matching1/CrimsonText-BoldItalic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "CrimsonText-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "CrimsonText-Semibold_3.png",
+        "path": "font_matching1/CrimsonText-Semibold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "CrimsonText-Semibold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Damion_2.png",
+        "path": "font_matching1/Damion_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Damion"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Dosis-Light_7.png",
+        "path": "font_matching1/Dosis-Light_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Dosis-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "EagleLake-Regular_2.png",
+        "path": "font_matching1/EagleLake-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "EagleLake-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Economica-Italic_0.png",
+        "path": "font_matching1/Economica-Italic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Economica-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "EmblemaOne-Regular_8.png",
+        "path": "font_matching1/EmblemaOne-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "EmblemaOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Enriqueta-Regular_4.png",
+        "path": "font_matching1/Enriqueta-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Enriqueta-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "FanwoodText-Italic_6.png",
+        "path": "font_matching1/FanwoodText-Italic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "FanwoodText-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Fenix_7.png",
+        "path": "font_matching1/Fenix_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Fenix"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "FingerPaint_3.png",
+        "path": "font_matching1/FingerPaint_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "FingerPaint"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "FrancoisOne-Regular_8.png",
+        "path": "font_matching1/FrancoisOne-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "FrancoisOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "FredokaOne-Regular_3.png",
+        "path": "font_matching1/FredokaOne-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "FredokaOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Frijole_0.png",
+        "path": "font_matching1/Frijole_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Frijole"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Futura-Medium_0.png",
+        "path": "font_matching1/Futura-Medium_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Futura-Medium"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GEInspira_1.png",
+        "path": "font_matching1/GEInspira_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "GEInspira"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GentiumBasic-BoldItalic_0.png",
+        "path": "font_matching1/GentiumBasic-BoldItalic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "GentiumBasic-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GentiumBasic-Bold_0.png",
+        "path": "font_matching1/GentiumBasic-Bold_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "GentiumBasic-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GentiumBasic_7.png",
+        "path": "font_matching1/GentiumBasic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "GentiumBasic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GFSDidot-Regular_1.png",
+        "path": "font_matching1/GFSDidot-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "GFSDidot-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GFSNeohellenic-Italic_7.png",
+        "path": "font_matching1/GFSNeohellenic-Italic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "GFSNeohellenic-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GillSansStd-BoldItalic_0.png",
+        "path": "font_matching1/GillSansStd-BoldItalic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "GillSansStd-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GillSansStd-Bold_6.png",
+        "path": "font_matching1/GillSansStd-Bold_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "GillSansStd-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GillSansStd_3.png",
+        "path": "font_matching1/GillSansStd_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "GillSansStd"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GoudyBookletter1911_6.png",
+        "path": "font_matching1/GoudyBookletter1911_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "GoudyBookletter1911"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "GreatVibes-Regular_6.png",
+        "path": "font_matching1/GreatVibes-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "GreatVibes-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "HeadlandOne-Regular_2.png",
+        "path": "font_matching1/HeadlandOne-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "HeadlandOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "HoeflerText-Regular_1.png",
+        "path": "font_matching1/HoeflerText-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "HoeflerText-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Iceland-Regular_4.png",
+        "path": "font_matching1/Iceland-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Iceland-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "IM_FELL_English_Roman_2.png",
+        "path": "font_matching1/IM_FELL_English_Roman_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "IM"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "IM_FELL_French_Canon_Roman_6.png",
+        "path": "font_matching1/IM_FELL_French_Canon_Roman_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "IM"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Inconsolata-Regular_5.png",
+        "path": "font_matching1/Inconsolata-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Inconsolata-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "IstokWeb-Bold_0.png",
+        "path": "font_matching1/IstokWeb-Bold_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "IstokWeb-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "JosefinSans-SemiBoldItalic_1.png",
+        "path": "font_matching1/JosefinSans-SemiBoldItalic_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "JosefinSans-SemiBoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Julee-Regular_4.png",
+        "path": "font_matching1/Julee-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Julee-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Jura-Light_2.png",
+        "path": "font_matching1/Jura-Light_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Jura-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "JustAnotherHand-Regular_6.png",
+        "path": "font_matching1/JustAnotherHand-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "JustAnotherHand-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "KellySlab-Regular_3.png",
+        "path": "font_matching1/KellySlab-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "KellySlab-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Kenia-Regular_5.png",
+        "path": "font_matching1/Kenia-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Kenia-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Lato-BlackItalic_0.png",
+        "path": "font_matching1/Lato-BlackItalic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Lato-BlackItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Lato-BoldItalic_0.png",
+        "path": "font_matching1/Lato-BoldItalic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Lato-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Lato-Italic_4.png",
+        "path": "font_matching1/Lato-Italic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Lato-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "LeagueGothic_3.png",
+        "path": "font_matching1/LeagueGothic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "LeagueGothic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Lekton-Italic_2.png",
+        "path": "font_matching1/Lekton-Italic_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Lekton-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "LifeSavers-Bold_3.png",
+        "path": "font_matching1/LifeSavers-Bold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "LifeSavers-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "LobsterTwo-Italic_5.png",
+        "path": "font_matching1/LobsterTwo-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "LobsterTwo-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Lobster_8.png",
+        "path": "font_matching1/Lobster_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Lobster"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Lora-BoldItalic_4.png",
+        "path": "font_matching1/Lora-BoldItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Lora-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "LucidaSansStd_7.png",
+        "path": "font_matching1/LucidaSansStd_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "LucidaSansStd"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Magra-Bold_8.png",
+        "path": "font_matching1/Magra-Bold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Magra-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "MarckScript-Regular_2.png",
+        "path": "font_matching1/MarckScript-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "MarckScript-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Marvel-BoldItalic_4.png",
+        "path": "font_matching1/Marvel-BoldItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Marvel-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Marvel-Bold_5.png",
+        "path": "font_matching1/Marvel-Bold_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Marvel-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "MavenProBlack_8.png",
+        "path": "font_matching1/MavenProBlack_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "MavenProBlack"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Megrim_2.png",
+        "path": "font_matching1/Megrim_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Megrim"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "MergeOne-Regular_7.png",
+        "path": "font_matching1/MergeOne-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "MergeOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Merriweather-Bold_1.png",
+        "path": "font_matching1/Merriweather-Bold_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Merriweather-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Merriweather_4.png",
+        "path": "font_matching1/Merriweather_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Merriweather"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "MervaleScript-Regular_5.png",
+        "path": "font_matching1/MervaleScript-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "MervaleScript-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Milonga-Regular_6.png",
+        "path": "font_matching1/Milonga-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Milonga-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "ModernAntiqua-Regular_4.png",
+        "path": "font_matching1/ModernAntiqua-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "ModernAntiqua-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Montez-Regular_0.png",
+        "path": "font_matching1/Montez-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Montez-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Muli-Light_0.png",
+        "path": "font_matching1/Muli-Light_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Muli-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Muli_7.png",
+        "path": "font_matching1/Muli_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Muli"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "NanumGothicCoding-Bold_6.png",
+        "path": "font_matching1/NanumGothicCoding-Bold_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "NanumGothicCoding-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Neuton-Light_0.png",
+        "path": "font_matching1/Neuton-Light_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Neuton-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Niconne-Regular_1.png",
+        "path": "font_matching1/Niconne-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Niconne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Nobile-MediumItalic_7.png",
+        "path": "font_matching1/Nobile-MediumItalic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Nobile-MediumItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Nobile-Medium_4.png",
+        "path": "font_matching1/Nobile-Medium_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Nobile-Medium"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "NovaRound_7.png",
+        "path": "font_matching1/NovaRound_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "NovaRound"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "OFLGoudyStMTT_4.png",
+        "path": "font_matching1/OFLGoudyStMTT_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "OFLGoudyStMTT"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Oldenburg-Regular_4.png",
+        "path": "font_matching1/Oldenburg-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Oldenburg-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "OldStandardTT-Regular_3.png",
+        "path": "font_matching1/OldStandardTT-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "OldStandardTT-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "OpenSans-CondensedLight_7.png",
+        "path": "font_matching1/OpenSans-CondensedLight_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "OpenSans-CondensedLight"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Oranienbaum-Regular_8.png",
+        "path": "font_matching1/Oranienbaum-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Oranienbaum-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Orbitron-Black_2.png",
+        "path": "font_matching1/Orbitron-Black_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Orbitron-Black"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Orbitron-Medium_5.png",
+        "path": "font_matching1/Orbitron-Medium_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Orbitron-Medium"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "OriginalSurfer-Regular_6.png",
+        "path": "font_matching1/OriginalSurfer-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "OriginalSurfer-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Oswald-Bold_3.png",
+        "path": "font_matching1/Oswald-Bold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Oswald-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Oswald-Regular_7.png",
+        "path": "font_matching1/Oswald-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Oswald-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Overlock-Italic_5.png",
+        "path": "font_matching1/Overlock-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Overlock-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Palatino-Roman_8.png",
+        "path": "font_matching1/Palatino-Roman_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Palatino-Roman"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Paprika-Regular_7.png",
+        "path": "font_matching1/Paprika-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Paprika-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Parisienne-Regular_3.png",
+        "path": "font_matching1/Parisienne-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Parisienne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "PasseroOne-Regular_5.png",
+        "path": "font_matching1/PasseroOne-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "PasseroOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Philosopher_8.png",
+        "path": "font_matching1/Philosopher_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Philosopher"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "PlayfairDisplay-Black_8.png",
+        "path": "font_matching1/PlayfairDisplay-Black_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "PlayfairDisplay-Black"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "PlayfairDisplay-Italic_6.png",
+        "path": "font_matching1/PlayfairDisplay-Italic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "PlayfairDisplay-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "PlayfairDisplaySC-BoldItalic_1.png",
+        "path": "font_matching1/PlayfairDisplaySC-BoldItalic_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "PlayfairDisplaySC-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "PressStart2P-Regular_5.png",
+        "path": "font_matching1/PressStart2P-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "PressStart2P-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "PTSans-Caption_4.png",
+        "path": "font_matching1/PTSans-Caption_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "PTSans-Caption"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "PTSerif-BoldItalic_0.png",
+        "path": "font_matching1/PTSerif-BoldItalic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "PTSerif-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Puritan-Bold_7.png",
+        "path": "font_matching1/Puritan-Bold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Puritan-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "QuattrocentoSans-Italic_8.png",
+        "path": "font_matching1/QuattrocentoSans-Italic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "QuattrocentoSans-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "RacingSansOne-Regular_2.png",
+        "path": "font_matching1/RacingSansOne-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "RacingSansOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Raleway-Bold_3.png",
+        "path": "font_matching1/Raleway-Bold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Raleway-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Raleway-SemiBold_7.png",
+        "path": "font_matching1/Raleway-SemiBold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Raleway-SemiBold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Rambla-Regular_5.png",
+        "path": "font_matching1/Rambla-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Rambla-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Ranchers-Regular_6.png",
+        "path": "font_matching1/Ranchers-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Ranchers-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Rationale-Regular_0.png",
+        "path": "font_matching1/Rationale-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Rationale-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Redressed_4.png",
+        "path": "font_matching1/Redressed_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Redressed"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Roboto-Black_8.png",
+        "path": "font_matching1/Roboto-Black_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Roboto-Black"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Roboto-Light_8.png",
+        "path": "font_matching1/Roboto-Light_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Roboto-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Roboto-MediumItalic_6.png",
+        "path": "font_matching1/Roboto-MediumItalic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Roboto-MediumItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Roboto-Regular_3.png",
+        "path": "font_matching1/Roboto-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Roboto-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "RobotoCondensed-Light_5.png",
+        "path": "font_matching1/RobotoCondensed-Light_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "RobotoCondensed-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "RobotoCondensed-Regular_5.png",
+        "path": "font_matching1/RobotoCondensed-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "RobotoCondensed-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Rokkitt-Light_0.png",
+        "path": "font_matching1/Rokkitt-Light_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Rokkitt-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Rokkitt_1.png",
+        "path": "font_matching1/Rokkitt_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Rokkitt"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "RopaSans-Regular_5.png",
+        "path": "font_matching1/RopaSans-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "RopaSans-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Rosario-Bold_0.png",
+        "path": "font_matching1/Rosario-Bold_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Rosario-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Rosarivo-Italic_2.png",
+        "path": "font_matching1/Rosarivo-Italic_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Rosarivo-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Sacramento-Regular_4.png",
+        "path": "font_matching1/Sacramento-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Sacramento-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Satisfy_6.png",
+        "path": "font_matching1/Satisfy_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Satisfy"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Sedan-Italic_2.png",
+        "path": "font_matching1/Sedan-Italic_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Sedan-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Sevillana-Regular_0.png",
+        "path": "font_matching1/Sevillana-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Sevillana-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Share-BoldItalicOSF_4.png",
+        "path": "font_matching1/Share-BoldItalicOSF_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Share-BoldItalicOSF"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Share-BoldOSF_4.png",
+        "path": "font_matching1/Share-BoldOSF_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Share-BoldOSF"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "ShareTech-Regular_6.png",
+        "path": "font_matching1/ShareTech-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "ShareTech-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "SigmarOne_3.png",
+        "path": "font_matching1/SigmarOne_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "SigmarOne"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Signika-Light_3.png",
+        "path": "font_matching1/Signika-Light_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Signika-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Signika-Semibold_3.png",
+        "path": "font_matching1/Signika-Semibold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Signika-Semibold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Simonetta-Black_8.png",
+        "path": "font_matching1/Simonetta-Black_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Simonetta-Black"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Slackey_6.png",
+        "path": "font_matching1/Slackey_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Slackey"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Smokum-Regular_0.png",
+        "path": "font_matching1/Smokum-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Smokum-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "SonsieOne-Regular_7.png",
+        "path": "font_matching1/SonsieOne-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "SonsieOne-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "SourceCodePro-Black_1.png",
+        "path": "font_matching1/SourceCodePro-Black_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "SourceCodePro-Black"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "SourceCodePro-ExtraLight_6.png",
+        "path": "font_matching1/SourceCodePro-ExtraLight_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "SourceCodePro-ExtraLight"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "SourceCodePro-Light_0.png",
+        "path": "font_matching1/SourceCodePro-Light_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "SourceCodePro-Light"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "SourceSansPro-LightIt_8.png",
+        "path": "font_matching1/SourceSansPro-LightIt_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "SourceSansPro-LightIt"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "SourceSansPro-Semibold_3.png",
+        "path": "font_matching1/SourceSansPro-Semibold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "SourceSansPro-Semibold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "StardosStencil-Bold_6.png",
+        "path": "font_matching1/StardosStencil-Bold_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "StardosStencil-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Strait-Regular_7.png",
+        "path": "font_matching1/Strait-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Strait-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Syncopate-Bold_4.png",
+        "path": "font_matching1/Syncopate-Bold_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Syncopate-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Telex-Regular_6.png",
+        "path": "font_matching1/Telex-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Telex-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "TenorSans_1.png",
+        "path": "font_matching1/TenorSans_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "TenorSans"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Thabit_7.png",
+        "path": "font_matching1/Thabit_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Thabit"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Tinos-Bold_3.png",
+        "path": "font_matching1/Tinos-Bold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Tinos-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Tinos_3.png",
+        "path": "font_matching1/Tinos_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Tinos"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "TitanOne_5.png",
+        "path": "font_matching1/TitanOne_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "TitanOne"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "TitilliumWeb-Black_2.png",
+        "path": "font_matching1/TitilliumWeb-Black_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "TitilliumWeb-Black"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "TitilliumWeb-ThinItalic_0.png",
+        "path": "font_matching1/TitilliumWeb-ThinItalic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "TitilliumWeb-ThinItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Trochut-Italic_6.png",
+        "path": "font_matching1/Trochut-Italic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Trochut-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Trochut_4.png",
+        "path": "font_matching1/Trochut_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Trochut"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Tuffy-BoldItalic_3.png",
+        "path": "font_matching1/Tuffy-BoldItalic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Tuffy-BoldItalic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Tulpen_6.png",
+        "path": "font_matching1/Tulpen_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Tulpen"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Ubuntu-Italic_8.png",
+        "path": "font_matching1/Ubuntu-Italic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Ubuntu-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "UbuntuCondensed-Regular_0.png",
+        "path": "font_matching1/UbuntuCondensed-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "UbuntuCondensed-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "UbuntuMono-Bold_4.png",
+        "path": "font_matching1/UbuntuMono-Bold_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "UbuntuMono-Bold"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "UbuntuMono-Italic_5.png",
+        "path": "font_matching1/UbuntuMono-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "UbuntuMono-Italic"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Voltaire_7.png",
+        "path": "font_matching1/Voltaire_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Voltaire"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "Wellfleet-Regular_4.png",
+        "path": "font_matching1/Wellfleet-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Wellfleet-Regular"
+    },
+    {
+        "task": "font matching 1",
+        "subtask": "",
+        "name": "YanoneTagesschrift_1.png",
+        "path": "font_matching1/YanoneTagesschrift_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "YanoneTagesschrift"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Acme-Regular_1.png",
+        "path": "font_matching2/Acme-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Acme-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "AdventPro-SemiBold_8.png",
+        "path": "font_matching2/AdventPro-SemiBold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "AdventPro-SemiBold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Aldrich_4.png",
+        "path": "font_matching2/Aldrich_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Aldrich"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Alegreya-BoldItalic_7.png",
+        "path": "font_matching2/Alegreya-BoldItalic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Alegreya-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "AllertaStencil-Regular_4.png",
+        "path": "font_matching2/AllertaStencil-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "AllertaStencil-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Amethysta-Regular_2.png",
+        "path": "font_matching2/Amethysta-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Amethysta-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Andada-Bold_0.png",
+        "path": "font_matching2/Andada-Bold_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Andada-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Andada-Italic_8.png",
+        "path": "font_matching2/Andada-Italic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Andada-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "AndadaSC-Bold_7.png",
+        "path": "font_matching2/AndadaSC-Bold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "AndadaSC-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "AnonymousPro_2.png",
+        "path": "font_matching2/AnonymousPro_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "AnonymousPro"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "ArchivoNarrow-Regular_3.png",
+        "path": "font_matching2/ArchivoNarrow-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "ArchivoNarrow-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "ArialRoundedMTBold_5.png",
+        "path": "font_matching2/ArialRoundedMTBold_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "ArialRoundedMTBold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "ArialUnicodeMS_0.png",
+        "path": "font_matching2/ArialUnicodeMS_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "ArialUnicodeMS"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Arimo-BoldItalic_8.png",
+        "path": "font_matching2/Arimo-BoldItalic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Arimo-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Arimo-Bold_2.png",
+        "path": "font_matching2/Arimo-Bold_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Arimo-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Arizonia-Regular_1.png",
+        "path": "font_matching2/Arizonia-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Arizonia-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "ARSMaquetteWebOne_4.png",
+        "path": "font_matching2/ARSMaquetteWebOne_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "ARSMaquetteWebOne"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Arvo-BoldItalic_0.png",
+        "path": "font_matching2/Arvo-BoldItalic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Arvo-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Arvo-Bold_4.png",
+        "path": "font_matching2/Arvo-Bold_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Arvo-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Arvo-Italic_1.png",
+        "path": "font_matching2/Arvo-Italic_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Arvo-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Asap-Regular_5.png",
+        "path": "font_matching2/Asap-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Asap-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Asset_7.png",
+        "path": "font_matching2/Asset_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Asset"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Astloch-Bold_5.png",
+        "path": "font_matching2/Astloch-Bold_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Astloch-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "AveriaLibre-LightItalic_8.png",
+        "path": "font_matching2/AveriaLibre-LightItalic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "AveriaLibre-LightItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "AveriaSansLibre-Italic_4.png",
+        "path": "font_matching2/AveriaSansLibre-Italic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "AveriaSansLibre-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "AveriaSerifLibre-Italic_7.png",
+        "path": "font_matching2/AveriaSerifLibre-Italic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "AveriaSerifLibre-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "BadScript-Regular_2.png",
+        "path": "font_matching2/BadScript-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "BadScript-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Bello-Pro_1.png",
+        "path": "font_matching2/Bello-Pro_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Bello-Pro"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "BenchNine-Regular_3.png",
+        "path": "font_matching2/BenchNine-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "BenchNine-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Bentham-Regular_3.png",
+        "path": "font_matching2/Bentham-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Bentham-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Bevan_7.png",
+        "path": "font_matching2/Bevan_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Bevan"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "BilboSwashCaps-Regular_8.png",
+        "path": "font_matching2/BilboSwashCaps-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "BilboSwashCaps-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "BlackOpsOne-Regular_5.png",
+        "path": "font_matching2/BlackOpsOne-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "BlackOpsOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "BowlbyOneSC-Regular_7.png",
+        "path": "font_matching2/BowlbyOneSC-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "BowlbyOneSC-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Brevia-Regular_0.png",
+        "path": "font_matching2/Brevia-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Brevia-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "BubblerOne_1.png",
+        "path": "font_matching2/BubblerOne_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "BubblerOne"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Buenard-Bold_1.png",
+        "path": "font_matching2/Buenard-Bold_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Buenard-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Cabin-SemiBoldItalic_6.png",
+        "path": "font_matching2/Cabin-SemiBoldItalic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Cabin-SemiBoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "CabinCondensed-Medium_4.png",
+        "path": "font_matching2/CabinCondensed-Medium_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "CabinCondensed-Medium"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "CabinCondensed_3.png",
+        "path": "font_matching2/CabinCondensed_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "CabinCondensed"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Calluna-Regular_3.png",
+        "path": "font_matching2/Calluna-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Calluna-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Cantarell-BoldOblique_0.png",
+        "path": "font_matching2/Cantarell-BoldOblique_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Cantarell-BoldOblique"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "CantoraOne-Regular_4.png",
+        "path": "font_matching2/CantoraOne-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "CantoraOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Cardo-Italic_6.png",
+        "path": "font_matching2/Cardo-Italic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Cardo-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "CenturyGothic_8.png",
+        "path": "font_matching2/CenturyGothic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "CenturyGothic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Chivo-Italic_2.png",
+        "path": "font_matching2/Chivo-Italic_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Chivo-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "ClickerScript-Regular_8.png",
+        "path": "font_matching2/ClickerScript-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "ClickerScript-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "CrimsonText-BoldItalic_1.png",
+        "path": "font_matching2/CrimsonText-BoldItalic_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "CrimsonText-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "CrimsonText-Semibold_8.png",
+        "path": "font_matching2/CrimsonText-Semibold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "CrimsonText-Semibold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Damion_4.png",
+        "path": "font_matching2/Damion_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Damion"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Dosis-Light_6.png",
+        "path": "font_matching2/Dosis-Light_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Dosis-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "EagleLake-Regular_4.png",
+        "path": "font_matching2/EagleLake-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "EagleLake-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Economica-Italic_5.png",
+        "path": "font_matching2/Economica-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Economica-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "EmblemaOne-Regular_1.png",
+        "path": "font_matching2/EmblemaOne-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "EmblemaOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Enriqueta-Regular_0.png",
+        "path": "font_matching2/Enriqueta-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Enriqueta-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "FanwoodText-Italic_7.png",
+        "path": "font_matching2/FanwoodText-Italic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "FanwoodText-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Fenix_3.png",
+        "path": "font_matching2/Fenix_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Fenix"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "FingerPaint_1.png",
+        "path": "font_matching2/FingerPaint_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "FingerPaint"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "FrancoisOne-Regular_4.png",
+        "path": "font_matching2/FrancoisOne-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "FrancoisOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "FredokaOne-Regular_1.png",
+        "path": "font_matching2/FredokaOne-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "FredokaOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Frijole_2.png",
+        "path": "font_matching2/Frijole_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Frijole"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Futura-Medium_3.png",
+        "path": "font_matching2/Futura-Medium_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Futura-Medium"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GEInspira_5.png",
+        "path": "font_matching2/GEInspira_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "GEInspira"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GentiumBasic-BoldItalic_2.png",
+        "path": "font_matching2/GentiumBasic-BoldItalic_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "GentiumBasic-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GentiumBasic-Bold_7.png",
+        "path": "font_matching2/GentiumBasic-Bold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "GentiumBasic-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GentiumBasic_0.png",
+        "path": "font_matching2/GentiumBasic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "GentiumBasic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GFSDidot-Regular_4.png",
+        "path": "font_matching2/GFSDidot-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "GFSDidot-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GFSNeohellenic-Italic_5.png",
+        "path": "font_matching2/GFSNeohellenic-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "GFSNeohellenic-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GillSansStd-BoldItalic_8.png",
+        "path": "font_matching2/GillSansStd-BoldItalic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "GillSansStd-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GillSansStd-Bold_1.png",
+        "path": "font_matching2/GillSansStd-Bold_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "GillSansStd-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GillSansStd_4.png",
+        "path": "font_matching2/GillSansStd_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "GillSansStd"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GoudyBookletter1911_8.png",
+        "path": "font_matching2/GoudyBookletter1911_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "GoudyBookletter1911"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "GreatVibes-Regular_2.png",
+        "path": "font_matching2/GreatVibes-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "GreatVibes-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "HeadlandOne-Regular_0.png",
+        "path": "font_matching2/HeadlandOne-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "HeadlandOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "HoeflerText-Regular_8.png",
+        "path": "font_matching2/HoeflerText-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "HoeflerText-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Iceland-Regular_2.png",
+        "path": "font_matching2/Iceland-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Iceland-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "IM_FELL_English_Roman_0.png",
+        "path": "font_matching2/IM_FELL_English_Roman_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "IM"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "IM_FELL_French_Canon_Roman_8.png",
+        "path": "font_matching2/IM_FELL_French_Canon_Roman_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "IM"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Inconsolata-Regular_6.png",
+        "path": "font_matching2/Inconsolata-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Inconsolata-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "IstokWeb-Bold_8.png",
+        "path": "font_matching2/IstokWeb-Bold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "IstokWeb-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "JosefinSans-SemiBoldItalic_4.png",
+        "path": "font_matching2/JosefinSans-SemiBoldItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "JosefinSans-SemiBoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Julee-Regular_3.png",
+        "path": "font_matching2/Julee-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Julee-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Jura-Light_3.png",
+        "path": "font_matching2/Jura-Light_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Jura-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "JustAnotherHand-Regular_7.png",
+        "path": "font_matching2/JustAnotherHand-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "JustAnotherHand-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "KellySlab-Regular_4.png",
+        "path": "font_matching2/KellySlab-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "KellySlab-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Kenia-Regular_2.png",
+        "path": "font_matching2/Kenia-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Kenia-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Lato-BlackItalic_2.png",
+        "path": "font_matching2/Lato-BlackItalic_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Lato-BlackItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Lato-BoldItalic_6.png",
+        "path": "font_matching2/Lato-BoldItalic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Lato-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Lato-Italic_4.png",
+        "path": "font_matching2/Lato-Italic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Lato-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "LeagueGothic_0.png",
+        "path": "font_matching2/LeagueGothic_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "LeagueGothic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Lekton-Italic_6.png",
+        "path": "font_matching2/Lekton-Italic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Lekton-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "LifeSavers-Bold_1.png",
+        "path": "font_matching2/LifeSavers-Bold_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "LifeSavers-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "LobsterTwo-Italic_3.png",
+        "path": "font_matching2/LobsterTwo-Italic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "LobsterTwo-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Lobster_2.png",
+        "path": "font_matching2/Lobster_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Lobster"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Lora-BoldItalic_7.png",
+        "path": "font_matching2/Lora-BoldItalic_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Lora-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "LucidaSansStd_4.png",
+        "path": "font_matching2/LucidaSansStd_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "LucidaSansStd"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Magra-Bold_6.png",
+        "path": "font_matching2/Magra-Bold_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Magra-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "MarckScript-Regular_1.png",
+        "path": "font_matching2/MarckScript-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "MarckScript-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Marvel-BoldItalic_6.png",
+        "path": "font_matching2/Marvel-BoldItalic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Marvel-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Marvel-Bold_1.png",
+        "path": "font_matching2/Marvel-Bold_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Marvel-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "MavenProBlack_2.png",
+        "path": "font_matching2/MavenProBlack_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "MavenProBlack"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Megrim_7.png",
+        "path": "font_matching2/Megrim_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Megrim"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "MergeOne-Regular_1.png",
+        "path": "font_matching2/MergeOne-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "MergeOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Merriweather-Bold_4.png",
+        "path": "font_matching2/Merriweather-Bold_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Merriweather-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Merriweather_4.png",
+        "path": "font_matching2/Merriweather_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Merriweather"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "MervaleScript-Regular_0.png",
+        "path": "font_matching2/MervaleScript-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "MervaleScript-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Milonga-Regular_1.png",
+        "path": "font_matching2/Milonga-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Milonga-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "ModernAntiqua-Regular_7.png",
+        "path": "font_matching2/ModernAntiqua-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "ModernAntiqua-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Montez-Regular_0.png",
+        "path": "font_matching2/Montez-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Montez-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Muli-Light_8.png",
+        "path": "font_matching2/Muli-Light_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Muli-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Muli_7.png",
+        "path": "font_matching2/Muli_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Muli"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "NanumGothicCoding-Bold_8.png",
+        "path": "font_matching2/NanumGothicCoding-Bold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "NanumGothicCoding-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Neuton-Light_1.png",
+        "path": "font_matching2/Neuton-Light_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Neuton-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Niconne-Regular_2.png",
+        "path": "font_matching2/Niconne-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Niconne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Nobile-MediumItalic_4.png",
+        "path": "font_matching2/Nobile-MediumItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Nobile-MediumItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Nobile-Medium_0.png",
+        "path": "font_matching2/Nobile-Medium_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Nobile-Medium"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "NovaRound_1.png",
+        "path": "font_matching2/NovaRound_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "NovaRound"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "OFLGoudyStMTT_1.png",
+        "path": "font_matching2/OFLGoudyStMTT_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "OFLGoudyStMTT"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Oldenburg-Regular_4.png",
+        "path": "font_matching2/Oldenburg-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Oldenburg-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "OldStandardTT-Regular_0.png",
+        "path": "font_matching2/OldStandardTT-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "OldStandardTT-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "OpenSans-CondensedLight_3.png",
+        "path": "font_matching2/OpenSans-CondensedLight_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "OpenSans-CondensedLight"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Oranienbaum-Regular_3.png",
+        "path": "font_matching2/Oranienbaum-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Oranienbaum-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Orbitron-Black_3.png",
+        "path": "font_matching2/Orbitron-Black_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Orbitron-Black"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Orbitron-Medium_2.png",
+        "path": "font_matching2/Orbitron-Medium_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Orbitron-Medium"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "OriginalSurfer-Regular_0.png",
+        "path": "font_matching2/OriginalSurfer-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "OriginalSurfer-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Oswald-Bold_0.png",
+        "path": "font_matching2/Oswald-Bold_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Oswald-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Oswald-Regular_0.png",
+        "path": "font_matching2/Oswald-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Oswald-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Overlock-Italic_4.png",
+        "path": "font_matching2/Overlock-Italic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Overlock-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Palatino-Roman_8.png",
+        "path": "font_matching2/Palatino-Roman_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Palatino-Roman"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Paprika-Regular_8.png",
+        "path": "font_matching2/Paprika-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Paprika-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Parisienne-Regular_3.png",
+        "path": "font_matching2/Parisienne-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Parisienne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "PasseroOne-Regular_8.png",
+        "path": "font_matching2/PasseroOne-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "PasseroOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Philosopher_1.png",
+        "path": "font_matching2/Philosopher_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Philosopher"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "PlayfairDisplay-Black_8.png",
+        "path": "font_matching2/PlayfairDisplay-Black_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "PlayfairDisplay-Black"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "PlayfairDisplay-Italic_3.png",
+        "path": "font_matching2/PlayfairDisplay-Italic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "PlayfairDisplay-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "PlayfairDisplaySC-BoldItalic_4.png",
+        "path": "font_matching2/PlayfairDisplaySC-BoldItalic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "PlayfairDisplaySC-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "PressStart2P-Regular_3.png",
+        "path": "font_matching2/PressStart2P-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "PressStart2P-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "PTSans-Caption_6.png",
+        "path": "font_matching2/PTSans-Caption_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "PTSans-Caption"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "PTSerif-BoldItalic_8.png",
+        "path": "font_matching2/PTSerif-BoldItalic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "PTSerif-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Puritan-Bold_4.png",
+        "path": "font_matching2/Puritan-Bold_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Puritan-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "QuattrocentoSans-Italic_8.png",
+        "path": "font_matching2/QuattrocentoSans-Italic_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "QuattrocentoSans-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "RacingSansOne-Regular_3.png",
+        "path": "font_matching2/RacingSansOne-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "RacingSansOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Raleway-Bold_5.png",
+        "path": "font_matching2/Raleway-Bold_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Raleway-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Raleway-SemiBold_3.png",
+        "path": "font_matching2/Raleway-SemiBold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Raleway-SemiBold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Rambla-Regular_2.png",
+        "path": "font_matching2/Rambla-Regular_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Rambla-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Ranchers-Regular_8.png",
+        "path": "font_matching2/Ranchers-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Ranchers-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Rationale-Regular_6.png",
+        "path": "font_matching2/Rationale-Regular_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Rationale-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Redressed_2.png",
+        "path": "font_matching2/Redressed_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Redressed"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Roboto-Black_3.png",
+        "path": "font_matching2/Roboto-Black_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Roboto-Black"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Roboto-Light_3.png",
+        "path": "font_matching2/Roboto-Light_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Roboto-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Roboto-MediumItalic_5.png",
+        "path": "font_matching2/Roboto-MediumItalic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Roboto-MediumItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Roboto-Regular_3.png",
+        "path": "font_matching2/Roboto-Regular_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Roboto-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "RobotoCondensed-Light_6.png",
+        "path": "font_matching2/RobotoCondensed-Light_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "RobotoCondensed-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "RobotoCondensed-Regular_1.png",
+        "path": "font_matching2/RobotoCondensed-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "RobotoCondensed-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Rokkitt-Light_1.png",
+        "path": "font_matching2/Rokkitt-Light_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Rokkitt-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Rokkitt_0.png",
+        "path": "font_matching2/Rokkitt_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Rokkitt"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "RopaSans-Regular_7.png",
+        "path": "font_matching2/RopaSans-Regular_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "RopaSans-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Rosario-Bold_7.png",
+        "path": "font_matching2/Rosario-Bold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Rosario-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Rosarivo-Italic_3.png",
+        "path": "font_matching2/Rosarivo-Italic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Rosarivo-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Sacramento-Regular_1.png",
+        "path": "font_matching2/Sacramento-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Sacramento-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Satisfy_8.png",
+        "path": "font_matching2/Satisfy_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Satisfy"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Sedan-Italic_4.png",
+        "path": "font_matching2/Sedan-Italic_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Sedan-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Sevillana-Regular_0.png",
+        "path": "font_matching2/Sevillana-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Sevillana-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Share-BoldItalicOSF_7.png",
+        "path": "font_matching2/Share-BoldItalicOSF_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Share-BoldItalicOSF"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Share-BoldOSF_7.png",
+        "path": "font_matching2/Share-BoldOSF_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "Share-BoldOSF"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "ShareTech-Regular_1.png",
+        "path": "font_matching2/ShareTech-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "ShareTech-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "SigmarOne_4.png",
+        "path": "font_matching2/SigmarOne_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "SigmarOne"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Signika-Light_2.png",
+        "path": "font_matching2/Signika-Light_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Signika-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Signika-Semibold_3.png",
+        "path": "font_matching2/Signika-Semibold_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "Signika-Semibold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Simonetta-Black_6.png",
+        "path": "font_matching2/Simonetta-Black_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Simonetta-Black"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Slackey_2.png",
+        "path": "font_matching2/Slackey_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "Slackey"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Smokum-Regular_5.png",
+        "path": "font_matching2/Smokum-Regular_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Smokum-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "SonsieOne-Regular_8.png",
+        "path": "font_matching2/SonsieOne-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "SonsieOne-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "SourceCodePro-Black_3.png",
+        "path": "font_matching2/SourceCodePro-Black_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "SourceCodePro-Black"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "SourceCodePro-ExtraLight_5.png",
+        "path": "font_matching2/SourceCodePro-ExtraLight_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "SourceCodePro-ExtraLight"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "SourceCodePro-Light_0.png",
+        "path": "font_matching2/SourceCodePro-Light_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "SourceCodePro-Light"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "SourceSansPro-LightIt_0.png",
+        "path": "font_matching2/SourceSansPro-LightIt_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "SourceSansPro-LightIt"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "SourceSansPro-Semibold_5.png",
+        "path": "font_matching2/SourceSansPro-Semibold_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "SourceSansPro-Semibold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "StardosStencil-Bold_1.png",
+        "path": "font_matching2/StardosStencil-Bold_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "StardosStencil-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Strait-Regular_0.png",
+        "path": "font_matching2/Strait-Regular_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Strait-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Syncopate-Bold_1.png",
+        "path": "font_matching2/Syncopate-Bold_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Syncopate-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Telex-Regular_1.png",
+        "path": "font_matching2/Telex-Regular_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Telex-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "TenorSans_1.png",
+        "path": "font_matching2/TenorSans_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "TenorSans"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Thabit_6.png",
+        "path": "font_matching2/Thabit_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Thabit"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Tinos-Bold_8.png",
+        "path": "font_matching2/Tinos-Bold_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "Tinos-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Tinos_6.png",
+        "path": "font_matching2/Tinos_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Tinos"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "TitanOne_2.png",
+        "path": "font_matching2/TitanOne_2.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "C",
+        "font": "TitanOne"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "TitilliumWeb-Black_3.png",
+        "path": "font_matching2/TitilliumWeb-Black_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "TitilliumWeb-Black"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "TitilliumWeb-ThinItalic_3.png",
+        "path": "font_matching2/TitilliumWeb-ThinItalic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "TitilliumWeb-ThinItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Trochut-Italic_6.png",
+        "path": "font_matching2/Trochut-Italic_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Trochut-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Trochut_0.png",
+        "path": "font_matching2/Trochut_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Trochut"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Tuffy-BoldItalic_1.png",
+        "path": "font_matching2/Tuffy-BoldItalic_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "Tuffy-BoldItalic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Tulpen_0.png",
+        "path": "font_matching2/Tulpen_0.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "A",
+        "font": "Tulpen"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Ubuntu-Italic_5.png",
+        "path": "font_matching2/Ubuntu-Italic_5.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "F",
+        "font": "Ubuntu-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "UbuntuCondensed-Regular_8.png",
+        "path": "font_matching2/UbuntuCondensed-Regular_8.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "I",
+        "font": "UbuntuCondensed-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "UbuntuMono-Bold_7.png",
+        "path": "font_matching2/UbuntuMono-Bold_7.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "H",
+        "font": "UbuntuMono-Bold"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "UbuntuMono-Italic_3.png",
+        "path": "font_matching2/UbuntuMono-Italic_3.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "D",
+        "font": "UbuntuMono-Italic"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Voltaire_6.png",
+        "path": "font_matching2/Voltaire_6.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "G",
+        "font": "Voltaire"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "Wellfleet-Regular_4.png",
+        "path": "font_matching2/Wellfleet-Regular_4.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "E",
+        "font": "Wellfleet-Regular"
+    },
+    {
+        "task": "font matching 2",
+        "subtask": "",
+        "name": "YanoneTagesschrift_1.png",
+        "path": "font_matching2/YanoneTagesschrift_1.png",
+        "prompt": "From the nine options (A–I), select the one that matches the font of the target text. Please output a single answer letter directly, without any other explanation or output",
+        "gt": "B",
+        "font": "YanoneTagesschrift"
+    }
+]
