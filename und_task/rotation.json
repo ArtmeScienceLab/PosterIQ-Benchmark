@@ -1,0 +1,3619 @@
+[
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_-15_r_.png",
+        "path": "rotation/000_-15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_-15_r_c_.png",
+        "path": "rotation/000_-15_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_-30_c_.png",
+        "path": "rotation/000_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_-30_c_l_.png",
+        "path": "rotation/000_-30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_0_l_.png",
+        "path": "rotation/000_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_0_l_c_.png",
+        "path": "rotation/000_0_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_15_r_.png",
+        "path": "rotation/000_15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_15_r_l_.png",
+        "path": "rotation/000_15_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_30_c_.png",
+        "path": "rotation/000_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "000_30_c_l_.png",
+        "path": "rotation/000_30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_-15_r_.png",
+        "path": "rotation/001_-15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_-15_r_l_.png",
+        "path": "rotation/001_-15_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_-30_r_.png",
+        "path": "rotation/001_-30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_-30_r_l_.png",
+        "path": "rotation/001_-30_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_0_r_.png",
+        "path": "rotation/001_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_0_r_l_.png",
+        "path": "rotation/001_0_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_15_r_.png",
+        "path": "rotation/001_15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_15_r_c_.png",
+        "path": "rotation/001_15_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_30_r_.png",
+        "path": "rotation/001_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "001_30_r_c_.png",
+        "path": "rotation/001_30_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "002_-30_l_.png",
+        "path": "rotation/002_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "002_-30_l_l_.png",
+        "path": "rotation/002_-30_l_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "002_0_c_.png",
+        "path": "rotation/002_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "002_0_c_c_.png",
+        "path": "rotation/002_0_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "002_15_r_.png",
+        "path": "rotation/002_15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "002_15_r_r_.png",
+        "path": "rotation/002_15_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "002_30_l_.png",
+        "path": "rotation/002_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_-15_r_.png",
+        "path": "rotation/003_-15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_-15_r_r_.png",
+        "path": "rotation/003_-15_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_-30_l_.png",
+        "path": "rotation/003_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_0_l_.png",
+        "path": "rotation/003_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_0_l_r_.png",
+        "path": "rotation/003_0_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_15_c_.png",
+        "path": "rotation/003_15_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_15_c_l_.png",
+        "path": "rotation/003_15_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_30_c_.png",
+        "path": "rotation/003_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "003_30_c_l_.png",
+        "path": "rotation/003_30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_-15_r_.png",
+        "path": "rotation/004_-15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_-15_r_l_.png",
+        "path": "rotation/004_-15_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_-30_c_.png",
+        "path": "rotation/004_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_-30_c_c_.png",
+        "path": "rotation/004_-30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_0_r_.png",
+        "path": "rotation/004_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_0_r_c_.png",
+        "path": "rotation/004_0_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_15_c_.png",
+        "path": "rotation/004_15_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_15_c_c_.png",
+        "path": "rotation/004_15_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_30_c_.png",
+        "path": "rotation/004_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "004_30_c_r_.png",
+        "path": "rotation/004_30_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_-15_l_.png",
+        "path": "rotation/005_-15_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_-15_l_c_.png",
+        "path": "rotation/005_-15_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_-30_c_.png",
+        "path": "rotation/005_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_-30_c_l_.png",
+        "path": "rotation/005_-30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_0_c_.png",
+        "path": "rotation/005_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_0_c_r_.png",
+        "path": "rotation/005_0_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_15_c_.png",
+        "path": "rotation/005_15_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_15_c_r_.png",
+        "path": "rotation/005_15_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_30_r_.png",
+        "path": "rotation/005_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "005_30_r_c_.png",
+        "path": "rotation/005_30_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_-15_c_.png",
+        "path": "rotation/006_-15_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_-15_c_l_.png",
+        "path": "rotation/006_-15_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_-30_c_.png",
+        "path": "rotation/006_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_0_l_.png",
+        "path": "rotation/006_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_0_l_c_.png",
+        "path": "rotation/006_0_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_15_r_.png",
+        "path": "rotation/006_15_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_15_r_c_.png",
+        "path": "rotation/006_15_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_30_c_.png",
+        "path": "rotation/006_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "006_30_c_c_.png",
+        "path": "rotation/006_30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_-15_c_.png",
+        "path": "rotation/007_-15_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_-15_c_l_.png",
+        "path": "rotation/007_-15_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_-30_c_.png",
+        "path": "rotation/007_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_0_c_.png",
+        "path": "rotation/007_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_0_c_c_.png",
+        "path": "rotation/007_0_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_15_l_.png",
+        "path": "rotation/007_15_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_15_l_l_.png",
+        "path": "rotation/007_15_l_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_30_c_.png",
+        "path": "rotation/007_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "007_30_c_c_.png",
+        "path": "rotation/007_30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_-15_c_.png",
+        "path": "rotation/008_-15_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_-30_l_.png",
+        "path": "rotation/008_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_-30_l_r_.png",
+        "path": "rotation/008_-30_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_0_r_.png",
+        "path": "rotation/008_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_0_r_l_.png",
+        "path": "rotation/008_0_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_15_l_.png",
+        "path": "rotation/008_15_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_15_l_l_.png",
+        "path": "rotation/008_15_l_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_30_c_.png",
+        "path": "rotation/008_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "008_30_c_c_.png",
+        "path": "rotation/008_30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_-15_l_.png",
+        "path": "rotation/009_-15_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_-15_l_r_.png",
+        "path": "rotation/009_-15_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_-30_l_.png",
+        "path": "rotation/009_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_-30_l_c_.png",
+        "path": "rotation/009_-30_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_0_l_.png",
+        "path": "rotation/009_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_0_l_c_.png",
+        "path": "rotation/009_0_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_15_l_.png",
+        "path": "rotation/009_15_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_15_l_r_.png",
+        "path": "rotation/009_15_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_30_l_.png",
+        "path": "rotation/009_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "009_30_l_r_.png",
+        "path": "rotation/009_30_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "010_-30_c_.png",
+        "path": "rotation/010_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "010_-30_c_c_.png",
+        "path": "rotation/010_-30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "010_0_c_.png",
+        "path": "rotation/010_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "010_0_c_r_.png",
+        "path": "rotation/010_0_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "010_30_r_.png",
+        "path": "rotation/010_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "010_30_r_r_.png",
+        "path": "rotation/010_30_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "011_-30_l_.png",
+        "path": "rotation/011_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "011_-30_l_r_.png",
+        "path": "rotation/011_-30_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "011_0_r_.png",
+        "path": "rotation/011_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "011_0_r_l_.png",
+        "path": "rotation/011_0_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "011_30_l_.png",
+        "path": "rotation/011_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "011_30_l_c_.png",
+        "path": "rotation/011_30_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "012_-30_l_.png",
+        "path": "rotation/012_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "012_-30_l_c_.png",
+        "path": "rotation/012_-30_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "012_0_r_.png",
+        "path": "rotation/012_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "012_0_r_r_.png",
+        "path": "rotation/012_0_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "012_30_c_.png",
+        "path": "rotation/012_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "012_30_c_r_.png",
+        "path": "rotation/012_30_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "013_-30_l_.png",
+        "path": "rotation/013_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "013_-30_l_l_.png",
+        "path": "rotation/013_-30_l_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "013_0_l_.png",
+        "path": "rotation/013_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "013_0_l_c_.png",
+        "path": "rotation/013_0_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "013_30_r_.png",
+        "path": "rotation/013_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "013_30_r_l_.png",
+        "path": "rotation/013_30_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "014_-30_l_.png",
+        "path": "rotation/014_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "014_0_r_.png",
+        "path": "rotation/014_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "014_0_r_l_.png",
+        "path": "rotation/014_0_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "014_30_r_.png",
+        "path": "rotation/014_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "014_30_r_c_.png",
+        "path": "rotation/014_30_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "015_-30_c_.png",
+        "path": "rotation/015_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "015_-30_c_l_.png",
+        "path": "rotation/015_-30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "015_0_l_.png",
+        "path": "rotation/015_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "015_0_l_r_.png",
+        "path": "rotation/015_0_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "015_30_r_.png",
+        "path": "rotation/015_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "015_30_r_c_.png",
+        "path": "rotation/015_30_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "016_-30_c_.png",
+        "path": "rotation/016_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "016_-30_c_r_.png",
+        "path": "rotation/016_-30_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "016_0_r_.png",
+        "path": "rotation/016_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "016_0_r_l_.png",
+        "path": "rotation/016_0_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "016_30_c_.png",
+        "path": "rotation/016_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "016_30_c_r_.png",
+        "path": "rotation/016_30_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "017_-30_c_.png",
+        "path": "rotation/017_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "017_-30_c_l_.png",
+        "path": "rotation/017_-30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "017_0_c_.png",
+        "path": "rotation/017_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "017_0_c_c_.png",
+        "path": "rotation/017_0_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "017_30_c_.png",
+        "path": "rotation/017_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "017_30_c_l_.png",
+        "path": "rotation/017_30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "018_-30_l_.png",
+        "path": "rotation/018_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "018_-30_l_c_.png",
+        "path": "rotation/018_-30_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "018_0_c_.png",
+        "path": "rotation/018_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "018_0_c_c_.png",
+        "path": "rotation/018_0_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "018_30_l_.png",
+        "path": "rotation/018_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "018_30_l_c_.png",
+        "path": "rotation/018_30_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "019_-30_c_.png",
+        "path": "rotation/019_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "019_-30_c_c_.png",
+        "path": "rotation/019_-30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "019_0_c_.png",
+        "path": "rotation/019_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "019_0_c_c_.png",
+        "path": "rotation/019_0_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "019_30_l_.png",
+        "path": "rotation/019_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "019_30_l_l_.png",
+        "path": "rotation/019_30_l_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "020_-30_c_.png",
+        "path": "rotation/020_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "020_-30_c_l_.png",
+        "path": "rotation/020_-30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "020_0_r_.png",
+        "path": "rotation/020_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "020_0_r_c_.png",
+        "path": "rotation/020_0_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "020_30_r_.png",
+        "path": "rotation/020_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "020_30_r_l_.png",
+        "path": "rotation/020_30_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "021_-30_c_.png",
+        "path": "rotation/021_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "021_-30_c_r_.png",
+        "path": "rotation/021_-30_c_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "021_0_c_.png",
+        "path": "rotation/021_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "021_0_c_l_.png",
+        "path": "rotation/021_0_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "021_30_c_.png",
+        "path": "rotation/021_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "021_30_c_l_.png",
+        "path": "rotation/021_30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "022_-30_r_.png",
+        "path": "rotation/022_-30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "022_-30_r_c_.png",
+        "path": "rotation/022_-30_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "022_0_r_.png",
+        "path": "rotation/022_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "022_0_r_r_.png",
+        "path": "rotation/022_0_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "022_30_r_.png",
+        "path": "rotation/022_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "022_30_r_l_.png",
+        "path": "rotation/022_30_r_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "023_-30_l_.png",
+        "path": "rotation/023_-30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "023_0_r_.png",
+        "path": "rotation/023_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "023_0_r_r_.png",
+        "path": "rotation/023_0_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "023_30_r_.png",
+        "path": "rotation/023_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "023_30_r_c_.png",
+        "path": "rotation/023_30_r_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "024_-30_r_.png",
+        "path": "rotation/024_-30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "024_0_c_.png",
+        "path": "rotation/024_0_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "024_0_c_l_.png",
+        "path": "rotation/024_0_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "024_30_c_.png",
+        "path": "rotation/024_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "024_30_c_c_.png",
+        "path": "rotation/024_30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "025_-30_r_.png",
+        "path": "rotation/025_-30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "025_-30_r_r_.png",
+        "path": "rotation/025_-30_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "025_0_l_.png",
+        "path": "rotation/025_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "025_0_l_c_.png",
+        "path": "rotation/025_0_l_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "025_30_l_.png",
+        "path": "rotation/025_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "025_30_l_r_.png",
+        "path": "rotation/025_30_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "026_-30_c_.png",
+        "path": "rotation/026_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "026_0_l_.png",
+        "path": "rotation/026_0_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "026_0_l_r_.png",
+        "path": "rotation/026_0_l_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "left-aligned",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "026_30_r_.png",
+        "path": "rotation/026_30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "026_30_r_r_.png",
+        "path": "rotation/026_30_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "027_-30_c_.png",
+        "path": "rotation/027_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "027_0_r_.png",
+        "path": "rotation/027_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "027_0_r_r_.png",
+        "path": "rotation/027_0_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "027_30_c_.png",
+        "path": "rotation/027_30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "027_30_c_l_.png",
+        "path": "rotation/027_30_c_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned",
+            "center-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned",
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "028_-30_r_.png",
+        "path": "rotation/028_-30_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "028_0_r_.png",
+        "path": "rotation/028_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "028_0_r_r_.png",
+        "path": "rotation/028_0_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "028_30_l_.png",
+        "path": "rotation/028_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "029_-30_c_.png",
+        "path": "rotation/029_-30_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "029_-30_c_c_.png",
+        "path": "rotation/029_-30_c_c_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "clockwise rotation",
+            "center-aligned"
+        ],
+        "rotation": [
+            "clockwise rotation"
+        ],
+        "alignment": [
+            "center-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "029_0_r_.png",
+        "path": "rotation/029_0_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "029_0_r_r_.png",
+        "path": "rotation/029_0_r_r_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "no rotation",
+            "right-aligned"
+        ],
+        "rotation": [
+            "no rotation"
+        ],
+        "alignment": [
+            "right-aligned"
+        ]
+    },
+    {
+        "task": "rotation",
+        "subtask": "",
+        "name": "029_30_l_.png",
+        "path": "rotation/029_30_l_.png",
+        "prompt": "Please examine the orientation of the text in the image and choose one of the following rotation options: [clockwise rotation, no rotation, counterclockwise rotation]. If there is a rotation, the angle will not exceed 90 degrees. Please select the correct rotation direction.Then observe the text alignment and choose one or more of the following alignment options: [left-aligned, center-aligned, right-aligned]. Output only the answer in this format, without any additional explanation, for example: ['clockwise rotation', 'left-aligned', 'center-aligned']",
+        "gt": [
+            "counterclockwise rotation",
+            "left-aligned"
+        ],
+        "rotation": [
+            "counterclockwise rotation"
+        ],
+        "alignment": [
+            "left-aligned"
+        ]
+    }
+]
