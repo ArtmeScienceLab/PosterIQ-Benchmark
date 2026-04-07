@@ -6,3 +6,12 @@
 
 ![Page 1](./assets/PosterIQ.png)  
 
+## Citation
+
+```bibtex
+@inproceedings{cvpr2026posteriq,
+    title={PosterIQ: A Design Perspective Benchmark for Poster Understanding and Generation},
+    author={Feng, Yuheng and Zhang, Wen and Duan, Haodong and Zou, Xingxing},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2026}
+}
