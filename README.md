@@ -15,3 +15,12 @@
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year={2026}
 }
+```
+
+
+## Contact
+
+If you have any questions, suggestions, or run into any issues, please feel free to open an issue in this repository. 
+
+For other inquiries, you can contact me directly at:
+- **Yuheng Feng**: [bruce.feng@connect.polyu.hk]
